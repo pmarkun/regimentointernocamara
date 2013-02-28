@@ -1,7 +1,7 @@
 Institucional
 
   ------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------
-  [Regimento Interno](/index.php?option=com_content&view=article&id=7904:regimento-interno&catid=6:conheca-a-camara&Itemid=20)   [![Imprimir](/images/M_images/printButton.png)](#)
+  [Regimento Interno](/index.php?option=com_content&view=article&id=7904:regimento-interno&catid=6:conheca-a-camara&Itemid=20)
   ------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------
 
  
@@ -17,584 +17,42 @@ Institucional
 ### MEMBROS DA MESA
 
 PRESIDENTE ARNALDO DE ABREU MADEIRA  
- 1º VICE-PRESIDENTE JOSÉ ÍNDIO F. DO NASCIMENTO  
- 2º VICE-PRESIDENTE MÁRIO NODA  
- 1º SECRETÁRIO OSVALDO GIANNOTTI  
- 2º SECRETÁRIO AURELINO SOARES DE ANDRADE  
- 1º SUPLENTE JOSÉ VIVIANI FERRAZ  
- 2º SUPLENTE OSVALDO SANCHES
+1º VICE-PRESIDENTE JOSÉ ÍNDIO F. DO NASCIMENTO  
+2º VICE-PRESIDENTE MÁRIO NODA  
+1º SECRETÁRIO OSVALDO GIANNOTTI  
+2º SECRETÁRIO AURELINO SOARES DE ANDRADE  
+1º SUPLENTE JOSÉ VIVIANI FERRAZ  
+2º SUPLENTE OSVALDO SANCHES
 
-### COMISSÃO ESPECIAL
+### COMISSÃO ESPECIAL PARA REVISÃO DO REGIMENTO INTERNO
 
-### PARA REVISÃO DO REGIMENTO INTERNO
+PRESIDENTE ANTONIO SAMPAIO
 
-### PRESIDENTE ANTONIO SAMPAIO
+MEMBROS
+* ANTONIO CARLOS CARUSO
+* GABRIEL ORTEGA
+* MAURÍCIO FARIA
+* PEDRO DE ABREU DALLARI
 
-### MEMBROS ANTONIO CARLOS CARUSO GABRIEL ORTEGA MAURÍCIO FARIA
+SUPLENTES
 
-PEDRO DE ABREU DALLARI
+* AURELINO SOARES DE ANDRADE
+* JOSÉ ÍNDIO F. DO NASCIMENTO
+* JÚLIO CÉSAR CALIGIURI FILHO
+* VITAL NOLASCO
+* WALTER ABRAHÃO
 
-### SUPLENTES AURELINO SOARES DE ANDRADE JOSÉ ÍNDIO F. DO NASCIMENTO JÚLIO CÉSAR CALIGIURI FILHO VITAL NOLASCO
+AGRADECIMENTOS:
 
-WALTER ABRAHÃO
-
-### AGRADECIMENTOS: ARNALDO MADEIRA FRANCISCO WITAKER LUIZ CARLOS MOURA
+* ARNALDO MADEIRA
+* FRANCISCO WITAKER
+* LUIZ CARLOS MOURA
 
 Publicação D.O.M. 27/ABRIL/1991
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 2
 
- 
-
-SUMÁRIO
--------
-
-TÍTULO
-
-Capítulo
-
-I
-
-I
-
-DA CÂMARA MUNICIPAL
-
-Disposições preliminares (art. 1º-2º )
-
-Capítulo
-
-II
-
-Da instalação (art. 3º-4º )
-
-TÍTULO
-
-II
-
-DA MESA DA CÂMARA
-
-Capítulo Capítulo Capítulo Capítulo Capítulo Capítulo Capítulo Capítulo
-
-I II III IV V VI
-
-VII VIII
-
-Disposições preliminares (art. 5º-8º ) Da eleição da Mesa (art. 9º-11)
-
-Das atribuições da Mesa (art. 12-15) Do Presidente (art. 16-23)
-
-Dos Vice-Presidentes (art. 24-25) Dos Secretários (art. 26-27)
-
-Das contas da Mesa (art. 28-29)
-
-Da renúncia e destituição da Mesa (art. 30-37)
-
-TÍTULO
-
-III
-
-DAS COMISSÕES
-
-Capítulo
-
-Capítulo
-
-I II
-
-Disposições preliminares (art. 38) Das Comissões Permanentes
-
-Seção Seção Seção Seção
-
-Seção Seção Seção Seção Seção
-
-Seção
-
-I II III IV
-
-V VI VII VIII IX
-
-X
-
-Disposições preliminares (art. 39)
-
-Da composição das Comissões Permanentes (art. 40-45) Da competência das
-Comissões Permanentes (art. 46-48) Dos Presidentes e Vice-Presidentes da
-Comissões Permanentes (art. 49-54)
-
-Das subcomissões (art. 55-56) Das reuniões (art. 57-61)
-
-Dos trabalhos (art. 62-73) Dos pareceres (art. 74-80)
-
-Da deliberação sobre proposições pelas Comissões
-
-Permanentes (art. 81-84)
-
-Das audiências públicas (art. 85-88)
-
-Capítulo
-
-III
-
-Das Comissões Temporárias (art. 89-100)
-
-TÍTULO
-
-IV
-
-DO PLENÁRIO (art. 101-105)
-
-TÍTULO
-
-V
-
-DOS VEREADORES
-
-Capítulo Capítulo Capítulo Capítulo Capítulo Capítulo
-
-I II III IV V VI
-
-Da posse (art. 106)
-
-Dos direitos e deveres dos Vereadores (art. 107-110) Das faltas e
-licenças (art. 111-118)
-
-Dos Líderes e Vice-líderes (art. 119-121) Da remuneração (art. 122-124)
-
-Da extinção e perda do mandato (art. 125-131)
-
- 
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 3
-
-TÍTULO
-
-Capítulo
-
-Seção
-
-VI
-
-I I
-
-DAS SESSÕES
-
-Disposições preliminares
-
-Das espécies de sessão e de sua abertura (art. 132-138)
-
-Seção
-
-II
-
-Do uso da palavra (art. 139-140)
-
-Seção
-
-III
-
-Da suspensão e do encerramento da Sessão
-
-(art. 141-142)
-
-Seção
-
-Seção
-
-IV
-
-V
-
-Da prorrogação da Sessões (art. 143-145)
-
-Da Ata e da Imprensa Oficial (art. 146-150)
-
-Capítulo
-
-II
-
-Das Sessões Ordinárias
-
-Seção
-
-I
-
-Disposições preliminares (art. 151-156)
-
-Seção
-
-II
-
-Do Pequeno Expediente (art. 157-158)
-
-Seção
-
-III
-
-Do Grande Expediente (art. 159-162)
-
-Seção
-
-IV
-
-Do prolongamento do Expediente (art. 163-169)
-
-Seção
-
-V
-
-Da ordem do dia (art. 170-178)
-
-Seção
-
-VI
-
-Da explicação pessoal (art. 179-182)
-
-Capítulo
-
-III
-
-Das Sessões Extraordinárias (art. 183-192)
-
-Capítulo
-
-IV
-
-Das Sessões Solenes (art. 193-194)
-
-Capítulo
-
-V
-
-Das Sessões Secretas (art. 195-201)
-
-Capítulo
-
-VI
-
-Das Sessões Permanentes (art. 202-206)
-
-Capítulo
-
-VII
-
-Da Tribuna Popular (art. 207-210)
-
-TÍTULO
-
-VII
-
-DAS PROPOSIÇÕES
-
-Capítulo
-
-I
-
-Disposições preliminares (art. 211-218)
-
-Capítulo
-
-II
-
-Das indicações (art. 219)
-
-Capítulo
-
-III
-
-Dos Requerimentos
-
-Seção
-
-I
-
-Disposições preliminares (art. 220-222)
-
-Seção
-
-II
-
-Dos Requerimentos sujeitos a despacho de plano pelo
-
-Presidente (art. 223-224)
-
-Seção
-
-III
-
-Dos Requerimentos sujeitos a deliberação do Plenário
-
-(art. 225-227)
-
-Capítulo
-
-IV
-
-Das Moções (art. 228-231)
-
-Capítulo
-
-V
-
-Dos Projetos
-
-Seção
-
-I
-
-Disposições preliminares (art. 232-238)
-
-Seção
-
-II
-
-Da tramitação dos Projetos (art. 239-247)
-
-Seção
-
-III
-
-Da Primeira Discussão (art. 248-253)
-
-Seção
-
-IV
-
-Da Segunda Discussão (art. 254-258)
-
-Seção
-
-V
-
-Da Redação Final (art. 259-268)
-
-Capítulo
-
-VI
-
-Dos Substitutivos e das Emendas (art. 269-273)
-
-Capítulo
-
-VII
-
-Da retirada e arquivamento de Proposições (art. 274-275)
-
-TÍTULO
-
-VIII
-
-DOS DEBATES E DELIBERAÇÕES
-
-Capítulo
-
-I
-
-Da Discussão
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 4
-
- 
-
-Seção Seção Seção
-
-I II III
-
-Disposições preliminares (art. 276-281) Dos Apartes (art. 282-283)
-
-Do encerramento da discussão (art. 284-286)
-
-Capítulo
-
-II
-
-Da Votação
-
-Seção
-
-I
-
-Disposições preliminares (art. 287-289)
-
-Seção
-
-Seção
-
-II
-
-III
-
-Do encaminhamento da Votação (art. 290-292)
-
-Dos processos de Votação (art. 293-300)
-
-Seção
-
-IV
-
-Da verificação nominal de votação (art. 301)
-
-Seção
-
-V
-
-Da declaração de Voto (art. 302-304)
-
-Capítulo
-
-III
-
-Do tempo de uso da palavra (art. 305-306)
-
-Capítulo
-
-IV
-
-Das questões de ordem e dos precedentes regimentais
-
-Seção
-
-I
-
-Das questões de ordem (art. 307-310)
-
-Seção
-
-II
-
-Do recurso às decisões do Presidente (art. 311-312)
-
-Seção
-
-III
-
-Dos precedentes regimentais (art. 313-314)
-
-TÍTULO
-
-IX
-
-DA TRAMITAÇÃO ESPECIAL E URGENTE DE
-
-PROPOSITURAS DE INICIATIVA DOS CIDADÃOS
-
-(art. 315-323)
-
-TÍTULO
-
-X
-
-DA FASE ESPECIAL DA SESSÃO LEGISLATIVA
-
-(art. 324-328)
-
-TÍTULO
-
-XI
-
-DA ELABORAÇÃO LEGISLATIVA ESPECIAL
-
-Capítulo
-
-I
-
-Dos Orçamentos
-
-Seção
-
-I
-
-Disposições preliminares (art. 329-334)
-
-Seção
-
-II
-
-Da tramitação dos Projetos de Leis Orçamentárias
-
-(art. 335-346)
-
-Capítulo
-
-II
-
-Da concessão de Títulos Honoríficos (art. 347-351)
-
-Capítulo
-
-III
-
-Dos membros do Tribunal de Contas do Município
-
-(art. 352-359)
-
-TÍTULO
-
-XII
-
-DA SANÇÃO, DO VETO, DA PROMULGAÇÃO E
-
-REGISTROS DE LEIS, DECRETOS LEGISLATIVOS
-
-E RESOLUÇÕES (art. 360-371)
-
-TÍTULO
-
-XIII
-
-DA SECRETARIA DA CÂMARA (art. 372-373)
-
-TÍTULO
-
-XIV
-
-DA POLÍCIA INTERNA (art. 374-378)
-
-TÍTULO
-
-XV
-
-DO PREFEITO E DOS SECRETÁRIOS MUNICIPAIS
-
-Capítulo
-
-I
-
-Do comparecimento do Prefeito à Câmara (art. 379-380)
-
-Capítulo
-
-II
-
-Da convocação dos Secretários Municipais (art. 381-384)
-
-Capítulo
-
-III
-
-Das Contas (art. 385-388)
-
- 
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 5
-
-Capítulo
-
-IV
-
-Da responsabilidade do Prefeito (art. 389-391)
-
-TÍTULO
-
-XVI
-
-DA REFORMA DO REGIMENTO INTERNO (art. 392-395)
-
-### ATO DAS DISPOSIÇÕES TRANSITÓRIAS
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 6
-
- 
+## REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO
+## ATO DAS DISPOSIÇÕES TRANSITÓRIAS
 
 RESOLUÇÃO Nº 2,
 ---------------
@@ -604,966 +62,633 @@ DE 26 DE ABRIL DE 1991
 
 Dispõe sobre o Regimento Interno da Câmara Municipal de São Paulo
 
-### A CÂMARA MUNICIPAL DE SÃO PAULO resolve:
+A CÂMARA MUNICIPAL DE SÃO PAULO resolve:
 
-### TÍTULO I
+## TÍTULO I - DA CÂMARA MUNICIPAL  
 
-DA CÂMARA MUNICIPAL  
- CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+### CAPÍTULO I DISPOSIÇÕES PRELIMINARES
 
-### Art. 1º - A Câmara Municipal de São Paulo tem sua sede no Palácio
+#### Art. 1º - A Câmara Municipal de São Paulo tem sua sede no Palácio Anchieta, na Capital do Estado de São Paulo.  
 
-Anchieta, na Capital do Estado de São Paulo.  
- § 1º - Reputam-se nulas as sessões da Câmara realizadas fora de sua
-sede, à exceção das sessões solenes ou comemorativas.  
- § 2º - Havendo motivo relevante ou de força maior, a Câmara poderá, por
-deliberação da Mesa, "ad referendum" da maioria absoluta dos Vereadores,
-reunir- se em outro edifício ou em ponto diverso na cidade de São
-Paulo.  
- § 3º - Na sede da Câmara não se realizarão atos estranhos à sua função,
-sem prévia autorização da Mesa.
+ § 1º - Reputam-se nulas as sessões da Câmara realizadas fora de sua sede, à exceção das sessões solenes ou comemorativas.  
 
-### Art. 2º - Para os efeitos regimentais, a legislatura é dividida em 4 (quatro)
+ § 2º - Havendo motivo relevante ou de força maior, a Câmara poderá, por deliberação da Mesa, "ad referendum" da maioria absoluta dos Vereadores, reunir- se em outro edifício ou em ponto diverso na cidade de São Paulo.  
 
-sessões legislativas.  
- Parágrafo Único - Cada sessão legislativa será contada de 1º de
-fevereiro a  
- 30 de junho e de 1º de agosto a 15 de dezembro.  
- CAPÍTULO II DA INSTALAÇÃO
+ § 3º - Na sede da Câmara não se realizarão atos estranhos à sua função, sem prévia autorização da Mesa.
 
-### Art. 3º - A Câmara Municipal de São Paulo instalar-se-á, no primeiro ano de cada legislatura, no dia 1º de janeiro, às 15:00 (quinze) horas, em sessão solene, independentemente de número, sob a presidência do Vereador mais idoso dentre os presentes.
+#### Art. 2º - Para os efeitos regimentais, a legislatura é dividida em 4 (quatro) sessões legislativas.
 
-§ 1º - Os Vereadores presentes serão empossados pelo Presidente dos
-trabalhos, após a leitura do compromisso nos seguintes termos:  
- "Prometo exercer com dedicação e lealdade o meu mandato, cumprindo e
-fazendo cumprir a Constituição da República, a Constituição Estadual, a
-Lei Orgânica do Município e a legislação em vigor, defendendo a justiça
-social, a paz e a igualdade de tratamento a todos os cidadãos".  
- § 2º - Ato contínuo, feita a chamada, cada Vereador, de pé, a
-ratificará dizendo: "Assim o prometo", permanecendo os demais Vereadores
-sentados e em silêncio.
+ Parágrafo Único - Cada sessão legislativa será contada de 1º de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.
 
-### Art. 4º - Ainda com o Vereador mais idoso na direção dos trabalhos e
+### CAPÍTULO II DA INSTALAÇÃO
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 7
+#### Art. 3º - A Câmara Municipal de São Paulo instalar-se-á, no primeiro ano de cada legislatura, no dia 1º de janeiro, às 15:00 (quinze) horas, em sessão solene, independentemente de número, sob a presidência do Vereador mais idoso dentre os presentes.
 
-  
- havendo maioria absoluta dos membros, observando-se o disposto nos
-artigos 10 e  
- 11, passar-se-á à eleição da Mesa que regerá os trabalhos da Câmara
-durante a primeira sessão legislativa, iniciando-se pela do
-Presidente.  
- § 1º - Não havendo número legal, o Vereador mais idoso dentre os
-presentes permanecerá na presidência e convocará sessões diárias, até
-que seja eleita a Mesa.  
- § 2º - Declarado eleito e empossado o Presidente, este assumirá a
-direção dos trabalhos, passando-se à eleição dos demais membros da Mesa.
+§ 1º - Os Vereadores presentes serão empossados pelo Presidente dos trabalhos, após a leitura do compromisso nos seguintes termos:
 
-### TÍTULO II
+	"Prometo exercer com dedicação e lealdade o meu mandato, cumprindo e fazendo cumprir a Constituição da República, a Constituição Estadual, a Lei Orgânica do Município e a legislação em vigor, defendendo a justiça social, a paz e a igualdade de tratamento a todos os cidadãos".
 
-DA MESA DA CÂMARA  
- CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+ § 2º - Ato contínuo, feita a chamada, cada Vereador, de pé, a ratificará dizendo: "Assim o prometo", permanecendo os demais Vereadores sentados e em silêncio.
 
-### Art. 5º - A Mesa eleita, com mandato de 1 (um) ano, será composta do Presidente, do 1º Vice-Presidente, do 2º Vice-Presidente, do 1º Secretário e do 2º Secretário.
+#### Art. 4º - Ainda com o Vereador mais idoso na direção dos trabalhos e havendo maioria absoluta dos membros, observando-se o disposto nos artigos 10 e 11, passar-se-á à eleição da Mesa que regerá os trabalhos da Câmara durante a primeira sessão legislativa, iniciando-se pela do Presidente.  
 
-Parágrafo único - Após a eleição do 2º Secretário, serão eleitos os 1º e
-2º Suplentes da Mesa.
+ § 1º - Não havendo número legal, o Vereador mais idoso dentre os presentes permanecerá na presidência e convocará sessões diárias, até que seja eleita a Mesa.  
 
-### Art. 6º - As funções dos membros da Mesa somente cessarão: I - pela morte;
+ § 2º - Declarado eleito e empossado o Presidente, este assumirá a direção dos trabalhos, passando-se à eleição dos demais membros da Mesa.
 
-II - com a posse da nova Mesa na forma do artigo 9º; III - pela
-renúncia, apresentada por escrito;  
- IV - pela destituição do cargo; V - pela perda do mandato.
+## TÍTULO II - DA MESA DA CÂMARA  
 
-### Art. 7º - Vago qualquer cargo da Mesa, a eleição respectiva deverá realizar- se na fase do Expediente da primeira sessão subseqüente à vaga ocorrida, ou em sessão extraordinária para esse fim convocada.
+### CAPÍTULO I DISPOSIÇÕES PRELIMINARES
 
-§ 1º - Vaga a Presidência, assumirá a função em caráter interino,
-sucessivamente:  
- I - o 1º Vice-Presidente; II - o 2º Vice-Presidente; III - o 1º
-Secretário;  
- IV - o 2º Secretário; V - o 1º Suplente;  
- VI - o 2º Suplente;  
- VII - o Vereador mais idoso.  
- § 2º - Até que se proceda à eleição prevista neste artigo, o Presidente
-interino ficará investido na plenitude das funções do cargo.
+#### Art. 5º - A Mesa eleita, com mandato de 1 (um) ano, será composta do Presidente, do 1º Vice-Presidente, do 2º Vice-Presidente, do 1º Secretário e do 2º Secretário.
 
-### Art. 8º - O Presidente e o 1º Vice-Presidente não poderão fazer parte de nenhuma Comissão Permanente.
+Parágrafo único - Após a eleição do 2º Secretário, serão eleitos os 1º e 2º Suplentes da Mesa.
 
-Parágrafo único - Em Comissões Temporárias não se aplica o disposto no  
- "caput" deste artigo.
+#### Art. 6º - As funções dos membros da Mesa somente cessarão:
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 8
+ I - pela morte;
 
-  
- CAPÍTULO II  
- DA ELEIÇÃO DA MESA
+ II - com a posse da nova Mesa na forma do artigo 9º;
 
-### Art. 9º - A eleição para renovação da Mesa será realizada no dia 15 de dezembro, em sessão extraordinária, e a posse dos eleitos dar-se-á no dia 1º de janeiro do ano subseqüente.
+ III - pela renúncia, apresentada por escrito;  
 
-§ 1º - Somente será permitida uma reeleição para o mesmo cargo, na mesma
-legislatura.  
- § 2º - Não se considera recondução a eleição para o mesmo cargo em
-legislaturas diferentes, ainda que sucessivas.
+ IV - pela destituição do cargo;
 
-### Art. 10 - A eleição da Mesa será feita em primeiro escrutínio, por maioria absoluta de votos, cargo por cargo, obedecendo-se à ordem constante do artigo 5º e seu parágrafo único.
+ V - pela perda do mandato.
 
-§ 1º - Se qualquer dos candidatos não alcançar a maioria absoluta,
-proceder-se-á a segundo escrutínio, ao qual só concorrerão os dois
-candidatos mais votados no primeiro, para o cargo em votação,
-considerando-se eleito o que obtiver maioria simples.  
- § 2º - Se ocorrer empate, será considerado eleito o mais idoso dos
-concorrentes, e, se persistir o empate, disputarão o cargo por
-sorteio.  
- § 3º - Não sendo possível, por qualquer motivo, efetivar-se ou
-completar-se a eleição da Mesa na primeira sessão para esse fim
-convocada, o Presidente convocará sessão para o dia seguinte e, se
-necessário, para os dias subseqüentes, até plena consecução desse
-objetivo.
+#### Art. 7º - Vago qualquer cargo da Mesa, a eleição respectiva deverá realizar- se na fase do Expediente da primeira sessão subseqüente à vaga ocorrida, ou em sessão extraordinária para esse fim convocada.
 
-### Art. 11 - Para a eleição da Mesa, a votação será feita mediante voto secreto, em cédula própria, para cada cargo, com a indicação deste e os nomes dos concorrentes.
+§ 1º - Vaga a Presidência, assumirá a função em caráter interino, sucessivamente:  
 
-CAPÍTULO III  
- DAS ATRIBUIÇÕES DA MESA
+I - o 1º Vice-Presidente;
 
-### Art. 12 - A Mesa eleita, em ato que deverá ser publicado dentro de 60 (sessenta) dias após sua constituição, fixará a competência de cada um de seus membros, respeitadas as atribuições já definidas por este Regimento Interno.
+II - o 2º Vice-Presidente;
 
-### Art. 13 - À Mesa compete, dentre outras atribuições estabelecidas em lei e neste Regimento ou deles implicitamente resultantes, a direção dos trabalhos legislativos e dos serviços administrativos da Câmara, especialmente:
+III - o 1º Secretário;  
+
+IV - o 2º Secretário;
+
+V - o 1º Suplente;  
+
+VI - o 2º Suplente;  
+
+VII - o Vereador mais idoso.  
+
+§ 2º - Até que se proceda à eleição prevista neste artigo, o Presidente interino ficará investido na plenitude das funções do cargo.
+
+#### Art. 8º - O Presidente e o 1º Vice-Presidente não poderão fazer parte de nenhuma Comissão Permanente.
+
+Parágrafo único - Em Comissões Temporárias não se aplica o disposto no "caput" deste artigo.
+
+### CAPÍTULO II - DA ELEIÇÃO DA MESA
+
+#### Art. 9º - A eleição para renovação da Mesa será realizada no dia 15 de dezembro, em sessão extraordinária, e a posse dos eleitos dar-se-á no dia 1º de janeiro do ano subseqüente.
+
+§ 1º - Somente será permitida uma reeleição para o mesmo cargo, na mesma legislatura.  
+
+§ 2º - Não se considera recondução a eleição para o mesmo cargo em legislaturas diferentes, ainda que sucessivas.
+
+#### Art. 10 - A eleição da Mesa será feita em primeiro escrutínio, por maioria absoluta de votos, cargo por cargo, obedecendo-se à ordem constante do artigo 5º e seu parágrafo único.
+
+§ 1º - Se qualquer dos candidatos não alcançar a maioria absoluta, proceder-se-á a segundo escrutínio, ao qual só concorrerão os dois candidatos mais votados no primeiro, para o cargo em votação, considerando-se eleito o que obtiver maioria simples.
+
+§ 2º - Se ocorrer empate, será considerado eleito o mais idoso dos concorrentes, e, se persistir o empate, disputarão o cargo por sorteio.
+
+§ 3º - Não sendo possível, por qualquer motivo, efetivar-se ou completar-se a eleição da Mesa na primeira sessão para esse fim convocada, o Presidente convocará sessão para o dia seguinte e, se necessário, para os dias subseqüentes, até plena consecução desse objetivo.
+
+#### Art. 11 - Para a eleição da Mesa, a votação será feita mediante voto secreto, em cédula própria, para cada cargo, com a indicação deste e os nomes dos concorrentes.
+
+### CAPÍTULO III - DAS ATRIBUIÇÕES DA MESA
+
+#### Art. 12 - A Mesa eleita, em ato que deverá ser publicado dentro de 60 (sessenta) dias após sua constituição, fixará a competência de cada um de seus membros, respeitadas as atribuições já definidas por este Regimento Interno.
+
+#### Art. 13 - À Mesa compete, dentre outras atribuições estabelecidas em lei e neste Regimento ou deles implicitamente resultantes, a direção dos trabalhos legislativos e dos serviços administrativos da Câmara, especialmente:
 
 I - No setor legislativo:  
- a) convocar sessões extraordinárias;  
- b) propor privativamente à Câmara:  
- 1) projetos que disponham sobre criação, transformação ou extinção dos
-cargos, empregos e funções de seus serviços e fixação da respectiva
-remuneração;  
- 2) projetos de lei que disponham sobre abertura de créditos
-suplementares ou especiais, através de anulação parcial ou total de
-dotação da Câmara;  
- 3) projeto de decreto legislativo sobre a remuneração do Prefeito e
-Vice- Prefeito;  
- 4) projeto de resolução que disponha sobre a remuneração dos
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 9
+* a) convocar sessões extraordinárias;  
+* b) propor privativamente à Câmara:  
+	* 1) projetos que disponham sobre criação, transformação ou extinção dos cargos, empregos e funções de seus serviços e fixação da respectiva remuneração;
+	* 2) projetos de lei que disponham sobre abertura de créditos suplementares ou especiais, através de anulação parcial ou total de dotação da Câmara;	
+	* 3) projeto de decreto legislativo sobre a remuneração do Prefeito e Vice-Prefeito;
+	* 4) projeto de resolução que disponha sobre a remuneração dos Vereadores.  
+* c) tomar as providências necessárias à regularidade dos trabalhos legislativos;  
+* d) declarar a perda do mandato de Vereador, de ofício ou mediante provocação de qualquer dos membros da Câmara ou de partido político nela representado, assegurado o direito de defesa nos casos previstos nos incisos III, IV e V do artigo 18, da Lei Orgânica do Município;  
+* e) instalar Tribuna Popular, na forma prevista no Capítulo VII do Título VI.
 
-  
- Vereadores.  
- c) tomar as providências necessárias à regularidade dos trabalhos
-legislativos;  
- d) declarar a perda do mandato de Vereador, de ofício ou mediante
-provocação de qualquer dos membros da Câmara ou de partido político nela
-representado, assegurado o direito de defesa nos casos previstos nos
-incisos III, IV e V do artigo 18, da Lei Orgânica do Município;  
- e) instalar Tribuna Popular, na forma prevista no Capítulo VII do
-Título VI. II - No setor administrativo:  
- a) superintender os serviços administrativos da Câmara e elaborar seu
-regulamento, interpretando conclusivamente, em grau de recurso, os seus
-dispositivos;  
- b) suplementar, mediante ato, as dotações do orçamento da Câmara,
-observado o limite da autorização constante da lei orçamentária, desde
-que sejam provenientes de anulação total ou parcial de suas dotações
-orçamentárias;  
- c) devolver à Tesouraria da Prefeitura o saldo de caixa existente na
-Câmara no final do exercício;  
- d) enviar ao Tribunal de Contas do Município, até o dia 31 de março, as
-contas do exercício anterior;  
- e) nomear, promover, comissionar, conceder gratificações e licenças,
-pôr em disponibilidade, exonerar, demitir, aposentar e punir servidores
-da Câmara Municipal, nos termos da lei;  
- f) regulamentar o processo de licitações, observando-se o disposto no
-artigo  
- 129 e parágrafos da Lei Orgânica do Município;  
- g) permitir sejam divulgados os trabalhos da Câmara no Plenário ou nas
-Comissões, observando-se o disposto no artigo 85 da Lei Orgânica do
-Município, sem ônus para os cofres públicos.  
- h) determinar abertura de sindicâncias e inquéritos administrativos.
+II - No setor administrativo:
 
-### Art. 14 - Os membros da Mesa reunir-se-ão, pelo menos quinzenalmente, a fim de deliberar, por maioria de votos, presentes a maioria absoluta de seus membros, sobre todos os assuntos da Câmara sujeitos ao seu exame, assinando e dando à publicação os respectivos atos e decisões.
+* c) superintender os serviços administrativos da Câmara e elaborar seu regulamento, interpretando conclusivamente, em grau de recurso, os seus dispositivos;
+* b) suplementar, mediante ato, as dotações do orçamento da Câmara, observado o limite da autorização constante da lei orçamentária, desde que sejam provenientes de anulação total ou parcial de suas dotações orçamentárias;
+* c) devolver à Tesouraria da Prefeitura o saldo de caixa existente na Câmara no final do exercício;  
+* d) enviar ao Tribunal de Contas do Município, até o dia 31 de março, as contas do exercício anterior;  
+* e) nomear, promover, comissionar, conceder gratificações e licenças, pôr em disponibilidade, exonerar, demitir, aposentar e punir servidores da Câmara Municipal, nos termos da lei;
+* f) regulamentar o processo de licitações, observando-se o disposto no artigo 129 e parágrafos da Lei Orgânica do Município; 
+* g) permitir sejam divulgados os trabalhos da Câmara no Plenário ou nas Comissões, observando-se o disposto no artigo 85 da Lei Orgânica do Município, sem ônus para os cofres públicos.
+* h) determinar abertura de sindicâncias e inquéritos administrativos.
 
-### Art. 15 - Os contratos de qualquer natureza, que a Câmara Municipal firmar com terceiros, serão assinados pela maioria dos membros efetivos da Mesa, sob pena de nulidade.
+#### Art. 14 - Os membros da Mesa reunir-se-ão, pelo menos quinzenalmente, a fim de deliberar, por maioria de votos, presentes a maioria absoluta de seus membros, sobre todos os assuntos da Câmara sujeitos ao seu exame, assinando e dando à publicação os respectivos atos e decisões.
 
-CAPÍTULO IV DO PRESIDENTE
+#### Art. 15 - Os contratos de qualquer natureza, que a Câmara Municipal firmar com terceiros, serão assinados pela maioria dos membros efetivos da Mesa, sob pena de nulidade.
 
-### Art. 16 - O Presidente é o representante da Câmara, em juízo ou fora dele.
+### CAPÍTULO IV - DO PRESIDENTE
 
-### Art. 17 - São atribuições do Presidente, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas:
+#### Art. 16 - O Presidente é o representante da Câmara, em juízo ou fora dele.
+
+#### Art. 17 - São atribuições do Presidente, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas:
 
 I - Quanto às sessões:  
- a) anunciar a convocação das sessões, nos termos deste Regimento;  
- b) abrir, presidir, suspender e encerrar as sessões;  
- c) passar a presidência a outro Vereador, bem como convidar qualquer
-deles para secretariá-la, na ausência de membros ou suplentes da Mesa;  
- d) manter a ordem dos trabalhos, interpretar e fazer cumprir o
-Regimento
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 10
+* a) anunciar a convocação das sessões, nos termos deste Regimento;  
+* b) abrir, presidir, suspender e encerrar as sessões;  
+* c) passar a presidência a outro Vereador, bem com convidar qualquer deles para secretariá-la, na ausência de membros ou suplentes da Mesa;
+* d) manter a ordem dos trabalhos, interpretar e fazer cumprir o Regimento Interno;  
+* e) mandar proceder à chamada e à leitura dos papéis e proposições;
+* f) transmitir ao Plenário, a qualquer momento, as comunicações que julgar convenientes;  
+* g) conceder ou negar a palavra aos Vereadores, nos termos
+regimentais;
+*  h) interromper o orador que se desviar da questão em debate ou falar sem o respeito devido à Câmara ou a qualquer de seus membros, advertindo-o, chamando- o à ordem e, em caso de insistência, cassando-lhe a palavra, podendo, ainda, suspender a sessão, quando não atendido e as circunstâncias o exigirem;  
+* i) chamar a atenção do orador, quando se esgotar o tempo a que tem direito;
+* j) anunciar a Ordem do Dia e submeter à discussão e votação a matéria dela constante;
+* l) anunciar o resultado das votações;  
+* m) estabelecer o ponto da questão sobre o qual deva ser feita a votação;  
+* n) determinar, nos termos regimentais, de ofício ou a requerimento de qualquer Vereador, que se proceda à verificação de presença;
+* o) anotar, em cada documento, a decisão do Plenário;  
+* p) resolver qualquer questão de ordem e, quando omisso o Regimento, estabelecer precedentes regimentais, que serão anotados para solução de casos análogos;  
+* q) organizar a Ordem do Dia, ouvidas as lideranças, atendendo aos preceitos legais e regimentais;  
+* r) anunciar o término das sessões, convocando, antes, a sessão seguinte.
 
-  
- Interno;  
- e) mandar proceder à chamada e à leitura dos papéis e proposições;  
- f) transmitir ao Plenário, a qualquer momento, as comunicações que
-julgar  
- convenientes;  
- g) conceder ou negar a palavra aos Vereadores, nos termos
+II - Quanto às proposições:  
+
+* a) receber as proposições apresentadas;  
+* b) distribuir proposições, processos e documentos às Comissões;  
+* c) determinar, a requerimento do autor, a retirada de proposições, nos termos regimentais;  
+* d) declarar prejudicada a proposição, em face da rejeição ou aprovação de outra com o mesmo objetivo;  
+* e) devolver ao autor, quando não atendidas as formalidades regimentais, proposição em que se pretenda o reexame de matéria anteriormente rejeitada ou vetada, e cujo veto tenha sido mantido;  
+* f) recusar substitutivos ou emendas que não sejam pertinentes à proposição inicial;  
+* g) determinar o desarquivamento de proposição, nos termos
 regimentais;  
- h) interromper o orador que se desviar da questão em debate ou falar
-sem o respeito devido à Câmara ou a qualquer de seus membros,
-advertindo-o, chamando- o à ordem e, em caso de insistência,
-cassando-lhe a palavra, podendo, ainda, suspender a sessão, quando não
-atendido e as circunstâncias o exigirem;  
- i) chamar a atenção do orador, quando se esgotar o tempo a que tem  
- direito;  
- j) anunciar a Ordem do Dia e submeter à discussão e votação a matéria  
- dela constante;  
- l) anunciar o resultado das votações;  
- m) estabelecer o ponto da questão sobre o qual deva ser feita a
-votação;  
- n) determinar, nos termos regimentais, de ofício ou a requerimento de
-qualquer Vereador, que se proceda à verificação de presença;  
- o) anotar, em cada documento, a decisão do Plenário;  
- p) resolver qualquer questão de ordem e, quando omisso o Regimento,
-estabelecer precedentes regimentais, que serão anotados para solução de
-casos análogos;  
- q) organizar a Ordem do Dia, ouvidas as lideranças, atendendo aos
-preceitos legais e regimentais;  
- r) anunciar o término das sessões, convocando, antes, a sessão
-seguinte. II - Quanto às proposições:  
- a) receber as proposições apresentadas;  
- b) distribuir proposições, processos e documentos às Comissões;  
- c) determinar, a requerimento do autor, a retirada de proposições, nos
-termos regimentais;  
- d) declarar prejudicada a proposição, em face da rejeição ou aprovação
-de outra com o mesmo objetivo;  
- e) devolver ao autor, quando não atendidas as formalidades regimentais,
-proposição em que se pretenda o reexame de matéria anteriormente
-rejeitada ou vetada, e cujo veto tenha sido mantido;  
- f) recusar substitutivos ou emendas que não sejam pertinentes à
-proposição  
- inicial;  
- g) determinar o desarquivamento de proposição, nos termos
-regimentais;  
- h) retirar da pauta da Ordem do Dia proposição em desacordo com as  
- exigências regimentais;  
- i) despachar requerimentos verbais ou escritos, processos e demais
-papéis submetidos à sua apreciação;  
- j) observar e fazer observar os prazos regimentais;  
- l) solicitar informações e colaborações técnicas para estudo de matéria
-sujeita à apreciação da Câmara, quando requerido pelas Comissões;  
- m) devolver proposição que contenha expressões anti-regimentais;  
- n) determinar a entrega obrigatória de cópias de projetos de lei a
-todos os  
- Vereadores em exercício;  
+* h) retirar da pauta da Ordem do Dia proposição em desacordo com as exigências regimentais;  
+* i) despachar requerimentos verbais ou escritos, processos e demais papéis submetidos à sua apreciação;  
+* j) observar e fazer observar os prazos regimentais;  
+* l) solicitar informações e colaborações técnicas para estudo de matéria sujeita à apreciação da Câmara, quando requerido pelas Comissões;
+* m) devolver proposição que contenha expressões anti-regimentais;
+* n) determinar a entrega obrigatória de cópias de projetos de lei a todos os Vereadores em exercício;  
+
  III - Quanto às Comissões:  
- a) designar os membros das Comissões Temporárias, nos termos
-regimentais;  
- b) designar substitutos para os membros das Comissões em caso de vaga,
-licença ou impedimento ocasional, observada a indicação partidária;
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 11
+* a) designar os membros das Comissões Temporárias, nos termos regimentais;  
+* b) designar substitutos para os membros das Comissões em caso de vaga, licença ou impedimento ocasional, observada a indicação partidária;
+* c) declarar a destituição de membros das Comissões, quando deixarem de comparecer a 5 (cinco) reuniões ordinárias consecutivas ou a 10 (dez) intercaladas, sem motivo justificado.
 
-  
- c) declarar a destituição de membros das Comissões, quando deixarem de
-comparecer a 5 (cinco) reuniões ordinárias consecutivas ou a 10 (dez)
-intercaladas, sem motivo justificado.  
  IV - Quanto às reuniões da Mesa:  
- a) convocar e presidir as reuniões da Mesa;  
- b) tomar parte nas suas discussões e deliberações, com direito a voto e
-assinar os respectivos atos e decisões;  
- c) distribuir as matérias que dependerem do parecer da Mesa;  
- d) encaminhar as decisões da Mesa, cuja execução não for atribuída a
-outro de seus membros.  
+
+* a) convocar e presidir as reuniões da Mesa;
+* b) tomar parte nas suas discussões e deliberações, com direito a voto e assinar os respectivos atos e decisões;  
+* c) distribuir as matérias que dependerem do parecer da Mesa;  
+* d) encaminhar as decisões da Mesa, cuja execução não for atribuída a outro de seus membros.  
+
  V - Quanto às publicações;  
- a) determinar a publicação de todos os atos da Câmara, da matéria de
-expediente, da Ordem do Dia e do inteiro teor dos debates;  
- b) revisar os debates, não permitindo a publicação de expressões e
-conceitos anti-regimentais ou ofensivos ao decoro da Câmara, bem como de
-pronunciamentos que envolverem ofensas às instituições nacionais,
-propaganda de guerra, de preconceito de raça, de religião ou de classe,
-configurarem crime contra a honra ou contiverem incitamento à prática de
-crimes de qualquer natureza;  
- c) determinar a publicação de informações, notas e documentos que digam
-respeito às atividades da Câmara e devam ser divulgados.
 
-### d) determinar que, em toda publicação em que houver menção ao nome do Vereador, seja incluída a sigla do partido a que pertença, independentemente da legislatura;
-
-### e) determinar a inclusão do nome do proponente, bem como da sigla do partido a que pertença, todas as vezes em que a publicação faça referência a qualquer projeto de sua iniciativa.
+* a) determinar a publicação de todos os atos da Câmara, da matéria de expediente, da Ordem do Dia e do inteiro teor dos debates;  
+* b) revisar os debates, não permitindo a publicação de expressões e conceitos anti-regimentais ou ofensivos ao decoro da Câmara, bem como de pronunciamentos que envolverem ofensas às instituições nacionais, propaganda de guerra, de preconceito de raça, de religião ou de classe, configurarem crime contra a honra ou contiverem incitamento à prática de crimes de qualquer natureza;  
+* c) determinar a publicação de informações, notas e documentos que digam respeito às atividades da Câmara e devam ser divulgados.
+* d) determinar que, em toda publicação em que houver menção ao nome do Vereador, seja incluída a sigla do partido a que pertença, independentemente da legislatura;
+* e) determinar a inclusão do nome do proponente, bem como da sigla do partido a que pertença, todas as vezes em que a publicação faça referência a qualquer projeto de sua iniciativa.
 
 (alíneas "d" e "e" acrescentadas pela Resolução 3/03)
 
 VI - Quanto às atividades e relações externas da Câmara:  
- a) manter, em nome da Câmara, todos os contatos de direito com o
-Prefeito e demais autoridades;  
- b) agir judicialmente, em nome da Câmara, "ad referendum" ou por
-deliberação do Plenário;  
- c) determinar lugar reservado aos representantes credenciados da
-imprensa escrita, falada e televisionada;  
- d) zelar pelo prestígio da Câmara e pelos direitos, garantias e
-respeito devido aos seus membros.
 
-### Art. 18 - Compete, ainda, ao Presidente:
+* a) manter, em nome da Câmara, todos os contatos de direito com o Prefeito e demais autoridades;  
+* b) agir judicialmente, em nome da Câmara, "ad referendum" ou por deliberação do Plenário;  
+* c) determinar lugar reservado aos representantes credenciados da imprensa escrita, falada e televisionada;
+* d) zelar pelo prestígio da Câmara e pelos direitos, garantias e respeito devido aos seus membros.
+
+#### Art. 18 - Compete, ainda, ao Presidente:
 
 I - dar posse aos Vereadores e Suplentes;  
- II - declarar a extinção do mandato de Vereador;  
- III - exercer a chefia do Executivo Municipal, nos casos previstos em
-lei;  
- IV - justificar a ausência de Vereador às sessões plenárias e às
-reuniões ordinárias das Comissões Permanentes, quando motivada pelo
-desempenho de suas funções em Comissões Temporárias, em caso de doença,
+
+II - declarar a extinção do mandato de Vereador;  
+
+III - exercer a chefia do Executivo Municipal, nos casos previstos em lei;  
+
+IV - justificar a ausência de Vereador às sessões plenárias e às reuniões ordinárias das Comissões Permanentes, quando motivada pelo desempenho de suas funções em Comissões Temporárias, em caso de doença,
 nojo ou gala, mediante requerimento do interessado;  
- V - executar as deliberações do Plenário;  
- VI - promulgar as resoluções e decretos legislativos, bem como as leis
-com sanção tácita ou nos casos previstos no artigo 369;  
- VII - manter correspondência oficial da Câmara nos assuntos que lhe
-são  
- afetos;  
- VIII - rubricar os livros destinados aos serviços da Câmara, podendo  
- designar funcionário para tal fim;
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 12
+V - executar as deliberações do Plenário;  
 
-  
- IX - nomear e exonerar o chefe e os auxiliares do Gabinete da
-Presidência:  
- X - autorizar a despesa da Câmara e o seu pagamento, dentro dos limites
-do orçamento, observando as disposições legais e requisitando da
-Prefeitura o respectivo numerário, e aplicando as disponibilidades
-financeiras no mercado de capitais.  
- XI - dar andamento legal aos recursos interpostos contra seus atos, de
-modo a garantir o direito das partes;  
- XII - providenciar a expedição, no prazo de 20 (vinte) dias úteis, das
-certidões que lhe forem solicitadas, bem como atender às requisições
-judiciais;  
- XIII - despachar toda matéria do expediente;  
- XIV - dar conhecimento à Câmara, na última sessão ordinária de cada
-ano, da resenha dos trabalhos realizados durante a sessão legislativa.
+VI - promulgar as resoluções e decretos legislativos, bem como as leis com sanção tácita ou nos casos previstos no artigo 369;
 
-### Art. 19 - Para ausentar-se do Município por mais de 15 (quinze) dias, o
+VII - manter correspondência oficial da Câmara nos assuntos que lhe são afetos;  
 
-Presidente deverá, necessariamente, licenciar-se, na forma regimental.  
- Parágrafo único - Nos períodos de recesso da Câmara, a licença do  
- Presidente se efetivará mediante comunicação escrita ao seu substituto
-legal.
+VIII - rubricar os livros destinados aos serviços da Câmara, podendo designar funcionário para tal fim;
 
-### Art. 20 - Para tomar parte em qualquer discussão, o Presidente dos trabalhos deverá afastar-se da presidência.
+IX - nomear e exonerar o chefe e os auxiliares do Gabinete da Presidência:  
 
-### Art. 21 - Nenhum membro da Mesa ou Vereador poderá presidir a sessão durante a discussão e votação de matéria de sua autoria.
+X - autorizar a despesa da Câmara e o seu pagamento, dentro dos limites do orçamento, observando as disposições legais e requisitando da Prefeitura o respectivo numerário, e aplicando as disponibilidades
+financeiras no mercado de capitais.
+
+XI - dar andamento legal aos recursos interpostos contra seus atos, de modo a garantir o direito das partes;
+
+XII - providenciar a expedição, no prazo de 20 (vinte) dias úteis, das certidões que lhe forem solicitadas, bem como atender às requisições judiciais;
+
+XIII - despachar toda matéria do expediente;  
+
+XIV - dar conhecimento à Câmara, na última sessão ordinária de cada ano, da resenha dos trabalhos realizados durante a sessão legislativa. 
+
+#### Art. 19 - Para ausentar-se do Município por mais de 15 (quinze) dias, o Presidente deverá, necessariamente, licenciar-se, na forma regimental.
+
+Parágrafo único - Nos períodos de recesso da Câmara, a licença do Presidente se efetivará mediante comunicação escrita ao seu substituto legal.
+
+#### Art. 20 - Para tomar parte em qualquer discussão, o Presidente dos trabalhos deverá afastar-se da presidência.
+
+#### Art. 21 - Nenhum membro da Mesa ou Vereador poderá presidir a sessão durante a discussão e votação de matéria de sua autoria.
 
 Parágrafo único - A proibição contida no "caput" não se estende às
 proposições de autoria da Mesa ou de Comissões da Câmara.
 
-### Art. 22 - Será sempre computada, para efeito de "quorum", a presença do
+#### Art. 22 - Será sempre computada, para efeito de "quorum", a presença do Presidente dos trabalhos.
 
-Presidente dos trabalhos.
+#### Art. 23 - Quando o Presidente estiver com a palavra, no exercício de suas funções, durante as sessões plenárias, não poderá ser interrompido nem aparteado.
 
-### Art. 23 - Quando o Presidente estiver com a palavra, no exercício de suas funções, durante as sessões plenárias, não poderá ser interrompido nem aparteado.
+### CAPÍTULO V - DOS VICE-PRESIDENTES
 
-CAPÍTULO V  
- DOS VICE-PRESIDENTES
-
-### Art. 24 - Sempre que o Presidente não se achar no recinto à hora regimental de início das sessões, o 1º Vice-Presidente o substituirá no desempenho de suas funções, cedendo-lhe o lugar à sua presença.
+#### Art. 24 - Sempre que o Presidente não se achar no recinto à hora regimental de início das sessões, o 1º Vice-Presidente o substituirá no desempenho de suas funções, cedendo-lhe o lugar à sua presença.
 
 § 1º - O mesmo fará o 2º Vice-Presidente em relação ao 1º
 Vice-Presidente.  
- § 2º - Quando o Presidente deixar a presidência, durante a sessão, as
-substituições serão processadas segundo as mesmas normas.
 
-### Art. 25 - Obedecida a ordem estabelecida no artigo anterior, os Vice- Presidentes substituirão o Presidente em suas faltas, ausências, impedimentos ou licenças, ficando, nas duas últimas hipóteses, investidos na plenitude das respectivas funções.
+§ 2º - Quando o Presidente deixar a presidência, durante a sessão, as substituições serão processadas segundo as mesmas normas.
 
-CAPÍTULO VI DOS SECRETÁRIOS
+#### Art. 25 - Obedecida a ordem estabelecida no artigo anterior, os Vice- Presidentes substituirão o Presidente em suas faltas, ausências, impedimentos ou licenças, ficando, nas duas últimas hipóteses, investidos na plenitude das respectivas funções.
+
+### CAPÍTULO VI - DOS SECRETÁRIOS
 
 ### Art. 26 - São atribuições do 1º Secretário:
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 13
+I - proceder à chamada, nos casos previstos neste Regimento, assinando as respectivas folhas;
 
-  
- I - proceder à chamada, nos casos previstos neste Regimento, assinando
-as respectivas folhas;  
- II - ler todos os papéis sujeitos ao conhecimento ou à deliberação da  
- Câmara;  
- III - determinar o recebimento e zelar pela guarda de proposições e
-papéis entregues à Mesa, para conhecimento e deliberação da Câmara;  
- IV - receber e determinar a elaboração de toda a correspondência
-oficial da  
- Câmara, sujeitando-se ao conhecimento, apreciação e assinatura do
-Presidente;  
- V - encerrar, com as necessárias anotações, as folhas de presença ao
-final de cada sessão;  
- VI - secretariar as reuniões da Mesa, redigindo, em livro próprio, as
-respectivas atas;  
- VII - redigir as atas das sessões secretas;  
- VIII - substituir o Presidente, na falta dos Vice-Presidentes.  
- Parágrafo único - O 2º Secretário substituirá o 1º Secretário em suas
-faltas, ausências, impedimentos ou licenças, ficando, nas duas últimas
-hipóteses, investido na plenitude das respectivas funções.
+II - ler todos os papéis sujeitos ao conhecimento ou à deliberação da Câmara;  
 
-### Art. 27 - O primeiro Suplente da Mesa e, na sua falta, o segundo, serão chamados a substituir interinamente o 2º Secretário e, sucessivamente, o 1º Secretário, bem como o 2º Vice-Presidente e o 1º Vice-Presidente, quando afastados temporariamente do cargo.
+III - determinar o recebimento e zelar pela guarda de proposições e papéis entregues à Mesa, para conhecimento e deliberação da Câmara;
 
-Parágrafo único - Quando o 1º e 2º Suplentes da Mesa estiverem ocupando
-os cargos de 1º e 2º Vice-Presidentes, vago o cargo de Presidente,
-assumirá o 1º Secretário.  
- CAPÍTULO VII  
- DAS CONTAS DA MESA
+IV - receber e determinar a elaboração de toda a correspondência oficial da Câmara, sujeitando-se ao conhecimento, apreciação e assinatura do Presidente;  
 
-### Art. 28 - As contas da Mesa da Câmara compõem-se de:
+V - encerrar, com as necessárias anotações, as folhas de presença ao final de cada sessão;  
 
-I - balancetes mensais, com relação às verbas recebidas e aplicadas, que
-deverão ser apresentadas à Câmara pelo Presidente, até o dia 20 do mês
-seguinte ao vencido;  
- II - balanço geral anual, que deverá ser enviado até o dia 31 de março
-do exercício seguinte ao Tribunal de Contas do Município.
+VI - secretariar as reuniões da Mesa, redigindo, em livro próprio, as respectivas atas;  
 
-### Art. 29 - Os balancetes mensais, assinados pelo Presidente, e o balanço anual, assinado pela Mesa, serão publicados no órgão oficial de imprensa do Município e afixados no saguão da Câmara, para conhecimento geral.
+VII - redigir as atas das sessões secretas;  
 
-CAPÍTULO VIII  
- DA RENÚNCIA E DESTITUIÇÃO DA MESA
+VIII - substituir o Presidente, na falta dos Vice-Presidentes.  
+
+Parágrafo único - O 2º Secretário substituirá o 1º Secretário em suas faltas, ausências, impedimentos ou licenças, ficando, nas duas últimas hipóteses, investido na plenitude das respectivas funções.
+
+#### Art. 27 - O primeiro Suplente da Mesa e, na sua falta, o segundo, serão chamados a substituir interinamente o 2º Secretário e, sucessivamente, o 1º Secretário, bem como o 2º Vice-Presidente e o 1º Vice-Presidente, quando afastados temporariamente do cargo.
+
+Parágrafo único - Quando o 1º e 2º Suplentes da Mesa estiverem ocupando os cargos de 1º e 2º Vice-Presidentes, vago o cargo de Presidente, assumirá o 1º Secretário.  
+
+### CAPÍTULO VII - DAS CONTAS DA MESA
+
+#### Art. 28 - As contas da Mesa da Câmara compõem-se de:
+
+I - balancetes mensais, com relação às verbas recebidas e aplicadas, que deverão ser apresentadas à Câmara pelo Presidente, até o dia 20 do mês seguinte ao vencido;  
+
+II - balanço geral anual, que deverá ser enviado até o dia 31 de março do exercício seguinte ao Tribunal de Contas do Município.
+
+#### Art. 29 - Os balancetes mensais, assinados pelo Presidente, e o balanço anual, assinado pela Mesa, serão publicados no órgão oficial de imprensa do Município e afixados no saguão da Câmara, para conhecimento geral.
+
+### CAPÍTULO VIII - DA RENÚNCIA E DESTITUIÇÃO DA MESA
 
 ### Art. 30 - A renúncia do Vereador ao cargo que ocupa na Mesa dar-se-á por ofício a ela dirigido e se efetivará, independentemente de deliberação do Plenário, a partir do momento que for lida em sessão.
 
-Parágrafo único - Em caso de renúncia coletiva de toda a Mesa, o ofício
-respectivo será levado ao conhecimento do Plenário.
+Parágrafo único - Em caso de renúncia coletiva de toda a Mesa, o ofício respectivo será levado ao conhecimento do Plenário.
 
-### Art. 31 - É passível de destituição o membro da Mesa que exorbite de suas
+### Art. 31 - É passível de destituição o membro da Mesa que exorbite de suas atribuições, negligencie ou delas se omita, mediante processo regulado nos artigos seguintes.  
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 14
+ § 1º - A destituição automática de cargo da Mesa declarada por via judicial independe de qualquer formalização regimental.  
 
-  
- atribuições, negligencie ou delas se omita, mediante processo regulado
-nos artigos seguintes.  
- § 1º - A destituição automática de cargo da Mesa declarada por via
-judicial independe de qualquer formalização regimental.  
- § 2º - O membro da Mesa que faltar a 5 (cinco) reuniões consecutivas ou
-a  
- 10 (dez) alternadas, sem motivo justificado, perderá automaticamente o
-cargo que ocupa, mediante comunicação pelo Presidente ao Plenário.
+ § 2º - O membro da Mesa que faltar a 5 (cinco) reuniões consecutivas ou a 10 (dez) alternadas, sem motivo justificado, perderá automaticamente o cargo que ocupa, mediante comunicação pelo Presidente ao Plenário.
 
 ### Art. 32 - O processo de destituição terá início por representação subscrita, no mínimo, pela maioria absoluta da Câmara, necessariamente lida em Plenário, por qualquer de seus signatários, em qualquer fase da sessão, com ampla e circunstanciada fundamentação sobre as irregularidades imputadas.
 
-§ 1º - Oferecida a representação, nos termos do presente artigo, serão
-sorteados 3 (três) Vereadores, entre os desimpedidos, para constituírem
-a Comissão Processante, que se reunirá dentro das 48 (quarenta e oito)
-horas seguintes, sob a presidência do mais idoso de seus membros.  
- § 2º - Instalada a Comissão Processante, o acusado ou acusados serão
-notificados dentro de 3 (três) dias, abrindo-se-lhes o prazo de 10 (dez)
-dias para apresentação, por escrito, de defesa prévia.  
- § 3º - Findo o prazo estabelecido no parágrafo anterior, a Comissão
-Processante, de posse ou não da defesa prévia, procederá às diligências
-que entender necessárias, emitindo, ao final, seu parecer.  
- § 4º - O acusado ou acusados poderão acompanhar todos os atos e
-diligências da Comissão Processante.  
- § 5º - A Comissão Processante terá prazo máximo e improrrogável de 20
-(vinte) dias para emitir e dar à publicação o parecer a que alude o
-parágrafo 3º deste artigo, o qual deverá concluir pela improcedência das
-acusações, se julgá-las infundadas, ou, em caso contrário, por projeto
-de resolução propondo a destituição do acusado ou acusados.
+§ 1º - Oferecida a representação, nos termos do presente artigo, serão sorteados 3 (três) Vereadores, entre os desimpedidos, para constituírem a Comissão Processante, que se reunirá dentro das 48 (quarenta e oito) horas seguintes, sob a presidência do mais idoso de seus membros.  
 
-### Art. 33 - O parecer da Comissão Processante será apreciado, em discussão e votação únicas, nas fases de Expediente da primeira sessão ordinária subseqüente à publicação.
+§ 2º - Instalada a Comissão Processante, o acusado ou acusados serão notificados dentro de 3 (três) dias, abrindo-se-lhes o prazo de 10 (dez) dias para apresentação, por escrito, de defesa prévia.
 
-Parágrafo único - Se, por qualquer motivo, não se concluir nas fases de
-Expediente da primeira sessão ordinária a apreciação do parecer, as
-sessões ordinárias subseqüentes ou as sessões extraordinárias para esse
-fim convocadas serão integral e exclusivamente destinadas ao
-prosseguimento do exame da matéria, até a definitiva deliberação do
-Plenário sobre a mesma.
+§ 3º - Findo o prazo estabelecido no parágrafo anterior, 
+a Comissão Processante, de posse ou não da defesa prévia, procederá às diligências que entender necessárias, emitindo, ao final, seu parecer.
 
-### Art. 34 - O parecer da Comissão Processante que concluir pela improcedência das acusações será votado por maioria simples, procedendo-se:
+§ 4º - O acusado ou acusados poderão acompanhar todos os atos e diligências da Comissão Processante.
+
+§ 5º - A Comissão Processante terá prazo máximo e improrrogável de 20 (vinte) dias para emitir e dar à publicação o parecer a que alude o parágrafo 3º deste artigo, o qual deverá concluir pela improcedência das acusações, se julgá-las infundadas, ou, em caso contrário, por projeto de resolução propondo a destituição do acusado ou acusados.
+
+#### Art. 33 - O parecer da Comissão Processante será apreciado, em discussão e votação únicas, nas fases de Expediente da primeira sessão ordinária subseqüente à publicação.
+
+Parágrafo único - Se, por qualquer motivo, não se concluir nas fases de Expediente da primeira sessão ordinária a apreciação do parecer, as sessões ordinárias subseqüentes ou as sessões extraordinárias para esse
+fim convocadas serão integral e exclusivamente destinadas ao prosseguimento do exame da matéria, até a definitiva deliberação do Plenário sobre a mesma.
+
+#### Art. 34 - O parecer da Comissão Processante que concluir pela improcedência das acusações será votado por maioria simples, procedendo-se:
 
 I - ao arquivamento do processo, se aprovado o parecer;  
- II - à remessa do processo à Comissão de Constituição e Justiça, se
-rejeitado.  
- § 1º - Ocorrendo a hipótese prevista no inciso II do presente artigo, a
-Comissão de Constituição e Justiça elaborará, dentro de 3 (três) dias da
-deliberação do Plenário, parecer que conclua por projeto de resolução
+
+II - à remessa do processo à Comissão de Constituição e Justiça, se rejeitado.  
+
+§ 1º - Ocorrendo a hipótese prevista no inciso II do presente artigo, a Comissão de Constituição e Justiça elaborará, dentro de 3 (três) dias da deliberação do Plenário, parecer que conclua por projeto de resolução
 propondo a destituição do acusado ou acusados.  
- § 2º - O parecer mencionado no parágrafo anterior será apreciado na
-mesma forma prevista no artigo 33, exigindo-se, para sua aprovação, o
-voto favorável de, no mínimo, 2/3 (dois terços) dos membros da Câmara.
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 15
+§ 2º - O parecer mencionado no parágrafo anterior será apreciado na mesma forma prevista no artigo 33, exigindo-se, para sua aprovação, o voto favorável de, no mínimo, 2/3 (dois terços) dos membros da Câmara.
 
- 
+#### Art. 35 - A aprovação de parecer que concluir por projeto de resolução, acarretará a destituição imediata do acusado ou acusados.
 
-### Art. 35 - A aprovação de parecer que concluir por projeto de resolução, acarretará a destituição imediata do acusado ou acusados.
+Parágrafo único - A resolução respectiva será promulgada e enviada à publicação, dentro de 48 (quarenta e oito) horas da deliberação do Plenário:
 
-Parágrafo único - A resolução respectiva será promulgada e enviada à
-publicação, dentro de 48 (quarenta e oito) horas da deliberação do
-Plenário:  
- I - pela Mesa, se a destituição não houver atingido a maioria de seus
-membros;  
- II - pela Comissão de Constituição e Justiça, em caso contrário, ou
-quando da hipótese do inciso anterior, a Mesa não o fizer dentro do
-prazo estabelecido.
+I - pela Mesa, se a destituição não houver atingido a maioria de seus membros;
 
-### Art. 36 - O membro da Mesa envolvido nas acusações não poderá presidir nem secretariar os trabalhos, quando e enquanto estiver sendo apreciado o parecer da Comissão Processante ou o parecer da Comissão de Constituição e Justiça, estando igualmente impedido de participar de sua votação.
+II - pela Comissão de Constituição e Justiça, em caso contrário, ou quando da hipótese do inciso anterior, a Mesa não o fizer dentro do prazo estabelecido.
 
-### Art. 37 - Para discutir o parecer da Comissão Processante e da Comissão de Constituição e Justiça, cada Vereador disporá de 15 (quinze) minutos, exceto o relator e o acusado ou os acusados, cada um dos quais poderá falar durante 120 (cento e vinte) minutos, sendo vedada a cessão de tempo.
+#### Art. 36 - O membro da Mesa envolvido nas acusações não poderá presidir nem secretariar os trabalhos, quando e enquanto estiver sendo apreciado o parecer da Comissão Processante ou o parecer da Comissão de Constituição e Justiça, estando igualmente impedido de participar de sua votação.
+
+#### Art. 37 - Para discutir o parecer da Comissão Processante e da Comissão de Constituição e Justiça, cada Vereador disporá de 15 (quinze) minutos, exceto o relator e o acusado ou os acusados, cada um dos quais poderá falar durante 120 (cento e vinte) minutos, sendo vedada a cessão de tempo.
 
 Parágrafo único - Terão preferência na ordem de inscrição,
 respectivamente, o relator do parecer e o acusado ou acusados.
 
-### TÍTULO III
+## TÍTULO III - DAS COMISSÕES  
 
-DAS COMISSÕES  
- CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+### CAPÍTULO I - DISPOSIÇÕES PRELIMINARES
 
-### Art. 38 - As Comissões serão:
+#### Art. 38 - As Comissões serão:
 
-### I - Permanentes - as de caráter técnico-legislativo, que têm por finalidade apreciar os assuntos ou proposições submetidas ao seu exame, assim como exercer as demais atribuições previstas na Lei Orgânica do Município e neste Regimento;
+I - Permanentes - as de caráter técnico-legislativo, que têm por finalidade apreciar os assuntos ou proposições submetidas ao seu exame, assim como exercer as demais atribuições previstas na Lei Orgânica do Município e neste Regimento;
 
-### II - Temporárias - as criadas para apreciar assunto específico, que se extinguem quando atingida a sua finalidade ou expirado seu prazo de duração.
+II - Temporárias - as criadas para apreciar assunto específico, que se extinguem quando atingida a sua finalidade ou expirado seu prazo de duração.
 
-### § 1º Além das Comissões Permanentes de caráter técnico-legislativo, ficam criadas as Comissões Extraordinárias Permanentes de Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais; de Defesa dos Direitos da Criança, do Adolescente e da Juventude; do Idoso e de Assistência Social; e de Meio Ambiente.
+§ 1º Além das Comissões Permanentes de caráter técnico-legislativo, ficam criadas as Comissões Extraordinárias Permanentes de Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais; de Defesa dos Direitos da Criança, do Adolescente e da Juventude; do Idoso e de Assistência Social; e de Meio Ambiente.
 
-### § 2º As Comissões Extraordinárias Permanentes de Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais e de Defesa dos Direitos da Criança, do Adolescente e da Juventude, com 9 (nove) membros cada e as Comissões Extraordinárias Permanentes do Idoso e de Assistência Social; e de Meio Ambiente, com 7 (sete) membros cada, não são consideradas para efeitos de representação numérica estabelecida pelo art. 40 do Regimento.
+§ 2º As Comissões Extraordinárias Permanentes de Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais e de Defesa dos Direitos da Criança, do Adolescente e da Juventude, com 9 (nove) membros cada e as Comissões Extraordinárias Permanentes do Idoso e de Assistência Social; e de Meio Ambiente, com 7 (sete) membros cada, não são consideradas para efeitos de representação numérica estabelecida pelo art. 40 do Regimento.
 
-(§§ 1º e 2º - redação dada pela Resolução 1/07 e posteriormente pela
+(§§ 1º e 2º - redação dada pela Resolução 1/07 e posteriormente pela Resolução 4/10)
 
-Resolução 4/10)
+§ 3º Os vereadores que fizerem parte destas comissões poderão participar das demais Comissões Permanentes de caráter técnico-legislativo, nos termos deste Regimento.
 
-### § 3º Os vereadores que fizerem parte destas comissões poderão participar das demais Comissões Permanentes de caráter técnico-legislativo, nos termos deste Regimento.
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 16
-
- 
-
-### § 4º Aplicam-se a estas comissões, no que couber, as disposições regimentais relativas às Comissões Permanentes, em especial os arts. 43, 50 e
-
-### 57.
+§ 4º Aplicam-se a estas comissões, no que couber, as disposições regimentais relativas às Comissões Permanentes, em especial os arts. 43, 50 e 57.
 
 (Art. 38 - redação dada pela Resolução 1/07)
 
-CAPÍTULO II  
- DAS COMISSÕES PERMANENTES  
- SEÇÃO I
+### CAPÍTULO II - DAS COMISSÕES PERMANENTES  
 
-### Disposições Preliminares
+### SEÇÃO I
 
-### Art. 39 - As Comissões Permanentes, em número de 7 (sete), têm as seguintes denominações e composição:
+Disposições Preliminares
 
-### I – Constituição, Justiça e Legislação Participativa, com 9 (nove)
+#### Art. 39 - As Comissões Permanentes, em número de 7 (sete), têm as seguintes denominações e composição:
 
-### membros;
+I – Constituição, Justiça e Legislação Participativa, com 9 (nove) membros;
 
 (redação dada pela Resolução 1/07)
 
-### II - Finanças e Orçamento, com 9 (nove) membros;
+II - Finanças e Orçamento, com 9 (nove) membros;
 
 (redação dada pela Resolução 8/92)
 
-III - Política Urbana, Metropolitana e Meio Ambiente, com 7 (sete
-membros); IV - Administração Pública, com 7 (sete) membros;
+III - Política Urbana, Metropolitana e Meio Ambiente, com 7 (sete membros);
 
-### V - Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e
+IV - Administração Pública, com 7 (sete) membros;
 
-### Gastronomia, com 7 (sete) membros;
+V - Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia, com 7 (sete) membros;
 
-(redação dada pelo art. 1° da Resolução 4/96 e posteriormente pela
-
-Resolução 1/07)
+(redação dada pelo art. 1° da Resolução 4/96 e posteriormente pela Resolução 1/07)
 
 VI - Educação, Cultura e Esportes, com 7 (sete) membros;
 
-### VII - Saúde, Promoção Social, Trabalho, Idoso e Mulher, com 7 (sete)
-
-### membros.
+VII - Saúde, Promoção Social, Trabalho, Idoso e Mulher, com 7 (sete) membros.
 
 (redação dada pela Resolução 1/07)
 
-SEÇÃO II
+### SEÇÃO II - Da Composição das Comissões Permanentes
 
-### Da Composição das Comissões Permanentes
+#### Art. 40 - A representação numérica das bancadas nas Comissões será estabelecida dividindo-se o número de Vereadores de cada partido, exceto os citados no artigo 8º, pelo número de Comissões, sendo que o inteiro do quociente final, dito quociente partidário, representará o número de vagas que cada bancada terá nas Comissões.
 
-### Art. 40 - A representação numérica das bancadas nas Comissões será estabelecida dividindo-se o número de Vereadores de cada partido, exceto os citados no artigo 8º, pelo número de Comissões, sendo que o inteiro do quociente final, dito quociente partidário, representará o número de vagas que cada bancada terá nas Comissões.
+§ 1º - As vagas remanescentes, uma vez aplicado o critério do "caput", serão distribuídas aos partidos levando-se em conta as frações do quociente partidário, da maior para a menor.
 
-§ 1º - As vagas remanescentes, uma vez aplicado o critério do "caput",
-serão distribuídas aos partidos levando-se em conta as frações do
-quociente partidário, da maior para a menor.  
- § 2º - Em caso de empate, terá sempre preferência o Partido que ainda
-estiver sem representação nas Comissões, levando-se em conta a ordem
-estabelecida no artigo 39.  
- § 3º - Persistindo o empate, o critério será para o Partido de maior
-representação partidária, incluindo-se os impedidos citados no artigo 8º
-.  
- § 4º - Caso ainda permaneça o empate, será então considerada a maior
-representação partidária do início da legislatura.
+§ 2º - Em caso de empate, terá sempre preferência o Partido que ainda estiver sem representação nas Comissões, levando-se em conta a ordem estabelecida no artigo 39.
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 17
+§ 3º - Persistindo o empate, o critério será para o Partido de maior representação partidária, incluindo-se os impedidos citados no artigo 8º.  
 
-  
- § 5º - Havendo concordância entre lideranças, poderá ocorrer a permuta
-de vagas para prevalecer o critério da atividade profissional do
-Vereador com a competência da Comissão.
+§ 4º - Caso ainda permaneça o empate, será então considerada a maior representação partidária do início da legislatura.
 
-### Art. 41 - Dentro da mesma legislatura, os mandatos dos membros de Comissão Permanente ficam automaticamente prorrogados até que se proceda a sua recomposição.
+§ 5º - Havendo concordância entre lideranças, poderá ocorrer a permuta de vagas para prevalecer o critério da atividade profissional do Vereador com a competência da Comissão. 
 
-§ 1º - No ato da composição das Comissões Permanentes, figurará sempre o
-nome do Vereador efetivo, ainda que licenciado.  
- § 2º - Os Suplentes de Vereador não poderão ser eleitos e nem assumir a
-presidência e vice-presidência das Comissões.  
- § 3º - Todo Vereador deverá fazer parte de uma Comissão Permanente como
-membro efetivo e de outra como membro substituto, ainda que sem legenda
-partidária, observados os impedimentos do artigo 8º.
+#### Art. 41 - Dentro da mesma legislatura, os mandatos dos membros de Comissão Permanente ficam automaticamente prorrogados até que se proceda a sua recomposição.
 
-### Art. 42 - O Presidente da Câmara fará publicar na Imprensa Oficial, para a
+§ 1º - No ato da composição das Comissões Permanentes, figurará sempre o nome do Vereador efetivo, ainda que licenciado.
 
-1ª sessão ordinária da sessão legislativa, a representação numérica dos
-partidos nas Comissões, tendo as lideranças o prazo de 5 (cinco) dias
-úteis para a indicação dos membros que, como titulares e substitutos,
-irão integrar cada Comissão.  
- Parágrafo único - O Presidente fará, de ofício, a designação se, no
-prazo fixado, a liderança não comunicar os nomes de sua representação
-para compor as Comissões.
+§ 2º - Os Suplentes de Vereador não poderão ser eleitos e nem assumir a presidência e vice-presidência das Comissões.
 
-### Art. 43 - Constituídas as Comissões Permanentes, cada uma delas se reunirá para, sob a presidência do mais idoso de seus membros presentes, proceder à eleição dos respectivos Presidentes e Vice-Presidentes, respeitando, tanto quanto possível, a proporcionalidade partidária.
+§ 3º - Todo Vereador deverá fazer parte de uma Comissão Permanente como membro efetivo e de outra como membro substituto, ainda que sem legenda partidária, observados os impedimentos do artigo 8º.
 
-§ 1º - Ocorrendo empate para qualquer dos cargos, a decisão será por  
- sorteio.  
- § 2º - Após a comunicação do resultado em Plenário, o Presidente
-enviará à  
- publicação, na Imprensa Oficial, a composição nominal de cada Comissão,
-com a designação dos locais, dias e horários das reuniões.  
- § 3º - As modificações numéricas que venham a ocorrer nas bancadas dos
-partidos, que importem alterações da proporcionalidade partidária na
-composição das Comissões, só prevalecerão a partir da sessão legislativa
-subseqüente.
+#### Art. 42 - O Presidente da Câmara fará publicar na Imprensa Oficial, para a 1ª sessão ordinária da sessão legislativa, a representação numérica dos partidos nas Comissões, tendo as lideranças o prazo de 5 (cinco) dias úteis para a indicação dos membros que, como titulares e substitutos, irão integrar cada Comissão.
 
-### Art. 44 - Os membros das Comissões Permanentes serão destituídos caso não compareçam a 5 (cinco) reuniões ordinárias consecutivas ou a 10 (dez) intercaladas, sem motivo justificado.
+Parágrafo único - O Presidente fará, de ofício, a designação se, no prazo fixado, a liderança não comunicar os nomes de sua representação para compor as Comissões.
 
-§ 1º - A destituição dar-se-á por simples petição de qualquer Vereador
-dirigida ao Presidente da Câmara que, após comprovar a veracidade das
-faltas, declarará vago o cargo na Comissão.  
- § 2º - Não se aplicará o disposto neste artigo ao Vereador que
-comunicar ao Presidente da Comissão as razões de sua ausência para
-posterior justificação das faltas perante o Presidente da Câmara, nos
-termos do inciso IV do artigo 18, desde que deferido o pedido de
-justificação.  
- § 3º - O Vereador destituído nos termos do presente artigo não poderá
-ser designado para integrar nenhuma outra Comissão Permanente até o
-final da sessão legislativa.
+#### Art. 43 - Constituídas as Comissões Permanentes, cada uma delas se reunirá para, sob a presidência do mais idoso de seus membros presentes, proceder à eleição dos respectivos Presidentes e Vice-Presidentes, respeitando, tanto quanto possível, a proporcionalidade partidária.
 
-### Art. 45 - No caso de vaga, licença ou impedimento de qualquer membro das
+§ 1º - Ocorrendo empate para qualquer dos cargos, a decisão será por sorteio.  
 
-Comissões Permanentes, caberá ao Presidente da Câmara a designação de
+§ 2º - Após a comunicação do resultado em Plenário, o Presidente enviará à publicação, na Imprensa Oficial, a composição nominal de cada Comissão, com a designação dos locais, dias e horários das reuniões. 
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 18
+§ 3º - As modificações numéricas que venham a ocorrer nas bancadas dos partidos, que importem alterações da proporcionalidade partidária na composição das Comissões, só prevalecerão a partir da sessão legislativa subseqüente.
 
-  
- substituto, mediante indicação do Líder do Partido a que pertença a
-vaga.  
- Parágrafo único - A substituição perdurará enquanto persistir a licença
-ou o impedimento.  
- SEÇÃO III
+#### Art. 44 - Os membros das Comissões Permanentes serão destituídos caso não compareçam a 5 (cinco) reuniões ordinárias consecutivas ou a 10 (dez) intercaladas, sem motivo justificado.
 
-### Da Competência das Comissões Permanentes
+§ 1º - A destituição dar-se-á por simples petição de qualquer Vereador dirigida ao Presidente da Câmara que, após comprovar a veracidade das faltas, declarará vago o cargo na Comissão.
 
-### Art. 46 - Às Comissões Permanentes, em razão da matéria de sua competência, cabe:
+§ 2º - Não se aplicará o disposto neste artigo ao Vereador que comunicar ao Presidente da Comissão as razões de sua ausência para posterior justificação das faltas perante o Presidente da Câmara, nos termos do inciso IV do artigo 18, desde que deferido o pedido de
+justificação.
+
+§ 3º - O Vereador destituído nos termos do presente artigo não poderá ser designado para integrar nenhuma outra Comissão Permanente até o final da sessão legislativa.
+
+#### Art. 45 - No caso de vaga, licença ou impedimento de qualquer membro das Comissões Permanentes, caberá ao Presidente da Câmara a designação de substituto, mediante indicação do Líder do Partido a que pertença a vaga.  
+
+Parágrafo único - A substituição perdurará enquanto persistir a licença ou o impedimento.  
+
+### SEÇÃO III - Da Competência das Comissões Permanentes
+
+#### Art. 46 - Às Comissões Permanentes, em razão da matéria de sua competência, cabe:
 
 I - estudar proposições e outras matérias submetidas ao seu exame:  
- a) dando-lhes parecer, oferecendo-lhes substitutivos ou emendas;  
- b) apresentando relatório conclusivo sobre as averiguações e
-inquéritos.  
- II - promover estudos, pesquisas e investigações sobre assuntos de
-interesse público;  
- III - tomar a iniciativa de elaboração de proposições ligadas ao estudo
-de tais assuntos ou decorrentes de indicação da Câmara ou de
-dispositivos regimentais;  
- IV - redigir o vencido em primeira discussão ou em discussão única e
-oferecer redação final aos projetos, de acordo com o seu mérito, bem
-como, quando for o caso, propor a reabertura da discussão nos termos
-regimentais;  
- V - realizar audiências públicas;  
- VI - convocar os Secretários Municipais, os responsáveis pela
-administração direta ou indireta e os Conselheiros do Tribunal de Contas
-do Município, para prestar informações sobre assuntos inerentes às suas
-atribuições;  
- VII - receber petições, reclamações, representações ou queixas de
-associações e entidades comunitárias ou de qualquer pessoa contra atos e
-omissões de autoridades municipais ou entidades públicas;  
- VIII - solicitar ao Prefeito informações sobre assuntos inerentes à
-administração, dentro da competência da Comissão;  
- IX - fiscalizar, inclusive efetuando diligências, vistorias e
-levantamentos "in loco", os atos da administração direta e indireta, nos
-termos da legislação pertinente, em especial para verificar a
-regularidade, a eficiência e a eficácia dos seus órgãos no cumprimento
-dos objetivos institucionais, recorrendo ao auxílio do Tribunal de
-Contas do Município, sempre que necessário;  
- X - discutir e votar projetos de lei que exigir maioria simples,
-dispensada a competência do Plenário, salvo com recurso de 1/10 (um
-décimo) dos membros da Casa;  
- XI - acompanhar, junto ao Executivo, os atos de regulamentação, velando
-por sua completa adequação;  
- XII - acompanhar, junto ao Executivo, a elaboração da proposta
-orçamentária, bem como a sua posterior execução;  
- XIII - solicitar informações ou depoimentos de autoridades ou
-cidadãos;  
- XIV - apreciar programas de obras, planos regionais e setoriais de
-desenvolvimento e sobre eles emitir parecer;  
- XV - requisitar dos responsáveis a exibição de documentos e a prestação
-dos esclarecimentos necessários;  
- XVI - solicitar ao Presidente do Tribunal de Contas informações sobre
-assuntos inerentes à atuação administrativa desse órgão.
+* a) dando-lhes parecer, oferecendo-lhes substitutivos ou emendas;  
+* b) apresentando relatório conclusivo sobre as averiguações e inquéritos.  
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 19
+II - promover estudos, pesquisas e investigações sobre assuntos de interesse público;  
 
- 
+III - tomar a iniciativa de elaboração de proposições ligadas ao estudo de tais assuntos ou decorrentes de indicação da Câmara ou de dispositivos regimentais;  
 
-### Art. 47 - É da competência específica:
+IV - redigir o vencido em primeira discussão ou em discussão única e oferecer redação final aos projetos, de acordo com o seu mérito, bem como, quando for o caso, propor a reabertura da discussão nos termos regimentais; 
 
-### I - Da Comissão de Constituição, Justiça e Legislação Participativa:
+V - realizar audiências públicas;  
 
-### a) opinar sobre o aspecto constitucional, legal e regimental das proposições, as quais não poderão tramitar na Câmara sem o seu parecer;
+VI - convocar os Secretários Municipais, os responsáveis pela administração direta ou indireta e os Conselheiros do Tribunal de Contas do Município, para prestar informações sobre assuntos inerentes às suas atribuições;  
 
-### b) dar encaminhamento às sugestões de proposições encaminhadas por entidades civis, como sindicatos, órgãos de classe, associações e organizações não-governamentais (ONGs);
+VII - receber petições, reclamações, representações ou queixas de associações e entidades comunitárias ou de qualquer pessoa contra atos e omissões de autoridades municipais ou entidades públicas;
 
-### c) fiscalizar e acompanhar o cumprimento das leis aprovadas no
+VIII - solicitar ao Prefeito informações sobre assuntos inerentes à administração, dentro da competência da Comissão;
 
-### Município;
+IX - fiscalizar, inclusive efetuando diligências, vistorias e levantamentos "in loco", os atos da administração direta e indireta, nos termos da legislação pertinente, em especial para verificar a regularidade, a eficiência e a eficácia dos seus órgãos no cumprimento dos objetivos institucionais, recorrendo ao auxílio do Tribunal de Contas do Município, sempre que necessário;  
 
-### d) promover estudos e debates sobre temas jurídicos, éticos, sociais, de interesse da comunidade;
+X - discutir e votar projetos de lei que exigir maioria simples, dispensada a competência do Plenário, salvo com recurso de 1/10 (um décimo) dos membros da Casa;  
 
-### e) desincumbir-se de outras atribuições que lhe confere este
+XI - acompanhar, junto ao Executivo, os atos de regulamentação, velando por sua completa adequação;  
 
-### Regimento.
+XII - acompanhar, junto ao Executivo, a elaboração da proposta orçamentária, bem como a sua posterior execução;
+ 
+XIII - solicitar informações ou depoimentos de autoridades ou cidadãos;
+
+XIV - apreciar programas de obras, planos regionais e setoriais de desenvolvimento e sobre eles emitir parecer;
+
+XV - requisitar dos responsáveis a exibição de documentos e a prestação dos esclarecimentos necessários;  
+
+XVI - solicitar ao Presidente do Tribunal de Contas informações sobre assuntos inerentes à atuação administrativa desse órgão.
+
+#### Art. 47 - É da competência específica:
+
+I - Da Comissão de Constituição, Justiça e Legislação Participativa:
+
+* a) opinar sobre o aspecto constitucional, legal e regimental das proposições, as quais não poderão tramitar na Câmara sem o seu parecer;
+
+* b) dar encaminhamento às sugestões de proposições encaminhadas por entidades civis, como sindicatos, órgãos de classe, associações e organizações não-governamentais (ONGs);
+
+* c) fiscalizar e acompanhar o cumprimento das leis aprovadas no Município;
+
+* d) promover estudos e debates sobre temas jurídicos, éticos, sociais, de interesse da comunidade;
+
+* e) desincumbir-se de outras atribuições que lhe confere este Regimento.
 
 (redação dada pela Resolução 1/07)
 
 II - Da Comissão de Finanças e Orçamentos:  
- a) examinar e emitir parecer sobre projetos de lei relativos ao plano
-plurianual, às diretrizes orçamentárias, ao orçamento anual e aos
-créditos adicionais, além das contas apresentadas anualmente pelo
-Prefeito, pela Mesa da Câmara e pelo Tribunal de Contas do Município;  
- b) examinar e emitir parecer sobre os planos e programas municipais e
-setoriais previstos na Lei Orgânica do Município, e exercer o
-acompanhamento e a fiscalização orçamentária;  
- c) receber as emendas à proposta orçamentária do Município e sobre elas
-emitir parecer;  
- d) elaborar a redação final do projeto de lei orçamentária;  
- e) opinar sobre proposições referentes a matéria tributária, abertura
-de créditos, empréstimos públicos, dívida pública e outras que, direta
-ou indiretamente, alterem a despesa ou a receita do Município e
-acarretem responsabilidades para o erário municipal;  
- f) obtenção de empréstimos de particulares.  
- III - Da Comissão de Política Urbana, Metropolitana e Meio Ambiente:  
- a) opinar sobre todas proposições e matérias relativas a:  
- 1 - cadastro territorial do Município, planos gerais e parciais de
-urbanização ou reurbanização, zoneamento e uso e ocupação do solo;  
- 2 - obras e serviços públicos, seu uso e gozo, venda, hipoteca,
-permuta, outorga de concessão administrativa ou direito real de uso de
-bens imóveis de propriedade do Município;  
- 3 - serviços de utilidade pública, sejam ou não de concessão municipal,
-planos habitacionais elaborados ou executados pelo Município,
-diretamente ou por intermédio de autarquias ou entidades paraestatais;  
- 4 - criação, organização ou supressão de distritos e subdistritos,
-divisão do território em áreas administrativas;  
- 5 - Plano Diretor;
+* a) examinar e emitir parecer sobre projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais, além das contas apresentadas anualmente pelo Prefeito, pela Mesa da Câmara e pelo Tribunal de Contas do Município;
+* b) examinar e emitir parecer sobre os planos e programas municipais e setoriais previstos na Lei Orgânica do Município, e exercer o acompanhamento e a fiscalização orçamentária;
+* c) receber as emendas à proposta orçamentária do Município e sobre elas emitir parecer;  
+* d) elaborar a redação final do projeto de lei orçamentária;
+* e) opinar sobre proposições referentes a matéria tributária, abertura de créditos, empréstimos públicos, dívida pública e outras que, direta ou indiretamente, alterem a despesa ou a receita do Município e acarretem responsabilidades para o erário municipal;
+* f) obtenção de empréstimos de particulares.  
 
-### 6 - controle da poluição ambiental em todos os seus aspectos, proteção da vida humana e preservação dos recursos naturais;
+III - Da Comissão de Política Urbana, Metropolitana e Meio Ambiente:  
+* a) opinar sobre todas proposições e matérias relativas a:
+	* 1 - cadastro territorial do Município, planos gerais e parciais de urbanização ou reurbanização, zoneamento e uso e ocupação do solo;  
+	* 2 - obras e serviços públicos, seu uso e gozo, venda, hipoteca, permuta, outorga de concessão administrativa ou direito real de uso de bens imóveis de propriedade do Município;  
+	* 3 - serviços de utilidade pública, sejam ou não de concessão municipal, planos habitacionais elaborados ou executados pelo Município, diretamente ou por intermédio de autarquias ou entidades paraestatais;  
+	* 4 - criação, organização ou supressão de distritos e subdistritos, divisão do território em áreas administrativas;  
+	* 5 - Plano Diretor;
+	* 6 - controle da poluição ambiental em todos os seus aspectos, proteção da vida humana e preservação dos recursos naturais; 
+	* (supressão do item 6 e renumeração do item 7 para item 6, pelo art. 2° da Resolução 4/96)
+* b) examinar, a título informativo, os serviços públicos de concessão estadual ou federal que interessem ao Município.
 
-(supressão do item 6 e renumeração do item 7 para item 6, pelo art. 2°
-da
+IV - Da Comissão de Administração Pública:  
+	* a) opinar sobre todas as proposições e matérias relativas a:  
+	 * 1 - criação, estruturação e atribuição da administração direta e indireta e das empresas onde o Município tenha participação;
+	* 2 - normas gerais de licitações, em todas as suas modalidades, e contratação de produtos, obras e serviços da administração direta e indireta;  
+	* 3 - pessoal fixo e variável da Prefeitura, do Tribunal de Contas e da Câmara Municipal, bem como a política de recursos humanos;  
+	* 4 - serviços públicos realizados ou prestados pelo Município, diretamente ou por intermédio de autarquias ou órgãos paraestatais, excluídos os de assistência médico-hospitalar e de pronto-socorro.
 
-Resolução 4/96)
+V - Da Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia:
 
-b) examinar, a título informativo, os serviços públicos de concessão
-estadual ou federal que interessem ao Município.  
- IV - Da Comissão de Administração Pública:  
- a) opinar sobre todas as proposições e matérias relativas a:  
- 1 - criação, estruturação e atribuição da administração direta e
-indireta e
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 20
-
-  
- das empresas onde o Município tenha participação;  
- 2 - normas gerais de licitações, em todas as suas modalidades, e
-contratação de produtos, obras e serviços da administração direta e
-indireta;  
- 3 - pessoal fixo e variável da Prefeitura, do Tribunal de Contas e da
-Câmara  
- Municipal, bem como a política de recursos humanos;  
- 4 - serviços públicos realizados ou prestados pelo Município,
-diretamente ou por intermédio de autarquias ou órgãos paraestatais,
-excluídos os de assistência médico-hospitalar e de pronto-socorro.
-
-### V - Da Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia:
-
-### a) opinar sobre todas as proposições e matérias relativas a:
-
-### 1 – disciplina das atividades econômicas desenvolvidas no Município;
-
-### 2 – economia urbana e rural, desenvolvimento técnico e científico aplicado à indústria e ao comércio;
-
-### 3 – turismo e defesa do consumidor;
-
-### 4 – abastecimento de produtos;
-
-### 5 – transportes coletivos ou individuais, frete e carga, vias urbanas e estradas municipais e a respectiva sinalização, bem como os meios de comunicação e demais elementos pertinentes ao sistema de circulação na cidade;
-
-### b) promover estudos e iniciativas no sentido do desenvolvimento do turismo, do lazer e da gastronomia no Município de São Paulo;
-
-### c) apoiar, com ajuda de entidades governamentais e não- governamentais a indústria do lazer e do turismo receptivo;
-
-### d) propor medidas de incentivo ao desenvolvimento da cultura da hospitalidade;
-
-### e) promover as relações intercidades no âmbito nacional e internacional;
-
-### f) fiscalizar e acompanhar as ações do Poder Público na área do turismo, do lazer e da gastronomia.
+* a) opinar sobre todas as proposições e matérias relativas a:
+	* 1 – disciplina das atividades econômicas desenvolvidas no Município;
+	* 2 – economia urbana e rural, desenvolvimento técnico e científico aplicado à indústria e ao comércio;
+	* 3 – turismo e defesa do consumidor;
+	* 4 – abastecimento de produtos;
+	* 5 – transportes coletivos ou individuais, frete e carga, vias urbanas e estradas municipais e a respectiva sinalização, bem como os meios de comunicação e demais elementos pertinentes ao sistema de circulação na cidade;
+* b) promover estudos e iniciativas no sentido do desenvolvimento do turismo, do lazer e da gastronomia no Município de São Paulo;
+* c) apoiar, com ajuda de entidades governamentais e não- governamentais a indústria do lazer e do turismo receptivo;
+* d) propor medidas de incentivo ao desenvolvimento da cultura da hospitalidade;
+* e) promover as relações intercidades no âmbito nacional e internacional;
+* f) fiscalizar e acompanhar as ações do Poder Público na área do turismo, do lazer e da gastronomia.
 
 (redação dada pela Resolução 1/07)
 
 VI - Da Comissão de Educação, Cultura e Esportes:  
- a) opinar sobre todas as proposições e matérias relativas a:  
- 1 - sistema municipal de ensino;  
- 2 - concessão de bolsas de estudos com finalidade de assistência à
-pesquisa tecnológica e científica para o aperfeiçoamento do ensino;  
- 3 - programas de merenda escolar;  
- 4 - preservação da memória da cidade no plano estético, paisagístico,
-de seu patrimônio histórico, cultural, artístico e arquitetônico;  
- 5 - denominação de próprios, vias e logradouros públicos;  
- 6 - concessão de títulos honoríficos, outorga de honrarias, prêmios ou
-homenagens a pessoas que, reconhecidamente, tenham prestado serviços ao
+* a) opinar sobre todas as proposições e matérias relativas a:  
+	* 1 - sistema municipal de ensino;  
+	* 2 - concessão de bolsas de estudos com finalidade de assistência à pesquisa tecnológica e científica para o aperfeiçoamento do ensino;  
+	* 3 - programas de merenda escolar;  
+	* 4 - preservação da memória da cidade no plano estético, paisagístico, de seu patrimônio histórico, cultural, artístico e arquitetônico;  
+	* 5 - denominação de próprios, vias e logradouros públicos;  
+	* 6 - concessão de títulos honoríficos, outorga de honrarias, prêmios ou homenagens a pessoas que, reconhecidamente, tenham prestado serviços ao
 Município;  
- 7 - serviços, equipamentos e programas culturais, educacionais,
-esportivos, recreativos e de lazer voltados à comunidade.
+	* 7 - serviços, equipamentos e programas culturais, educacionais, esportivos, recreativos e de lazer voltados à comunidade.
 
-### VII – Da Comissão de Saúde, Promoção Social, Trabalho e Mulher:
+VII – Da Comissão de Saúde, Promoção Social, Trabalho e Mulher:
 
-### a) opinar sobre todas as proposições e matérias relativas a:
-
-### 1 – sistema único de saúde e seguridade social;
-
-### 2 – vigilância sanitária, epidemiológica e nutricional;
-
-### 3 – segurança do trabalho e saúde do trabalhador;
-
-### 4 – programas de proteção ao idoso, à mulher, à criança, ao adolescente e a portadores de deficiência;
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 21
-
- 
-
-### b) receber, analisar e avaliar as reclamações, consultas e denúncias relativas à questão da discriminação racial;
-
-### c) receber, avaliar e proceder investigações e denúncias relativas às ameaças dos interesses e direitos da mulher;
-
-### d) fiscalizar e acompanhar programas governamentais e não governamentais de políticas públicas para as mulheres e relativos aos interesses e direitos da mulher;
-
-### e) colaborar com entidades nacionais e internacionais que atuem na defesa dos interesses e dos direitos da mulher;
-
-### f) trabalhar em conjunto com a Comissão Extraordinária Permanente de Defesa dos Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais, com a Comissão Extraordinária Permanente do Idoso e de Assistência Social, bem como junto à Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude na defesa dos direitos da mulher, quando houver ameaças à violação dos direitos da mulher nas diferentes fases de sua vida;
-
-### g) pesquisar e estudar a situação das mulheres no Município de São
-
-### Paulo.
+* a) opinar sobre todas as proposições e matérias relativas a:
+	* 1 – sistema único de saúde e seguridade social;
+	* 2 – vigilância sanitária, epidemiológica e nutricional;
+	* 3 – segurança do trabalho e saúde do trabalhador;
+	* 4 – programas de proteção ao idoso, à mulher, à criança, ao adolescente e a portadores de deficiência;
+* b) receber, analisar e avaliar as reclamações, consultas e denúncias relativas à questão da discriminação racial;
+* c) receber, avaliar e proceder investigações e denúncias relativas às ameaças dos interesses e direitos da mulher;
+* d) fiscalizar e acompanhar programas governamentais e não governamentais de políticas públicas para as mulheres e relativos aos interesses e direitos da mulher;
+* e) colaborar com entidades nacionais e internacionais que atuem na defesa dos interesses e dos direitos da mulher;
+* f) trabalhar em conjunto com a Comissão Extraordinária Permanente de Defesa dos Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais, com a Comissão Extraordinária Permanente do Idoso e de Assistência Social, bem como junto à Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude na defesa dos direitos da mulher, quando houver ameaças à violação dos direitos da mulher nas diferentes fases de sua vida;
+* g) pesquisar e estudar a situação das mulheres no Município de São Paulo.
 
 (redação dada pela Resolução 1/07 e posteriormente pela Resolução 4/10)
 
-### VIII - Da Comissão Extraordinária Permanente de Defesa dos Direitos
-
-### Humanos, Cidadania, Segurança Pública e Relações Internacionais:
-
-### a) receber, avaliar e proceder a investigação de denúncias relativas às ameaças ou violações de direitos humanos;
-
-### b) fiscalizar e acompanhar programas governamentais relativos à proteção dos direitos humanos;
-
-### c) colaborar com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos direitos humanos;
-
-### d) pesquisar e estudar a situação da cidadania e dos direitos humanos no Município de São Paulo;
-
-### e) pronunciar-se sobre assuntos de segurança pública com implicações no âmbito do Município;
-
-### f) promover estudos e reuniões com especialistas na área de violência, juntamente com a sociedade civil, sobre a criminalidade e a segurança pública, propondo medidas necessárias à melhoria da prevenção e proteção da comunidade sob os mais diversos segmentos;
-
-### g) coletar regularmente notícias e opiniões veiculadas na mídia sobre a atuação da segurança pública no Município;
-
-### h) atuar junto às esferas dos Governos Federal e Estadual, a fim de implementar a política de segurança pública no Município;
-
-### i) apresentar sugestões para o aperfeiçoamento da legislação pertinente à segurança pública;
-
-### j) encaminhar aos órgãos competentes avaliações periódicas sobre as necessidades relativas à segurança pública;
-
-### k) fiscalizar e acompanhar as ações do Poder Público na área de segurança;
-
-### l) estabelecer e manter relações e parcerias com organismos multilaterais, organizações não-governamentais internacionais, fundações, representantes diplomáticos, empresas internacionais, cidades-irmãs do Município de São Paulo e outras entidades afins;
-
-### m) acompanhar, sugerir e fiscalizar, junto ao Executivo, o desenvolvimento, a elaboração e a execução de convênios e projetos de cooperação internacional;
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 22
-
- 
-
-### n) assessorar a Câmara Municipal e contatos internacionais com Governos, entidades públicas ou privadas, bem como nos contatos com as delegações estrangeiras.
+VIII - Da Comissão Extraordinária Permanente de Defesa dos Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais:
+* a) receber, avaliar e proceder a investigação de denúncias relativas às ameaças ou violações de direitos humanos;
+* b) fiscalizar e acompanhar programas governamentais relativos à proteção dos direitos humanos;
+* c) colaborar com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos direitos humanos;
+* d) pesquisar e estudar a situação da cidadania e dos direitos humanos no Município de São Paulo;
+* e) pronunciar-se sobre assuntos de segurança pública com implicações no âmbito do Município;
+* f) promover estudos e reuniões com especialistas na área de violência, juntamente com a sociedade civil, sobre a criminalidade e a segurança pública, propondo medidas necessárias à melhoria da prevenção e proteção da comunidade sob os mais diversos segmentos;
+* g) coletar regularmente notícias e opiniões veiculadas na mídia sobre a atuação da segurança pública no Município;
+* h) atuar junto às esferas dos Governos Federal e Estadual, a fim de implementar a política de segurança pública no Município;
+* i) apresentar sugestões para o aperfeiçoamento da legislação pertinente à segurança pública;
+* j) encaminhar aos órgãos competentes avaliações periódicas sobre as necessidades relativas à segurança pública;
+* k) fiscalizar e acompanhar as ações do Poder Público na área de segurança;
+* l) estabelecer e manter relações e parcerias com organismos multilaterais, organizações não-governamentais internacionais, fundações, representantes diplomáticos, empresas internacionais, cidades-irmãs do Município de São Paulo e outras entidades afins;
+* m) acompanhar, sugerir e fiscalizar, junto ao Executivo, o desenvolvimento, a elaboração e a execução de convênios e projetos de cooperação internacional;
+* n) assessorar a Câmara Municipal e contatos internacionais com Governos, entidades públicas ou privadas, bem como nos contatos com as delegações estrangeiras.
 
 (redação dada pela Resolução 1/07)
 
-### IX – Da Comissão Extraordinária Permanente de Defesa dos Direitos da
-
-### Criança, do Adolescente e da Juventude:
-
-### a) receber, avaliar e proceder investigações de denúncias relativas às ameaças ou violação aos direitos da criança e do adolescente;
-
-### b) fiscalizar e acompanhar programas governamentais relativos à proteção dos direitos da criança e do adolescente;
-
-### c) colaborar com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos direitos da criança e do adolescente;
-
-### d) pesquisar e estudar a situação dos direitos da criança e do adolescente no Município de São Paulo;
-
-### e) receber, avaliar e proceder investigações de denúncias relativas às ameaças dos interesses da juventude;
-
-### f) fiscalizar e acompanhar programas governamentais ou não- governamentais relativos aos interesses da juventude;
-
-### g) colaborar com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos interesses da juventude;
-
-### h) pesquisar e estudar a situação da juventude no Município de São
-
-### Paulo;
-
-### i) trabalhar em conjunto com a Comissão Extraordinária Permanente
-
-### de Defesa dos Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais, na defesa da juventude, quando houver ameaças ou violação dos direitos humanos.
+IX – Da Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude:
+* a) receber, avaliar e proceder investigações de denúncias relativas às ameaças ou violação aos direitos da criança e do adolescente;
+* b) fiscalizar e acompanhar programas governamentais relativos à proteção dos direitos da criança e do adolescente;
+* c) colaborar com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos direitos da criança e do adolescente;
+* d) pesquisar e estudar a situação dos direitos da criança e do adolescente no Município de São Paulo;
+* e) receber, avaliar e proceder investigações de denúncias relativas às ameaças dos interesses da juventude;
+* f) fiscalizar e acompanhar programas governamentais ou não- governamentais relativos aos interesses da juventude;
+* g) colaborar com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos interesses da juventude;
+* h) pesquisar e estudar a situação da juventude no Município de São Paulo;
+* i) trabalhar em conjunto com a Comissão Extraordinária Permanente de Defesa dos Direitos Humanos, Cidadania, Segurança Pública e Relações Internacionais, na defesa da juventude, quando houver ameaças ou violação dos direitos humanos.
 
 (redação dada pela Resolução 1/07)
 
-### X – Da Comissão Extraordinária Permanente do Idoso e de
+X – Da Comissão Extraordinária Permanente do Idoso e de Assistência Social:
+* a) promover a defesa dos idosos, aposentados e pensionistas;
+* b) promover o acompanhamento e o desenvolvimento das políticas públicas voltadas ao idoso e a todas as questões envolvendo a Assistência Social no Município;
+* c) fiscalizar e acompanhar programas governamentais relativos à proteção dos direitos de idosos, aposentados e pensionistas;
+* d) estudar e propor políticas públicas aptas à solução das dificuldades atinentes ao idoso e à Assistência Social, e proporcionar a melhoria da qualidade de vida dos munícipes e a integração social dos idosos; e) levantar dados e estatísticas que forem referentes a idosos, aposentados e pensionistas, bem como mapear as dificuldades encontradas no âmbito da Assistência Social no Município;
+* f) realizar debates e seminários destinados a diagnosticar os problemas enfrentados pelos idosos, aposentados e pensionistas, bem como no tocante aos problemas relativos à Assistência Social do Município, a fim de apontar suas possíveis soluções.
 
-### Assistência Social:
-
-### a) promover a defesa dos idosos, aposentados e pensionistas;
-
-### b) promover o acompanhamento e o desenvolvimento das políticas públicas voltadas ao idoso e a todas as questões envolvendo a Assistência Social no Município;
-
-### c) fiscalizar e acompanhar programas governamentais relativos à proteção dos direitos de idosos, aposentados e pensionistas;
-
-### d) estudar e propor políticas públicas aptas à solução das dificuldades atinentes ao idoso e à Assistência Social, e proporcionar a melhoria da qualidade de vida dos munícipes e a integração social dos idosos; e) levantar dados e estatísticas que forem referentes a idosos, aposentados e pensionistas, bem como mapear as dificuldades encontradas
-
-### no âmbito da Assistência Social no Município;
-
-### f) realizar debates e seminários destinados a diagnosticar os problemas enfrentados pelos idosos, aposentados e pensionistas, bem como no tocante aos problemas relativos à Assistência Social do Município, a fim de apontar suas possíveis soluções.
-
-### XI – Da Comissão Extraordinária Permanente de Meio Ambiente:
-
-### a) promover o desenvolvimento sustentável e a defesa do meio ambiente em toda sua abrangência;
-
-### b) fiscalizar e acompanhar programas governamentais relativos à proteção do meio ambiente;
-
-### c) estudar e propor políticas públicas aptas a proporcionar a melhoria de qualidade de vida aos munícipes e o desenvolvimento sustentável;
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 23
-
- 
-
-### d) levantar dados e estatísticas que forem referentes a questões referentes ao meio ambiente;
-
-### e) realizar debates e seminários destinados a diagnosticar os problemas que envolvem o meio ambiente, bem como a apontar suas possíveis soluções;
-
-### f) discutir medidas de preservação, recuperação ambiental e desenvolvimento sustentável;
-
-### g) apresentar propostas para instituição e aperfeiçoamento de políticas públicas voltadas ao meio ambiente.
+XI – Da Comissão Extraordinária Permanente de Meio Ambiente:
+* a) promover o desenvolvimento sustentável e a defesa do meio ambiente em toda sua abrangência;
+* b) fiscalizar e acompanhar programas governamentais relativos à proteção do meio ambiente;
+* c) estudar e propor políticas públicas aptas a proporcionar a melhoria de qualidade de vida aos munícipes e o desenvolvimento sustentável;
+* d) levantar dados e estatísticas que forem referentes a questões referentes ao meio ambiente;
+* e) realizar debates e seminários destinados a diagnosticar os problemas que envolvem o meio ambiente, bem como a apontar suas possíveis soluções;
+* f) discutir medidas de preservação, recuperação ambiental e desenvolvimento sustentável;
+* g) apresentar propostas para instituição e aperfeiçoamento de políticas públicas voltadas ao meio ambiente.
 
 (incisos X e XI acrescidos pela Resolução 4/10)
 
-### Art. 48 - É vedado às Comissões Permanentes, ao apreciarem proposição ou qualquer matéria submetida ao seu exame, opinar sobre aspectos que não sejam de sua atribuição específica.
+#### Art. 48 - É vedado às Comissões Permanentes, ao apreciarem proposição ou qualquer matéria submetida ao seu exame, opinar sobre aspectos que não sejam de sua atribuição específica.
 
-SEÇÃO IV
-
-### Dos Presidentes e Vice-Presidentes das Comissões Permanentes
+### SEÇÃO IV - Dos Presidentes e Vice-Presidentes das Comissões Permanentes
 
 ### Art. 49 - Os Presidentes e Vice-Presidentes das Comissões Permanentes serão escolhidos na forma do disposto no artigo 43.
 
@@ -4996,1877 +4121,5 @@ REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 89
   
  O 2º Secretário, **AURELINO SOARES DE ANDRADE**  
  O Diretor Geral, **VERIANO MIDENA**
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 90
-
- 
-
-### ABASTECIMENTO
-
-ÍNDICE
-======
-
-- Parecer da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V,4)
-
-### ADMINISTRAÇÃO DIRETA E INDIRETA
-
-- Convocação dos responsáveis (art.46,VI)  
- - Criação de cargos e funções (arts.103,I,d;105,XXVI)  
- - Criação e organização (art.47,IV,1)  
- - Extinção de cargos (art.105,XXVI)  
- - Fiscalização dos atos (art.46,IX)  
- - Remuneração (art.105,XXVI)
-
-### ADOLESCENTE
-
-- Proteção (art.47,VII,a,4)
-
-### ANISTIA
-
-- Deliberação por maioria absoluta (art.103,I,s)
-
-### APARTE
-
-(arts.139,IV;306)  
- - Definição (art.282)  
- - Duração (art.282)  
- - Em audiência pública (art.86,§2º)  
- - Na Tribuna Popular (art.209,§1º)  
- - Não permitido (arts.23;157;283; 290,p.único;304;309;383,§§1º e 2º)  
- - Revisão (arts.150,p.único;283,§3º)  
- APLICAÇÃO FINANCEIRA  
- Ver: **CÂMARA MUNICIPAL**- Aplicação Financeira  
- ARMA  
- Ver: **PORTE DE ARMA**
-
-### ATA DAS SESSÕES
-
-(arts.146 e 147)  
- - Aprovação (art.147)  
- - Discussão (art.147)  
- - Impugnação (art.147,§§1º,3º,7º)  
- - Inscrição de voto de pesar (art. 223,VIII)  
- - Notas taquigráficas (art.146)  
- - Publicação (arts.146;147;148;149; 150)  
- - Redação (art.26,VI,VII)  
- - Retificação (arts.147,§§1º,2º,3º,7º; 223,II)  
- - Revisão de discurso (arts.149;150)  
- - Sessão secreta (arts.26,VII;199;200)
-
-### AUDIÊNCIA PÚBLICA
-
-(arts.85 a 88;320;321)  
- - Apartes (art.86,§2º)  
- - Atas (art.88)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 91
-
-  
- - Competência das Comissões Permanentes (art.46,V)  
- - Convite ao Conselho Municipal dos Direitos da Criança (art.86,§6º)  
- - Convocação pelas Comissões Permanentes (arts.50,II;85;86;87;88)  
- - Interpelação (art.86,§5º)  
- - Notas taquigráficas (art.88,§1º)  
- - Para propositura de iniciativa popular (art. 320)  
- - Prazos (art.66)  
- - Projeto de leis orçamentárias (art.330,p.único)  
- - Publicação (arts.86,II;320,§1º)  
- - Solicitada por eleitores ou entidades (art.87)
-
-### AUTARQUIAS E FUNDAÇÕES MUNICIPAIS
-
-- - Criação de cargos (art.103,I,d;105, XXVI)
-
-- - Extinção de cargos (art.105,XXVI)
-
-- Remuneração (art.105,XXVI)
-
-### AUXÍLIOS E SUBVENÇÕES
-
-- Autorização - atribuição do Plenário (art.105,XX)
-
-### BENS MUNICIPAIS
-
-- Alienação (arts.47,III,a,2;103,I,g; 105,XXIV)  
- - Aquisição (arts.103,I,j;105,XXV)  
- - Concessão de uso (arts.47,III,a,2; 103,I,f)  
- - Hipoteca (art.47,III,a,2)  
- - Permuta (art.47,III,a,2)
-
-### BÍBLIA
-
-- Uso nas sessões (art.137,p.único)  
- BLOCOS PARLAMENTARES Ver**: LÍDERES DE PARTIDOS**
-
-### BOLSA DE ESTUDOS
-
-- Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI,2)
-
-### CADASTRO TERRITORIAL
-
-- Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,1)
-
-### CÂMARA MUNICIPAL
-
-(arts.1º a 4º)  
- - Abertura de Sindicância (art.13,II,h)  
- - Admissão às dependências (art.376)  
- - Afixação das contas da Mesa no saguão (art.29)  
- - Aplicação financeira (art.18,X)  
- - Autorização de despesa (art.18,X)  
- - Contas (art.13,II,d)  
- - Correspondência oficial (arts.18,VII;26,IV)  
- - Instalação da legislatura (art.3º)  
- - Licitação (art.13,II,f)  
- - Orçamento (art.13,II,b,c)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 92
-
-  
- - Policiamento (arts.374 a 378)  
- - Publicidade (art.13,II,g)  
- - Regulamento (art.13,II,a)  
- - Relações externas (art.17,VI)  
- - Representação (arts.16;98)  
- CASSAÇÃO DE MANDATO DE PREFEITO Ver: **PREFEITO**  
- CASSAÇÃO DE MANDATO DE VEREADOR Ver: **VEREADORES**  
- CENSURA A PRONUNCIAMENTOS Ver**: USO DA PALAVRA**- Censura
-
-### CERTIDÃO
-
-- Prazo para Expedição (art.18,XII)  
- CIDADÃO HONORÁRIO  
- Ver: **TÍTULOS HONORÍFICOS**
-
-### CÓDIGO DE OBRAS
-
-- Aprovação (art.105,XXXII)  
- - Deliberação por maioria absoluta (art.103,I,b)
-
-### COMISSÃO DE ADMINISTRAÇÃO PÚBLICA
-
-- Competência (art.47,IV)  
- - Composição (art.39,IV)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E LEGISLAÇÃO PARTICIPATIVA
-
-- Competência (art.47,I)  
- - Composição (art.39,I)  
- - Parecer (arts.47,I,a;70;312,§§1º,2º, 3º; 322,§2º;355;356)  
- - Parecer contrário (arts.79;80;82; 322,§2º)  
- - Parecer de inconstitucionalidade ou ilegalidade (art.177)  
- - Parecer sobre iniciativa popular (art.322,§2º)  
- - Processo de destituição de membro da mesa (art.34,II,§§1º,2º)  
- - Promulgação e publicação de resolução (art.35,p.único,II) Ver também:
-**COMISSÕES PERMANENTES**
-
-### COMISSÃO DE EDUCAÇÃO, CULTURA E ESPORTES
-
-- Competência (art.47,VI)  
- - Composição (art.39,VI)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO DE ESTUDOS
-
-- Criação, funcionamento e componentes (art.99,§§1º e 2º)  
- - Prazo (art.99,§2º)
-
-### COMISSÃO DE FINANÇAS E ORÇAMENTO
-
-- Apreciação de contas (arts.47,II,a; 386)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 93
-
-  
- - Apreciação de projetos de leis orçamentárias (arts.47,II;330;335;
-337;341)  
- - Competência (art.47,II)  
- - Composição (art.39,II)  
- - Parecer (arts.47,II;70;335;336;338 a 341) Ver também: **COMISSÕES
-PERMANENTES**
-
-### COMISSÃO DE POLÍTICA URBANA, METROPOLITANA E MEIO AMBIENTE
-
-- Competência (art.47,III)  
- - Composição (art.39,III)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO DE REPRESENTAÇÃO
-
-- Criação e funcionamento (art.98, p.único)  
- - Requerimento de constituição (art.223,XII)
-
-### COMISSÃO DE SAÚDE, PROMOÇÃO SOCIAL, TRABALHO, IDOSO E MULHER
-
-- Competência (art.47,VII)  
- - Composição (art.39,VII)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO DE SAÚDE, PROMOÇÃO SOCIAL, TRABALHO E MULHER
-
-- Competência (art.47,VII)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO DE TRÂNSITO, TRANSPORTE, ATIVIDADE ECONÔMICA, TURISMO, LAZER E GASTRONOMIA
-
-- Competência (art.47,V)  
- - Composição (art.39,V)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO EXTRAORDINÁRIA PERMANENTE DE DEFESA DOS DIREITOS DA CRIANÇA, DO ADOLESCENTE E DA JUVENTUDE
-
-(art. 38,§§1º, 2º, 3º e 4º)  
- - Competência (art. 47,IX)  
- - Composição (art. 38,§2º)  
- - Criação (art. 38,§1º)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO EXTRAORDINÁRIA PERMANENTE DE DEFESA DOS DIREITOS HUMANOS, CIDADANIA, SEGURANÇA PÚBLICA E RELAÇÕES INTERNACIONAIS
-
-(art. 38,§§1º, 2º, 3º e 4º)  
- - Competência (art. 47,VIII)  
- - Composição (art. 38,§2º)  
- - Criação (art. 38,§1º)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO EXTRAORDINÁRIA PERMANENTE DE MEIO AMBIENTE
-
-(art. 38, §§1º, 2º)  
- - Competência (art. 47,XI)  
- - Composição (art. 38,§2º)  
- - Criação (art. 38,§1º)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 94
-
-  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO EXTRAORDINÁRIA PERMANENTE DO IDOSO E DE ASSISTÊNCIA SOCIAL
-
-(art. 38, §§1º, 2º)  
- - Competência (art. 47, X)  
- - Composição (art. 38, §2º)  
- - Criação (art. 38, §1º)  
- Ver também: **COMISSÕES PERMANENTES**
-
-### COMISSÃO PARLAMENTAR DE INQUÉRITO
-
-(arts.90 a 97)  
- - Constituição (art. 94)  
- - Criação e funcionamento (arts.90; 91; 93;105,VIII)  
- - Definição (art.90)  
- - Extinção (arts.93,§1º;97)  
- - Investigação (art.92)  
- - Prazo (art.97)  
- - Relatório (arts.95 e 96)
-
-### COMISSÃO PROCESSANTE
-
-- Destituição da Mesa (art.32)  
- - Julgamento do Prefeito (art.390,§4º)  
- - Parecer (arts.32,§5º;33;34;35;36;37)  
- - Prazo (art. 32)
-
-### COMISSÕES ESPECIAIS
-
-- Formação (art.100)
-
-### COMISSÕES PERMANENTES
-
-(arts.38,I;39 a 88)  
- - Apresentação de substitutivos e emendas (art.239,§2º)  
- - Aprovação de propositura (art.84)  
- - Atas (arts.50,V;52,II,III;61;88)  
- - Audiências Públicas (arts.46,V;85; 86;87;88)  
- - Ausência do Presidente (art.53)  
- - Ausência do Vice-presidente (art.53)  
- - Autoria de projetos (arts.239,§1º; 279,§1º)  
- - Competência (arts.46 e 47)  
- - Competência do Presidente (art.50)  
- - Competência do Vice-presidente (art.52)  
- - Composição (arts.8º;38,§1º e 3º;39;40;41;43)  
- - Constituição de subcomissões (art.55)  
- - Criação e funcionamento (arts.38;105, XVI)  
- - Debates (art.50,VII,VIII e IX)  
- - Definição de quociente (art.40)  
- - Deliberações (arts.46,X;62;72;81; 82;83)  
- - Denominação (art.39)  
- - Designação ex-oficio (art.42,p.único)  
- - Destituição de membros (arts.17, III,c;44)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 95
-
-  
- - Discussão de projeto de lei (art.46,X)  
- - Eleição de Presidente (arts.43; 49; 54)  
- - Eleição de Vice-presidente (arts.43; 49;54)  
- - Encaminhamento de matéria (art.50,XII)  
- - Faltas (art.44)  
- - Indicação de membros (art. 42)  
- - Justificação de ausência (arts.18,IV; 44,§2º;50,XVII;223,XI)  
- - Mandato de membros (art.41)  
- - Parecer verbal (arts.78;173,§3º)  
- - Pareceres (arts.46,I;47,I,a;50,VI,XI; 63;64 a 72;74 a
-80;83;171,§§3º,4º,5º)  
- - Prazo regimental (art.50,XIX)  
- - Presidente (arts.43;49;54;71, p.único)  
- - Proibições (arts.48;57,§2º)  
- - Publicação (arts.42;43,§2º;50,XX)  
- - Questão de ordem (art.50,XV)  
- - Recursos (arts.51;79,p.único;80;82)  
- - Relator (arts.50,VI,p.único;62, p.único; 63,§§2º e 3º)  
- - Relatório (art.50,XVI)  
- - Representação (arts.50,XIV;52, p.único)  
- - Representação numérica das bancadas (art.42)  
- - Reuniões (arts.43;50;53;57;58;59; 60;61;79)  
- - Reuniões extraordinárias (arts.50,IV; 57,§1º)  
- - Reuniões secretas (arts.52,III;59, p.único;61,p.único)  
- - Solicitação de documentos (art.46, XV)  
- - Solicitação de informações de autoridades ou cidadãos (art.46,XIII)  
- - Solicitação de informações do Prefeito (arts.46,VIII;68)  
- - Solicitação de informações do Tribunal de Contas do Município
-(art.46,XVI)  
- - Substituição de membros (arts.17, III,b;45;50,XIII)  
- - Substituição do Presidente de Comissão (arts.52,I;53;54)  
- - Trabalhos (arts.62 a 72)  
- - Tramitação de projeto de lei (art.81, p.único)  
- - Vice Presidente (arts.43;49;54)  
- - Vista de processos (arts.50,X;63, §§4º e 5º)  
- - Votação de projeto de lei (art.46,X)  
- - Voto (arts.50,IX;76;77;81)  
- Ver também: **COMISSÃO DE ADMINISTRAÇÃO PÚBLICA**
-
-### COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E LEGISLAÇÃO PARTICIPATIVA COMISSÃO DE EDUCAÇÃO, CULTURA E ESPORTES
-
-### COMISSÃO DE FINANÇAS E ORÇAMENTO
-
-### COMISSÃO DE POLÍTICA URBANA, METROPOLITANA E MEIO AMBIENTE COMISSÃO DE SAÚDE, PROMOÇÃO SOCIAL, TRABALHO, IDOSO E MULHER COMISSÃO EXTRAORDINÁRIA PERMANENTE DE DEFESA DOS DIREITOS DA CRIANÇA, DO ADOLESCENTE E DA JUVENTUDE
-
-### COMISSÃO EXTRAORDINÁRIA PERMANENTE DE DEFESA DOS DIREITOS HUMANOS, CIDADANIA, SEGURANÇA PÚBLICA E RELAÇÕES INTERNACIONAIS
-
-### COMISSÃO DE TRÂNSITO, TRANSPORTE, ATIVIDADE ECONÔMICA, TURISMO, LAZER E GASTRONOMIA
-
-### COMISSÕES TEMPORÁRIAS
-
-(arts.38,II;89 a 100)  
- - Constituição (art.226,IV)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 96
-
-  
- - Criação e funcionamento (art.105, XVI)  
- - Designação de membros (art.17, III,a)  
- - Disposições regimentais (art.100, p.único)  
- - Especificações (art.89)  
- Ver também: **COMISSÃO DE ESTUDOS COMISSÃO DE REPRESENTAÇÃO COMISSÃO
-PARLAMENTAR DE INQUÉRITO**  
- CONCESSÃO HONORÍFICA Ver: **TÍTULOS HONORÍFICOS**
-
-### CONSELHEIRO DO TRIBUNAL DE CONTAS
-
-- Aprovação (arts.103,I,t;104,III; 105,XV;297)  
- - Convocação (art.46,VI)  
- - Indicação de membros (arts.352 a 359)  
- - Votação para escolha (arts.357,358, 359)  
- Ver também: **TRIBUNAL DE CONTAS DO MUNICÍPIO**
-
-### CONSELHOS
-
-- Criação e funcionamento (art.105, XVI)
-
-### CONSÓRCIO INTERMUNICIPAL
-
-- Atribuição do Plenário (art.105, XXVIII)
-
-### CONTAS
-
-(arts.385 a 388)  
- - Do Prefeito (arts.47,II,a;105,XII;295, p.único,II;385  
- - Do Tribunal de Contas (arts.47,II,a; 105,XII;295,p.único,II;385)  
- - Exame e apreciação pelo contribuinte (art.388,p.único)  
- - Parecer da Comissão de Finanças e Orçamento (art.47,II,a)  
- - Prazo para apreciação (art.387)  
- - Rejeitadas (art.388)  
- - Remetidas ao Ministério Público (art.388)
-
-### CONTAS DA MESA
-
-(arts.28 a 29;295,p.único,II;385 a 388)  
- - Afixação no saguão da Câmara (art.29)  
- - Balancetes mensais (arts.28,I;29)  
- - Balanço anual (arts.28,II;29)  
- - Envio ao Tribunal de Contas do Município (art.13,II,d)  
- - Parecer da Comissão de Finanças e Orçamento (art.47,II,a)  
- - Publicação (art.29)
-
-### CONTRATO
-
-- Assinatura (art.15)  
- - Nulidade (art.15)  
- - Parecer da Comissão de Administração Pública (art.47,IV,2)
-
-### CONVÊNIO
-
-- Atribuição do Plenário (art.105,XXVIII)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 97
-
- 
-
-### CONVIDADOS ESPECIAIS
-
-- Reserva de tribuna (art.375)
-
-### CONVOCAÇÃO
-
-- Conselheiros do Tribunal de Contas (art.46,VI)  
- - De audiência pública (art.50,II;85 a 88)  
- - De reuniões extraordinárias (arts.50, IV;57,II)  
- - Responsáveis pela Administração Direta e Indireta (art.46,VI)  
- - Secretários Municipais (arts.46,VI;105,IX;226,III;295,p.único, IV;381
-a 384)  
- CONVOCAÇÃO EXTRAORDINÁRIA Ver: **RECESSO PARLAMENTAR SESSÃO
-EXTRAORDINÁRIA**
-
-### COPIA DE PRONUNCIAMENTOS
-
-- Limite (arts.156;157,§5º;160,§6º)
-
-### CORPO CONSULAR
-
-- Reserva de tribuna (art.375)
-
-### CREDENCIAIS
-
-- Fornecidas pela Mesa para o Corpo Consular, convidados especiais e
-Imprensa  
- (art.375)  
- CRÉDITO ADICIONAL Ver: **ORÇAMENTO**
-
-### CRIANÇA
-
-- Proteção (art.47,VII,a,4)  
- DECLARAÇÃO DE VOTO Ver: **VOTO**  
- DECORO PARLAMENTAR  
- Ver: **VEREADORES**- Decoro parlamentar
-
-### DECRETO LEGISLATIVO
-
-- Para concessão de honrarias (arts.347 a 351)  
- - Para indicação de membros do Tribunal de Contas (arts.352 a 359)  
- - Projeto (arts.171,§1º,IV;211,VI; 232, III;236;242)  
- - Promulgação (arts.18,VI;370,II)  
- - Registro (art.371)
-
-### DEFESA DO CONSUMIDOR
-
-- Parecer da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V,3)
-
-### DEFICIENTE FÍSICO
-
-- Proteção (art.47,VII,a,4)
-
-### DELIBERAÇÕES
-
-- Comissões Permanentes (arts.46,X;62;72;81 a 83)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 98
-
-  
- - Conceito (art.101)  
- - Da Mesa da Câmara (art.14)  
- - Do Plenário (arts.82;102;103;104; 225;226;323)  
- - Execução (art.18,V)  
- - Maioria absoluta (arts.102;103)  
- - Maioria especial (arts.102;103)  
- - Maioria qualificada (arts.102;103)  
- - Maioria simples (arts.102;103) Ver também: **VOTAÇÃO**  
- DEPENDÊNCIAS DA CÂMARA Ver**: CÂMARA MUNICIPAL**
-
-### DESTITUIÇÃO
-
-- De membros de comissões permanentes (arts.17,III,c;44)  
- - De membros da mesa (arts.31 a 37)  
- DIRETRIZES ORÇAMENTÁRIAS Ver: **ORÇAMENTO**
-
-### DISCRIMINAÇÃO RACIAL
-
-- Parecer da Comissão de Saúde, Promoção Social e Trabalho
-(art.47,VII,b)
-
-### DISCUSSÃO
-
-(arts.242;276 a 286)  
- - Adiamento (arts.175,II;176;192,II; 225,II;285)  
- - Apartes (arts.139,VI;282)  
- - De moção (arts.229;231)  
- - De Parecer (arts.37;262)  
- - De Projeto de Lei (art.46,X)  
- - De requerimento (arts.164;168; 225,§1º;226;227)  
- - Debate esgotado (art.290)  
- - Definição (art.276)  
- - Encerramento (arts.225,VIII;226,§1º; 243,par.
-único;250;255;270,§5º;284; 285;286)  
- - Inscrição (arts.277;278;280;284,I)  
- - Intervalo (art.242,§2º)  
- - Participação do Presidente (art.20)  
- - Primeira discussão (arts.171,VI;248 a 253;290)  
- - Reabertura de discussão (arts.260; 262 a 266)  
- - Segunda discussão (arts.171,V;254 a 258)  
- - Tempo (art.284,§1º) Ver também: **APARTE USO DA PALAVRA VOTAÇÃO**
-
-### DISPOSIÇÕES TRANSITÓRIAS
-
-(art.1º a 6ºDT)  
- - Promulgação de ato (art.394)
-
-### DISTRITO
-
-- Criação (arts.47,III,a,4;103,I,l)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 99
-
- 
-
-### DÍVIDA PÚBLICA
-
-(art.47,II,e)
-
-### ELEIÇÃO DA MESA
-
-(arts.4º;5º;9º ao 11;104,II;105,I;297)  
- - Cargo vago (art.7º)  
- - Mandato e composição (art.5º)  
- - Reeleição (art.9º,§1º)  
- - Renovação (art.9º)  
- - Votação (arts.10;11;289)
-
-### ELEITOR
-
-- Subscrição para iniciativa popular (art.317,§1º)
-
-### EMENDA
-
-(arts.211,VIII;266;271 a 273)  
- - À lei orgânica (arts.103,III,c;295,
-p.único,VIII;316,III;317,II;370,I)  
- - Apresentação (art.239,§§2º,3º)  
- - De leis orçamentárias (arts.47,II,c; 336 a 340)  
- - Definição (art.271)  
- - Devolução ao autor (art.212,II)  
- - Não aceitação (arts.222;230;235,p.único;273)  
- - Preferência para votação (art.272)  
- - Registro de emenda a Lei Orgânica (art.371)  
- - Rejeição (art.272,§3º)  
- - Votação (arts.225,VI,VII;252;256; 266,§1º)
-
-### EMPRÉSTIMO
-
-- De particular (arts.47,II,f;103,I,h)  
- - Deliberação sobre atribuição do Plenário (art.105,XIX)  
- - Público (art.47,II,e)  
- ENCAMINHAMENTO DE VOTAÇÃO Ver: **VOTAÇÃO**  
- ENCERRAMENTO DA SESSÃO  
- Ver: **SESSÃO LEGISLATIVA EXTRAORDINÁRIA**  
- ENCERRAMENTO DE DISCUSSÃO Ver: **DISCUSSÃO**
-
-### ENERGIA ELÉTRICA
-
-- Racionamento (ADT arts. 4ºA e 4ºB)
-
-### ENSINO MUNICIPAL
-
-- Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI,1)
-
-### ESTATUTO DOS SERVIDORES MUNICIPAIS
-
-- Deliberação por maioria absoluta (art.103,I,c)  
- EXECUTIVO Ver: **PREFEITO**
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 100
-
- 
-
-### EXPEDIENTE
-
-- Grande (arts.159 a 162)  
- - Pequeno (arts.157 e 158)  
- - Prolongamento (art.163 a 169)  
- - Publicação (art.154)
-
-### EXPLICAÇÃO PESSOAL
-
-(arts.179 a 182)  
- - Finalidade (art.180)  
- - Inscrição (art.181)  
- - Tempo (art.180,p.único)
-
-### EXTINÇÃO DE MANDATO
-
-- Causas (art.126)  
- FASE ESPECIAL DA SESSÃO LEGISLATIVA Ver: **RECESSO PARLAMENTAR**
-
-### GABINETE DA PRESIDÊNCIA
-
-- Exoneração de funcionários (art.18,IX)  
- - Nomeação de Funcionários (art.18,IX)
-
-### GRANDE EXPEDIENTE
-
-Ver: **EXPEDIENTE**
-
-### GUARDA CIVIL METROPOLITANA
-
-Ver: **POLÍCIA INTERNA**
-
-### HABITAÇÃO
-
-- Planos habitacionais (art.47,III,a,3)
-
-### IDOSO
-
-- Proteção (art.47,VII,a,4)
-
-### IMPRENSA
-
-- Reserva de tribuna (art.375)
-
-### IMPRENSA OFICIAL
-
-- Impressão da ata das sessões (art.146)  
- - Precedentes Regimentais (art.313, §2º)  
- - Publicação de matéria (arts.148; 201)  
- - Publicação de proposição (arts.216; 239;240)  
- - Publicação do Boletim de Apuração de Votação Secreta (art.300)
-
-### INDICAÇÃO
-
-(art.211,I)  
- - Apresentação e despacho (art.219,p.único)  
- - Definição (art.219)
-
-### INDÚSTRIA E COMÉRCIO
-
-- Parecer da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V,2)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 101
-
- 
-
-### INICIATIVA DOS CIDADÃOS
-
-Ver: **INICIATIVA POPULAR**
-
-### INICIATIVA POPULAR
-
-(arts.233,§2º;234,V e §2º;315 a 323)  
- - Audiências públicas (art.320,§1º)  
- - Direito de (art.316)  
- - Subscrição de proposição (arts.233, §2º;317;318) Ver também:
-**PROPOSITURAS**
-
-### LEGISLATURA
-
-- Arquivamento de proposição (art.275)  
- - Divisão (art.2º,p.único)  
- - Instalação (art.3º)
-
-### LEI ORGÂNICA
-
-- Projeto de Emenda (arts.171,§1º,I; 211,IV;232,I;233;316,III;317,II)  
- - Promulgação e registro de emenda (arts.370,I e 371)  
- - Votação de emenda (arts.103,III,c; 295,p.único,VIII)
-
-### LEIS
-
-- Promulgação (arts.18,VI;369;370)  
- - Publicação (arts.368,§2º;370)  
- - Registro (art.371)  
- - Regulamentação: acompanhamento pelas Comissões Permanentes
-(art.46,XI)  
- LICENÇA DE VEREADORES Ver: **VEREADORES**  
- LICENÇA DO PRESIDENTE  
- Ver: **PRESIDENTE DA CÂMARA**
-
-### LICITAÇÃO
-
-- Parecer da Comissão de Administração Pública (art.47,IV,2)  
- LÍDER DO PREFEITO  
- Ver: **LÍDERES DE PARTIDOS**  
- LIDERANÇA DO GOVERNO Ver**: LÍDERES DE PARTIDOS**
-
-### LIDERES DE PARTIDOS
-
-(arts.119 a 121;291)  
- - Atribuições (art.120)  
- - Coligação (art.119,§4º)  
- - De Governo (arts.121;279,§2º)  
- - Indicação (art.119)  
- - Uso da palavra (art.162)
-
-### MAIORIA
-
-- Absoluta (arts.102,II,§§2º,5º;103,I; 247;324,II;368;369,p.único)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 102
-
-  
- - De dois terços (art.34,§2º)  
- - Especial (arts.102,III,§3º;103,II)  
- - Qualificada (arts.102,IV,§4º;103,III)  
- - Simples (arts.34;46,X;102,I,§1º;289)  
- MANDATO DE VEREADOR Ver: **VEREADORES**  
- MANDATO DO PREFEITO Ver: **PREFEITO**  
- MANIFESTAÇÃO PÚBLICA Ver: **PLENÁRIO**
-
-### MEMBROS DA MESA
-
-- Cessação de função (art.6º)  
- - Destituição (arts.31 a 37;103,III,b; 105,I;237,p.único,III)  
- - Eleição (arts.4º;5º;9º ao 11;104,II; 105,I;297)  
- - Falta (art.31,§2º)  
- - Impedimento (art.36)  
- - Posse (art.9º)  
- - Presidência da sessão (art.21)  
- - Reeleição (art.9º,§1º)  
- - Renúncia (art.30)
-
-### MEMBROS DE COMISSÃO
-
-- Comissões permanentes (arts.38,§21;41;75)  
- - De Comissão de Estudos (art.99, §1º)  
- - De Representação (art.98,p.único)  
- - Parlamentar de Inquérito (art.94)  
- - Substituição (arts.17,III,b;45;50,XIII)  
- - Temporária (art.17,III,a)
-
-### MERENDA ESCOLAR
-
-- Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI,3)
-
-### MESA DA CÂMARA
-
-(arts.5º a 37)  
- - Assinatura de contrato (art.15)  
- - Atribuições (arts.12;13;372,p.único;373;374)  
- - Cargo vago (art.7º)  
- - Composição (art.5º)  
- - Contas (arts.28 e 29;105,XII;295, p.único,II;385 a 388)  
- - Deliberação (art.14)  
- - Destituição (arts.31 a 37;237, p.único,III;295,p.único,I)  
- - Eleição (arts.4º,5º,7º e 9º;105,I;289)  
- - Faltas (art.31,§2º)  
- - Mandato (art.5º)  
- - Renuncia (art.30)  
- - Renuncia coletiva (art.30,p.único)  
- - Retirada de proposição (art.177)  
- - Reunião (arts.14;17,IV;26,VI;31,§2º)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 103
-
-  
- - Suplentes (art.27)  
- - Vacância (art.7º)
-
-### MINISTÉRIO PUBLICO
-
-- Apreciação de contas rejeitadas (art.388)
-
-### MOÇÃO
-
-(arts.211,III;228 a 231)  
- - Apresentação (art.229)  
- - Definição (art.228)  
- - Discussão (art.164,IV;229;231)  
- - Emendas e substitutivos (art.230)  
- MOVIMENTO SOCIAL POPULAR Ver: **TRIBUNA POPULAR**
-
-### MULHER
-
-- Proteção (art.47,VII,a,4)  
- NUMERO REGIMENTAL Ver: **QUÓRUM**
-
-### OBRAS PÚBLICAS
-
-- Contratação (art.47,IV,2)  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,2)  
- - Parecer das Comissões Permanentes (art.46,XIV)
-
-### ORADOR
-
-- Nas Comissões Permanentes (art.50,VII,VIII)  
- - Revisão de discurso (arts.149 e 150)
-
-### ORÇAMENTO
-
-(arts.329 a 346)  
- - Atribuições do Plenário (art.105, XVIII)  
- - Autorização de despesa (art.18,X)  
- - Crédito adicional (art.47,II;331)  
- - Da Câmara (art.13,II,b,c)  
- - Deliberação por maioria absoluta (art.103,I,i,n)  
- - Fiscalização pela Comissão de Finanças e Orçamento (art.47,II,b)  
- - Prazo (art.329)  
- - Prazo para votação (art.344)  
- - Projetos de Lei Orçamentaria (arts.46,XII;47,II;329;330;335 a 346)  
- - Utilização de recursos (art.345)  
- - Votação (art.337;340;341;344;346)
-
-### ORDEM DO DIA
-
-(arts.170 a 178)  
- - Duração (art.170)  
- - Encerramento (art.178)  
- - Inclusão de Parecer (art.262)  
- - Inclusão de Proposição (arts.67;167;174;171,§4º;245,§§1º e
-2º;336;337;339;342)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 104
-
-  
- - Inclusão de veto (arts.362;365;366)  
- - Interrupção, alteração (art.172)  
- - Na sessão extraordinária (arts.188; 189;190;191;192)  
- - Não convocação (art.155)  
- - Organização (art.17,I,q;171)  
- - Pauta (arts.17,I,q;167,§3º;171;173 a 175;176,§§5º,6º e
-11;178;190;225,IV;  
- 239,§1º;245,§§1º e 2º)  
- - Retirada de Proposição (arts.175,III; 177;225,IV)  
- - Votação em grupo (art.243, p.único)
-
-### PALÁCIO ANCHIETA
-
-- Sede da Câmara (art.1º)  
- PALETÓ Ver: **TRAJE**
-
-### PARECER
-
-(arts.74 a 80;171,IV)  
- - Aprovação (art.265)  
- - Com substitutivo ou emendas (art.239,§2º)  
- - Conjunto (arts.71;270;318,§5º;319;320;321; 322;364)  
- - Da Comissão de Administração Pública (art.47,IV)  
- - Da Comissão de Constituição e Justiça (arts.47,I,a;70;79;177;312,  
- §§1º,2º,3º;322,§2º;355;356)  
- - Da Comissão de Educação, Cultura e Esportes (art.47,VI)  
- - Da Comissão de Finanças e Orçamento (arts.47,II,a,b;70;335;336;  
- 338;339;340;341)  
- - Da Comissão de Mérito (art.177)  
- - Da Comissão de Política Urbana, Metropolitana e Meio Ambiente
-(art.47,III)  
- - Da Comissão Processante (arts.32, §5º;33 a 37)  
- - Da Comissão de Saúde, Promoção Social e Trabalho (art.47,VII)  
- - Da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V)  
- - De comissão especial (art.390,§3º)  
- - De Comissão Permanente (arts.46,I; 47,I,a;50,VI,XI;62 a 72;74 a
-80;83;  
- 171,§§3º,4º e 5º)  
- - De emendas de leis orçamentarias (art.338)  
- - De inconstitucionalidade (art.177)  
- - De redação final (arts.261;262;266;267;268)  
- - Definição (art.74)  
- - Discussão (arts.37;262)  
- - Divergente (art.83)  
- - Do Tribunal de Contas (arts.103,III, a;295,p.único,II;385;386)  
- - Inclusão na ordem do dia (art.262)  
- - Prazos (arts.63 a 67;270;321;338; 363;364)  
- - Publicação (arts.56,XX;75,§3º;82, §1º; 262;339;342;356)  
- - Recurso (arts.79 e 80)  
- - Rejeição (arts.103,III,a;264)  
- - Sobre programas de obras (art.46, XIV)  
- - Sobre veto (art.363,p.único)  
- - Verbal (arts.78;173,§3º)  
- - Votação (arts.34;35;36;76;77;262)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 105
-
- 
-
-### PARTIDO POLÍTICO
-
-- Sigla (art. 17, V, "d" e "e"
-
-### PATRIMÔNIO HISTÓRICO
-
-- Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI,4)
-
-### PAUTA
-
-- Da ordem do dia (arts.17,I,q; 167, §3º;171;173 a 175;176,§§5º,6º e 11;
-178;190;  
- 225,IV;239,§1º;245,§§1º e 2º )  
- - De sessão extraordinária (arts.171, §3º;190 a 192)  
- - De sessão legislativa extraordinária (art.325)  
- - De sessão ordinária (arts.171 e 173)  
- - Elaboração (art.171)  
- - Inversão (arts.174;191,III; 192,I,II; 225,X)  
- - Organização (arts.17,I,q;171)  
- - Projeto em condições de (arts.171, §4º;239,§1º;248)  
- - Retirada de (arts.17,II,h;175,III; 177;192,II)  
- PEQUENO EXPEDIENTE Ver: **EXPEDIENTE**  
- PERDA DE MANDATO DE VEREADORES Ver: **VEREADORES**
-
-### PLANO DIRETOR
-
-- Aprovação do Plenário (art.105, XXVII)  
- - Deliberação por maioria especial (art.103,II,b)  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,5)  
- - Votação nominal (art.295,p.único,VII)  
- PLANO PLURIANUAL Ver: **ORÇAMENTO**
-
-### PLEBISCITO
-
-(arts.105,XI;316,IV;317,III)
-
-### PLENÁRIO
-
-(arts.101 a 105)  
- - Admissão às dependências (art.376)  
- - Atribuições (arts.82;105)  
- - Definição (art.101)  
- - Deliberações (arts.82;102 a 104; 225;226;323)  
- - Proibição de manifestação (art.378)  
- - Traje (art.138)  
- - Uso da palavra (art.140,III)
-
-### POLÍCIA INTERNA
-
-(arts.374 a 378)  
- - Competência da Mesa (art.374)  
- - Requisição de pessoal (art.374, p.único)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 106
-
-  
- POLÍCIA MILITAR  
- Ver**: POLÍCIA INTERNA**  
- POLICIAMENTO  
- Ver: **POLÍCIA INTERNA**
-
-### POLUIÇÃO
-
-- Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,7)
-
-### PORTE DE ARMA
-
-- Proibição (art.377)
-
-### POSSE
-
-- De Prefeito (art.105,IV)  
- - De vereador (arts.3º,§1º;18,I; 106;118;191,II)  
- - Dos membros da Mesa (art.9º)
-
-### PRECEDENTE REGIMENTAL
-
-- Casos não previstos no Regimento (art.313)  
- - Consolidação (art.314)  
- - Publicação (arts.313,§2º;314)
-
-### PREFEITO
-
-(arts.379 a 391)  
- - Afastamento (art.105,IV;V;VII)  
- - Autorização para ausência (art.226,II)  
- - Comparecimento à Câmara (arts.379;380)  
- - Contas (arts.47,II,a;105,XII;295, p.único, II;385)  
- - Convocação da sessão no recesso pelo (art.324,I)  
- - Convocação de sessão extraordinária (art.183,III)  
- - Indicação de líder (art.121)  
- - Informações (arts.46,VIII;68)  
- - Iniciativa de Projeto de Lei (arts.235;275,§1º;329)  
- - Julgamento (arts.104,I;297;389 e 390)  
- - Licença (art.226,I)  
- - Mensagem (art.332)  
- - Perda de mandato (arts.390;391)  
- - Posse (art.105,IV)  
- - Processo contra (arts.105,XIV; 389;390)  
- - Remuneração (arts.13,I,b,3;105, VI;122;236, p.único,I)  
- - Responsabilidade (arts.389 a 391)  
- - Solicitação de regime de urgência (art.245)  
- - Substituição (art.18,III)
-
-### PRÊMIOS
-
-- Concessão (art.47,VI,6)
-
-### PRESIDENTE DA CÂMARA
-
-(arts.16 a 23)  
- - Atribuições (arts.17;45;94;98;99)  
- - Comunicação de sessão extraordinária pelo (art.186)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 107
-
-  
- - Convocação de Secretários Municipais pelo (art.381,§2º)  
- - Convocação de sessão solene (art.194)  
- - Eleição (art.4º)  
- - Encerramento de sessão pelo (art.378,§2º)  
- - Falta (art.25)  
- - Licença do Presidente (arts.19;25)  
- - Omissão (art.311)  
- - Participação em discussões (art.20)  
- - Recurso às decisões (arts.18,XI; 212,§2º;311;312)  
- - Representação da Câmara (art.16)  
- - Retirada de infrator pelo (art.378, §1º)  
- - Substituição (arts.24;25;26,VIII)  
- - Suspensão dos trabalhos pelo (art.170,p.único)  
- - Vacância (art.7º,§1º)  
- - Verba de representação (art.123)  
- - Voto (art.289)  
- PRESIDENTE DE COMISSÃO PERMANENTE Ver: **COMISSÕES PERMANENTES**  
- PRIMEIRA DISCUSSÃO Ver: **DISCUSSÃO**
-
-### PROCESSO
-
-- Arquivamento (arts.34,I;390,§7º)  
- - Crime de responsabilidade do Prefeito (art.389 a 391)  
- - De cassação de mandato (arts.129;130)  
- - Destituição de membro da Mesa (arts.32;34,II,§§1º e 2º)  
- - Encaminhamento a Comissão de Constituição e Justiça (art.34,II)  
- - Pedido de informações ao Executivo (art.68)  
- - Prazos (arts.50,XIX;63 a 68)  
- - Reconstituição (art.173,§1º)  
- - Vista (arts.50,IX;63,§§4º e 5º;334)  
- PROJETO DE DECRETO LEGISLATIVO Ver: **DECRETO LEGISLATIVO**  
- PROJETO DE EMENDA A LEI ORGÂNICA Ver: **LEI ORGÂNICA**
-
-### PROJETO DE LEI
-
-(arts.211,V;232,II)  
- - Autoria (art.279,§§1º e 2º)  
- - Convocação de audiências públicas (arts.85;86)  
- - De iniciativa popular (arts.234,§2º;317,I)  
- - Definição (art.234)  
- - Discussão (art.46,X)  
- - Iniciativa (arts.234;235;275,§1º;329)  
- - Parecer da Comissão de Administração Pública (art.47,IV)  
- - Parecer da Comissão de Constituição e Justiça (art.47,I,a)  
- - Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI)  
- - Parecer da Comissão de Finanças e Orçamento (art.47,II,a)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 108
-
-  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio Ambiente
-(art.47,III)  
- - Parecer da Comissão de Saúde, Promoção Social e Trabalho
-(art.47,VII)  
- - Parecer da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V)  
- - Pauta (arts.171,§1º,II;225,I)  
- - Pendente de votação (art.287,§3º)  
- - Publicação (art.171,§4º)  
- - Publicação daqueles em condições de pauta (arts.171,§4º;216)  
- - Reapresentação (art.215)  
- - Redação final (arts.46,IV;47,II,d;259 a 268)  
- - Regime de inversão (art.174,§1º)  
- - Regime de urgência (arts.63,§6º; 171,III;
-173;174,§1º;225,I;245;246)  
- - Rejeitado (arts.79;80;215;287,§4º)  
- - Sanção e promulgação (arts.18,VI; 234;257;261,§1º;268;360;370)  
- - Tramitação pelas comissões (art.81,p.único)  
- - Veto (art.361)  
- - Votação (art.46,X)  
- Ver também: **PROJETOS**  
- PROJETO DE LEI ORÇAMENTÁRIA Ver: **ORÇAMENTO**  
- PROJETO DE RESOLUÇÃO Ver: **RESOLUÇÃO**
-
-### PROJETOS
-
-(arts.232 a 268)  
- - Aprovação (arts.242;246;252;253; 256;257;258;360)  
- - Arquivamento (arts.244;368,§3º)  
- - Autoria (arts. 17, V, "e", 239,§1º;279,§1º)  
- - Condições de pauta (arts.171,§4º;239,§1º,248)  
- - Discussão (arts.239,§3º;242)  
- - Discussão em bloco (art.243)  
- - Inclusão obrigatória na Ordem do Dia (art.245,§§1º e 2º)  
- - Pareceres (arts.173,§4º;261;262; 266 a 268)  
- - Primeira discussão (arts.248 a 253)  
- - Publicação (arts.171,§4º;216;240)  
- - Reabertura de discussão (arts.260; 262 a 266)  
- - Recurso (art.79)  
- - Redação final (arts.46,IV;242; 253;258 a 268;341;342;343)  
- - Regime de urgência (arts.164,II;167 a
-169;173;225,I;240,p.único;245;246;  
- 295,p.único,V)  
- - Rejeitados (arts.244;287,§4º)  
- - Requisitos (art.238)  
- - Segunda discussão (arts.254 a 258)  
- - Tramitação (arts.63,§6º;239 a 247; 368,§1º)  
- - Veto (arts.361 a 368)  
- - Votação (art.287,§3º)  
- - Votação em bloco (arts.250;255)  
- Ver também: **DECRETO LEGISLATIVO LEI ORGÂNICA**
-
-### PROJETO DE LEI RESOLUÇÃO
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 109
-
-  
- PROLONGAMENTO DO EXPEDIENTE Ver: **EXPEDIENTE**
-
-### PROMULGAÇÃO
-
-(arts.360;370)  
- - De ato das disposições transitórias (art.394)  
- - De Decreto Legislativo (arts.18,VI;370,II)  
- - De emenda à Lei Orgânica (art.370,I)  
- - De Lei (arts.18,VI;234;257;261,§1º;268;369;370)  
- - De Resolução (arts.18,VI;35,p.único;370,II)  
- PRONOME DE TRATAMENTO ENTRE VEREADORES Ver: **VEREADORES**
-
-### PROPOSIÇÕES
-
-(arts.211 a 275)  
- - Adiamento de discussão ou votação
-(arts.175,II;176;192,II;225,II;285)  
- - Adiamento em bloco (art.176,§10)  
- - Apresentação de substitutivo (arts.269,§§1º e 2º;270)  
- - Arquivamento (art.275)  
- - Atribuição do Presidente da Câmara (art.17,II)  
- - Autoria (arts.214;217;279,§§1º e 2º)  
- - Deliberação (arts.81 e 82)  
- - Devolução ao autor (art.212)  
- - Ementa (art.211,p.único)  
- - Encaminhamento à Mesa (arts.166; 167;218)  
- - Leitura, discussão e votação (arts.164;165;168;169)  
- - Parecer da Comissão de Administração Pública (art.47,IV)  
- - Parecer da Comissão de Constituição e Justiça (art.47,I,a)  
- - Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI)  
- - Parecer da Comissão de Finanças e Orçamento (art.47,II)  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio Ambiente
-(art.47,III)  
- - Parecer da Comissão de Saúde, Promoção Social e Trabalho
-(art.47,VII)  
- - Parecer da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V)  
- - Parecer de Comissão Permanente (art.46,I)  
- - Pauta (art.171)  
- - Preferência para votação (arts.175,I; 192,II;225,V)  
- - Publicação (arts.216;239;240)  
- - Recebimento (arts.26,III;213)  
- - Redação (art.211,p.único)  
- - Retirada (arts.175,III;177;191,IV; 192,II;223,VI;225,IV;274)  
- - Subscrição da Comissão de Constituição e Justiça (art.213)  
- - Subscrição para iniciativa popular (arts.233,§2º;317;318)  
- - Tipos (arts.211;233;234;236;237; 269;271)  
- - Tramitação (arts.171,§2º;217; 233,§3º;239 a 247;275,§§2º,3º e 4º)  
- - Volta à tramitação de proposição arquivada (arts.223,XIII;275,§§2º,3º
-e 4º) Ver também**: EMENDA**
-
-### INDICAÇÃO MOÇÃO PROJETO DE LEI REQUERIMENTO
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 110
-
- 
-
-### SUBSTITUTIVO PROPOSITURAS
-
-(arts.315 a 323)  
- - Aprovação (art.84)  
- - Da Mesa da Câmara (art.13,I,b)  
- - De iniciativa popular (arts.315 a 323)  
- - Parecer (arts.318,§5º;319; 320;321;322)  
- - Subscrição (arts.317;318)
-
-### PRÓPRIOS MUNICIPAIS - DENOMINAÇÃO
-
-(art.105,XXX)  
- - Deliberação por maioria absoluta (art.103,I,q)  
- - Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI,5)
-
-### PUBLICAÇÃO
-
-- Atribuições do Presidente (art.17,V)  
- - Autoria de projetos (art. 17, V, "d" e "e")  
- - Da pauta das reuniões de comissões permanentes (art.50,XX)  
- - Das contas (arts.29;386)  
- - De atas (arts.146 a 150)  
- - De atos promulgados pela Câmara (arts.368,§2º;370)  
- - De composição das comissões permanentes (art.43,§2º)  
- - De discursos (arts.158;161)  
- - De pareceres (arts.50,XX;75,§3º;82,§1º;262;339;342;356)  
- - De Precedentes Regimentais (arts.313,§2º;314)  
- - De proposições (arts.171,§4º; 216;239 e 240)  
- - De tribuna popular (art.210)  
- - De veto (art.361,p.único)  
- - Dispensa (art.225,III)  
- - Do Boletim de Apuração de votação secreta (art.300)  
- - Do expediente das sessões ordinárias (art.154)  
- - Representações partidárias nas Comissões (art.42)  
- - Sigla do Partido Político (art. 17, V, "d" e "e") Ver também:
-**IMPRENSA OFICIAL**
-
-### QUESTÃO DE ORDEM
-
-(arts.139,VII;307 a 310)  
- - Nas Comissões Permanentes (art.50,XV)  
- - Publicação (art.308)  
- - Recurso (art.311)  
- - Requisitos (art.307)  
- - Resposta (art.310)
-
-### QUORUM
-
-(arts.287,§§3º e 4º;288,p.único;289; 296,§2º)  
- - Na sessão extraordinária (arts.134; 187;189)  
- - Na sessão ordinária (arts.134;136; 169,p.único)  
- - Na sessão permanente (art.203)  
- - Na sessão plenária (arts.135;136; 142,I;143)  
- - Na sessão secreta (art.198)  
- - Projetos rejeitados (art.287,§4º)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 111
-
-  
- - Verificação de presença (arts.22; 134 a 136;169;189;223,III) RADIO  
- Ver: **IMPRENSA**
-
-### RECESSO PARLAMENTAR
-
-- Convocação extraordinária (arts.324 a 327)  
- - Licença do Presidente (art.19,p.único)  
- - Período (art.153)  
- - Prazos dos trabalhos (arts.69; 362,§2º)  
- - Reunião de Comissões Permanentes (art.57,II,§1º) Ver também: **SESSÃO
-EXTRAORDINÁRIA SESSÃO LEGISLATIVA EXTRAORDINÁRIA**
-
-### RECLAMAÇÃO
-
-- Contra atos de autoridades municipais (art.46,VII)  
- - Contra atos de entidades públicas (art.46,VII)  
- - Sobre discriminação racial: parecer da Comissão de Saúde, Promoção
-Social e  
- Trabalho (art.47,VII,b)
-
-### RECURSOS
-
-- Às decisões do Presidente (arts.18,XI;212,§2º;311;312)  
- - Às decisões do Presidente de Comissão (art.51)  
- - Contra deliberação das comissões (art.82)  
- - Contra pareceres de comissões (arts.79;80;82)
-
-### RECURSOS HUMANOS
-
-- Parecer da Comissão de Administração Pública (art.47,IV,3)  
- REDAÇÃO FINAL DE PROJETO Ver: **PROJETOS**  
- REELEIÇÃO  
- Ver: **ELEIÇÃO DA MESA**- Reeleição
-
-### REFERENDO POPULAR
-
-(arts.105,XI;316,V;317,III)  
- REFORMA DO REGIMENTO INTERNO Ver**: REGIMENTO INTERNO**  
- REGIME DE URGÊNCIA  
- Ver: **TRAMITAÇÃO**- Em regime de urgência
-
-### REGIMENTO INTERNO
-
-(art.237,p.único,V;392 a 395)  
- - Alteração (arts.105,II;242,§1º;392 a 394)  
- - Deliberação por maioria absoluta (art.103,I,p)  
- - Precedentes regimentais (art.313)  
- - Vigência (art.395)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 112
-
- 
-
-### REGISTRO
-
-- De emendas à Lei Orgânica, leis, decretos legislativos e resoluções  
- (art.371)
-
-### RENÚNCIA
-
-- Coletiva (art.30,p.único)  
- - De cargo da Mesa (art.30)  
- - De mandato (arts.117;126,I;128)
-
-### REPRESENTAÇÃO PARTIDÁRIA
-
-- Nas Comissões Permanentes (arts. 18, §§ 1º e 2º;40;42;43,§3º) Ver
-também**: LÍDERES DE PARTIDOS**
-
-### REQUERIMENTO
-
-(arts.167;211,II;220 a 227)  
- - Classificação (art.221)  
- - Competência para decisão (arts.221,II;223;226;225;227)  
- - De adiamento de votação ou discussão (arts.176;225,II,§3º;285)  
- - De anulação de convocação de sessão ordinária (art.183,§§2º e 3º)  
- - De constituição de Comissão de Representação (art.223,XII)  
- - De constituição de Comissão Temporária (art.226,IV)  
- - De convocação de Secretários Municipais (art. 381)  
- - De convocação de sessão extraordinária (arts.183,II;185;205,
-p.único)  
- - De convocação de sessão permanente (art.202)  
- - De convocação de sessão solene (art.194)  
- - De criação de Comissão Parlamentar de Inquérito (arts.91;93)  
- - De despacho de convocação de sessão (art.223,IX,X)  
- - De encerramento de discussão (art.284,III,§§1º e 2º;286)  
- - De inclusão de projeto em pauta em regime de urgência (art.295,
-p.único,V)  
- - De informação (art.224)  
- - De inversão de pauta (arts.174; 225,X)  
- - De justificação de falta (art.111,§2º)  
- - De licença (arts.112,§2º;113;114)  
- - De prorrogação de sessão (arts.143,§2º;144;295,p.único,III)  
- - De retirada de proposição (arts.177;223,VI;225,IV;274,I)  
- - De sessão secreta (art.195)  
- - De verificação nominal de votação simbólica (art.301,§§2º e 3º)  
- - De voto de júbilo e congratulações (art.223, XV, §§ 1º e 2º)
-
-- De voto de pesar ou luto nacional (arts.223,VIII, XIV, § 2º)
-
-- Definição (art.220)
-
-- Deliberação do Plenário (arts.225;226)  
- - Despacho de plano do Presidente (art.223)  
- - Discussão (arts.164;168;169;225, §1º;226;227)  
- - Emendas (art.222)  
- - Formulação (arts.221,I,III;225, §2º;226)  
- - Juntada de documento (art.223,VII)  
- - Requisição de documento (art.223,V)  
- - Retirada (art.223,I)  
- - Substitutivos (art.222)  
- - Verificação de presença (art.169)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 113
-
- 
-
-### RESOLUÇÃO
-
-(art.211,VII)  
- - De destituição de Membro da Mesa (art.35)  
- - Projetos (arts.171,§§1º,3º;232,IV; 237;242;247;393)  
- - Promulgação (arts.18,VI;35,p.único; 370,II)  
- - Registro (art.371)  
- RETIRADA DE PROPOSIÇÃO Ver**: PROPOSIÇÕES**  
- REUNIÃO DA MESA  
- Ver: **MESA DA CÂMARA**  
- REUNIÃO DE COMISSÃO PERMANENTE Ver: **COMISSÕES PERMANENTES**  
- REURBANIZAÇÃO Ver: **URBANIZAÇÃO**  
- SAGUÃO DA CÂMARA  
- Ver: **CÂMARA MUNICIPAL**
-
-### SANÇÃO
-
-(arts.360 a 371)  
- - De lei (art.370)  
- - De lei orçamentària (arts.341;343)
-
-### SECRETARIA DA CÂMARA
-
-(arts.372 a 373)  
- - Competência da Mesa (arts.372, p.único;373)  
- - Serviços administrativos (art.372)  
- SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO Ver: **POLÍCIA INTERNA**
-
-### SECRETARIAS MUNICIPAIS
-
-- Criação, estrutura, atribuição (arts.103,I,m;105,XXIX)
-
-### SECRETÁRIOS DA MESA
-
-(arts.26 a 27)  
- - Atribuições (art.26)  
- - Substituição (arts.26,p.único;27)
-
-### SECRETÁRIOS MUNICIPAIS
-
-- Convocação (arts.46,VI;105,IX; 226,III;295,p.único,IV;381 a 384)  
- SEGUNDA DISCUSSÃO Ver: **DISCUSSÃO**
-
-### SEGURANÇA DO TRABALHO
-
-- Parecer da Comissão de Saúde, Promoção Social e Trabalho (art.47,
-VII,a,3)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 114
-
- 
-
-### SERVIÇOS PÚBLICOS
-
-- Concessão (art. 103,I,e)  
- - Concessão - autorização do Plenário (art.105,XXI)  
- - Contratação (art.47,IV,2)  
- - De utilidade pública (art.47,III,a,3)  
- - Parecer da Comissão de Administração Pública (art.47,IV,4)  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (arts.47,III,a,2;47,III,b)
-
-### SERVIDORES DA CÂMARA
-
-- Abertura de sindicâncias e inquéritos administrativos (art.13,II,h)  
- - Aposentadoria (art.13,II,e)  
- - Atos administrativos (art.13,II,e)  
- - Criação, transformação ou extinção de
-cargos(arts.13,I,b,1;237,p.único, VI;247)  
- - Do Gabinete da Presidência (art.18,IX)  
- - Exoneração, demissão (art.13,II,e)  
- - Gratificações (art.13,II,e)  
- - Licença e disponibilidade (art.13, II,e)  
- - Nomeação, promoção, comissionamento (art.13,II,e)  
- - Parecer da Comissão de Administração Pública (art.47,IV,3)  
- - Penalidade (art.13,II,e)  
- - Remuneração (art.13,I,b,1;237,p.único,VI)
-
-### SESSÃO DA CÂMARA
-
-(arts.132 a 210)  
- - Abertura (arts.133;137)  
- - Ata (arts.146;147)  
- - Ata da sessão secreta (art.199)  
- - Classificação (art.132)  
- - Cópia de pronunciamentos (arts.156;157§5º;160,§6º)  
- - Duração (art.145)  
- - Encerramento (arts.142;206;226,VI;281,IV;287,§2º;378,§2º)  
- - Folha de presença (art.26,I,V)  
- - Fora da Sede (art.1º,§2º)  
- - Justificação de ausência (art.18,IV)  
- - Nula (art.1º,§1º)  
- - Palavra de abertura (art.137)  
- - Permanente (arts.204 a 206)  
- - Presidência (arts.17,I;21)  
- - Presidência do vereador mais idoso (arts.3º;133)  
- - Prorrogação (arts.143 a 145;225,IX; 281,I;287,§2º;295,p.único,III)  
- - Pública (art.132,p.único)  
- - Publicação de discursos (arts.158; 161)  
- - Publicação de matéria (arts.148; 149;150)  
- - Quorum (arts.135;136;142,I;143)  
- - Suspensão (arts.141;270,§6º;281, IV;378,§2º)  
- - Traje (art.138)  
- - Uso da palavra (arts.139;140)  
- - Verificação de presença (arts.135; 136)
-
-### SESSÃO EXTRAORDINÁRIA
-
-(arts.132;183 a 192)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 115
-
-  
- - Abertura (art.134)  
- - Comparecimento do Prefeito (art.379,p.único)  
- - Comunicação do Presidente (art.186)  
- - Convocação (arts.13,I,a;183 a 186; 205,p.único)  
- - Despacho de requerimento de convocação (art.223,IX,X)  
- - Duração (arts.134;183,§1º)  
- - Eleição da Mesa (art.9º)  
- - Encerramento (art.189,§2º)  
- - Funcionamento (art.183,§1º)  
- - Instalação de Tribuna Popular (art.207)  
- - No recesso (arts.324 a 327)  
- - Ordem do Dia (arts.188 a 192)  
- - Pauta (arts.171,§3º;190 a 192)  
- - Quorum (arts.134;187 e 189)  
- - Secretários Municipais convocados (art.383)  
- - Verificação de presença (arts.134;189)  
- - Votação (art.189)  
- Ver também: **RECESSO PARLAMENTAR**
-
-### SESSÃO LEGISLATIVA EXTRAORDINÁRIA
-
-(arts.324 a 328)  
- - Convocação no recesso (arts.324 a 327)  
- - Pauta (art.325)  
- - Período (arts.2º,p.único;153)  
- - Resenha (art.18,XIV)  
- Ver também**: LEGISLATURA**
-
-### SESSÃO ORDINÁRIA
-
-(arts.132;151 a 182)  
- - Abertura (arts.134;151 e ADT art. 4ºA)  
- - Anulação de convocação (art.183,§§2º e 3º)  
- - Composição (art.152)  
- - Duração (arts.134;151; 157; 159; 163;170 e ADT art. 4ºA)  
- - Funcionamento (arts.151;153 e ADT art. 4ºA)  
- - Não convocação (art.155)  
- - Pauta (arts.171;173)  
- - Proibição de reunião de Comissão Permanente (art.57,II,§2º)  
- - Projetos de Leis Orçamentárias (arts.333;337)  
- - Prorrogação (art.182)  
- - Quorum (arts.134;136;169,p.único)  
- - Resenha (art.18,XIV)  
- - Suspensão dos trabalhos (art.170, p.único)  
- - Verificação de presença (arts.134 e 136)
-
-### SESSÃO PERMANENTE
-
-(arts.132;202 a 206)  
- - Despacho de requerimento de convocação (art.223,IX)  
- - Duração (art.203)  
- - Instalação (arts.202;203;206)  
- - Quorum (art.203)  
- - Suspensão (art.205,p.único)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 116
-
- 
-
-### SESSÃO SECRETA
-
-(arts.195 a 201)  
- - Ata (arts.26,VII;199;200)  
- - Despacho de requerimento de convocação (art.223,IX)  
- - Encerramento (art.201)  
- - Instalação (arts.195 a 198)  
- - Publicação (art.201)  
- - Quorum (art.198)
-
-### SESSÃO SOLENE
-
-(arts.132;193 a 194)  
- - Convocação (art.194)  
- - Despacho de requerimento de convocação (art.223,IX)  
- - Duração (art.145)  
- - Finalidade (art.193)
-
-- Instalação de legislatura (art.3º)
-
-- Limite de horário (ADT art. 4ºB)
-
-- Para entrega de títulos honoríficos (art.351)  
- - Posse de vereadores (arts.3º,106)
-
-### SISTEMA ÚNICO DE SAÚDE
-
-- Parecer da Comissão de Saúde, Promoção Social e Trabalho
-(art.47,VII,a,1)
-
-### SUBCOMISSÕES
-
-- Constituição (arts.55;63,§§2º e 3º)  
- - Designação de membros (art.50, XVIII)  
- - Funcionamento (art.55,§2º)  
- - Permanentes (art.55,I)  
- - Relatórios (art.56)  
- - Temporárias (art.55,II)
-
-### SUBSTITUTIVO
-
-(arts.211,VIII;269a273)  
- - Apresentação (arts.239,§§2º,3º;269,§§1º,2º;270)  
- - Aprovação (arts.252;253;256 a 258;270,§4º)  
- - De moção (art.230)  
- - De Projetos de Leis Orçamentárias (art. 337,§1º)  
- - De requerimento (art.222)  
- - Definição (art.269)  
- - Devolução ao autor (art.212,II)  
- - Não aceitação (art.273)  
- - Preferência para votação (arts.251; 255,p.único;270)  
- - Rejeição (art.251,p.único)  
- - Retirada (art.269,§2º)  
- - Tramitação (art.270)  
- SUBVENÇÃO  
- Ver: **AUXÍLIOS E SUBVENÇÕES**  
- SUPLENTE DA MESA Ver: **MESA DA CÂMARA**
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 117
-
- 
-
-### SUPLENTE DE VEREADORES
-
-- Apresentação de proposição (art.217,§1º,2ºe3º)  
- - Convocação (arts.117 e 118)  
- - Inelegibilidade para presidente de comissão (art.41,§2º)  
- - Posse (art.118;191,II)  
- Ver também: **VEREADORES**  
- TELEVISÃO  
- Ver: **IMPRENSA**
-
-### TÍTULOS HONORÍFICOS
-
-- Concessão  
- (arts.47,VI,6;105,XXXIII;236,p.único,II;347,348)  
- - Deliberação por maioria qualificada (art.103,III,d)  
- - Entrega de titulo (art.351)  
- - Limite de projetos por legislatura (art.349,p.único)  
- - Subscrição de projeto (art. 348)  
- - Votação (art.347)  
- TRABALHO DAS COMISSÕES  
- Ver: **COMISSÕES PERMANENTES**
-
-### TRAJE
-
-- De Vereadores e Assessores no Plenário (art.138)
-
-### TRAMITAÇÃO
-
-- De Processos (arts.50,XIX;67,p.único)  
- - De Projeto de Lei (art.81,p.único)  
- - De projetos (arts.63,§6º;239 a 247;368,§1º)  
- - De projetos de leis orçamentárias (arts.330,p.único;335)
-
-- De proposições (arts.171,§2º;217;223,XIII;233,§3º;
-
-- 239 a 247;art.275,§§2º,3º e 4º)
-
-- De proposituras de iniciativa popular (arts.315 a 323)  
- - De substitutivos (art.270)  
- - De vetos (arts.362 a 366)
-
-- Em regime de urgência (arts.63,§6º;164,II;167 a 169;
-
-171,III;173,§5º;174,§1º;225,I;240,p.único;245;246;295,p.único,V)  
- - Estagio (art.171,§2º)
-
-### TRANSPORTE
-
-- Parecer da Comissão de Política Urbana, Metropolitana e Meio Ambiente
-(art.47,III, a, 6)
-
-### TRIBUNA POPULAR
-
-(arts.207 a 210)  
- - Apartes (art.209,§1º)  
- - Competência de instalação (arts.13, I,e;207,§4º)  
- - Comunicação prévia (art.208)  
- - Duração (art.207)  
- - Entidade (arts.207;208)  
- - Finalidade (art.207)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 118
-
-  
- - Inscrição (arts.207;208)  
- - Instalação (art.207;210)  
- - Movimento social popular (arts.207;208)  
- - Orador inscrito (arts.208,p.único; 209)  
- - Publicação prévia (art.210)  
- - Sessão suspensa (art.209,§2º)  
- - Tempo para o orador (art.209)
-
-### TRIBUNAL DE CONTAS DO MUNICÍPIO
-
-- Contas (arts.13,II,d;47,II,a;105,XII; 295,p.único, II;385 a 388)  
- - Convocação de Conselheiro (art.46,VI)  
- - Fiscalização dos atos da Administração Direta e Indireta
-(art.46,IX)  
- - Indicação de membros (arts.352 a 359)  
- - Parecer (arts.295,p.único,II;385;386)  
- - Prestação de informações às Comissões Permanentes (art.46,XVI)  
- - Rejeição de parecer (art.103,III,a)
-
-### TRIBUTOS
-
-- Atribuições do Plenário (art.105,XVII)  
- - Competência da Comissão de Finanças e Orçamento (art.47,II,e)  
- - Deliberação por maioria absoluta (art.103,I,a)  
- - Isenção - deliberação por maioria absoluta (art.103,I,r)
-
-### TURISMO
-
-- Parecer da Comissão de Trânsito, Transporte e Atividade Econômica
-(art.47,V,3)
-
-### URBANIZAÇÃO
-
-- Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,1)
-
-### USO DA PALAVRA
-
-(arts.83,§3º;139 e 140)  
- - Autor de proposição (arts.83,§4º; 279,§§1º,2º;351,§2º)  
- - Cassação da palavra (arts.86,§3º; 209,§2º)  
- - Censura (arts.307,VI;308)  
- - Cessão de tempo (art.277,§§5º,6º)  
- - Discussão (arts.277;278;280)  
- - Encerramento de discussão (arts.255;284)  
- - Explicação pessoal (arts.180;181)  
- - Grande expediente (arts.160;161)  
- - Inscrição (arts.277;278;280)
-
-- Interrupção (arts.23;144,§§2º,3º; 209, §2º;281;305,p.único)
-
-- Líder de Partido (art. 162)
-
-- Normas (arts.139;140)  
- - Pequeno expediente (arts.157;158)  
- - Primeira discussão (art.249)  
- - Questão de ordem (arts.307;309; 310)  
- - Tempo (arts.75;86,§§2º,5º;180;209; 227;231;249;254;263;265,p.único;
-277,§§5º,6º;  
- 279;280;290;304;305; 306; 309;350;366,p.único;383,§§1º,2º e
-3º;386,§1º)  
- - Tribuna Popular (art.209) Ver também: **APARTE**
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 119
-
- 
-
-### USO DO SOLO
-
-- Aprovação do Plenário (art.105,XXVII)  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,1)
-
-### VEREADORES
-
-(arts.106 a 131)  
- - Autoria (art. 17, V, "d" e "e")  
- - Cassação de Mandato (arts.129 a 131)  
- - Compromisso (art.3º,§1º)  
- - Convocação de sessão por maioria absoluta (art.324,II)  
- - Declaração de Bens (art.106,§1º)  
- - Decoro parlamentar (art.125,II,§§1º,2º)  
- - Deveres (art.109)  
- - Direitos (arts.107;125,§§2º e 3º)  
- - Extinção de mandato (arts.18,II; 126;127)  
- - Faltas (arts.18,IV;109,VII;111;124; 223,XI)  
- - Julgamento político (arts.104,I;297)  
- - Justificação de ausência (arts.18,IV; 111,§§1º,2º;223,XI)  
- - Líderes e Vice-Líderes (arts.119 a 121)  
- - Licença (arts.18,IV;105,V;112 a 118; 191,I;223,XI)  
- - Mais idosos (arts.3º;4º;10,§2º;43;53;83,§2º;133)  
- - Membro de Comissão (art.38, § 3º; 41,§3º)  
- - Perda de Mandato (arts.13,I,d;125; 126;130,p.único;237,p.único,II)  
- - Posse (arts.3º;18,I;106;118;191,II)  
- - Presidência de sessão (art.21)  
- - Recurso ao Plenário (art.311)  
- - Remuneração (arts.13,I,b,4;105,VI;
-108;115;116;122;124;237,p.único,IV,VI)  
- - Renúncia de mandato (arts.117; 126,I;128)  
- - Servidor público (art.108)  
- - Sigla do Partido Político (art. 17, V, "d" e "e")  
- - Suplente (arts.41,§2º;106,§3º;117; 118;191,II)  
- - Traje (art.138)  
- - Tratamento obrigatório entre (art.140,XI a XIII)  
- - Uso da palavra (arts.75;83,§3º;86,  
- §§2º,5º;139;140;157;180;181;249;254;263;265,p.único;277 a
-281;305;306)  
- - Viagem (art.110)  
- VERIFICAÇÃO DE PRESENÇA Ver: **QUÓRUM**  
- VERIFICAÇÃO NOMINAL DE VOTAÇÃO Ver: **VOTAÇÃO**
-
-### VETO
-
-(arts.167,§3º;171,I;361 a 368)  
- - Inclusão na ordem do dia(arts.362; 365;366)  
- - Pareceres (art.363,p.único)  
- - Publicação (art.361,p.único)  
- - Rejeição (art.368)  
- - Rejeição - deliberação por maioria absoluta (art.103,I,o)  
- - Tramitação (arts.362 a 366)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 120
-
-  
- - Votação (arts.366 a 368) Ver também: **PROJETOS**
-
-### VIAS E LOGRADOUROS - DENOMINAÇÃO
-
-(art.105,XXX)  
- - Deliberação por maioria absoluta (art.103,I,q)  
- - Parecer da Comissão de Educação, Cultura e Esportes (art.47,VI,5)  
- VICE-LIDERANÇA DO GOVERNO Ver: **LÍDERES DE PARTIDOS**
-
-### VICE-LÍDERES
-
-- Indicação (art.119,§1º)
-
-### VICE-PREFEITO
-
-- Afastamento (art.105,IV,V)  
- - Posse (art.105,IV)  
- - Processo contra (arts.105,XIV; 389;390)  
- - Remuneração (arts.13,I,b,3;105,VI;122;236, p.único,I)  
- - Responsabilidade (art.389)
-
-### VICE-PRESIDENTE DA CÂMARA
-
-(arts.24 e 25)  
- - Substituição (arts.24;25;26,VIII)  
- VICE-PRESIDENTE DE COMISSÕES Ver: **COMISSÕES PERMANENTES**
-
-### VIGILÂNCIA SANITÁRIA
-
-- Parecer da Comissão de Saúde, Promoção Social e Trabalho
-(art.47,VII,a,2)
-
-### VOTAÇÃO
-
-(arts.102 a 104;287 a 304)  
- - Adiamento (arts.175,II;176; 192,II;225,II,§3º)  
- - Alteração do Regimento (art.393,p.único)  
- - Apuração (arts.294;295;296; 298;299)  
- - Boletim de apuração (arts.298, §2º,III;300)  
- - De Emendas (arts.225,VI,VII;252; 256;266,§1º;272;340)  
- - De parecer (arts.34 a 36;76;77;262)  
- - De projetos de Leis Orçamentárias (arts.337;340;341;344;346)  
- - De substitutivo (art.270)  
- - De títulos honoríficos (art.347)  
- - De vetos (arts.366 a 368)  
- - Destituição de Membro da Mesa (arts.34;36)  
- - Em bloco (arts.250;252,§3º;255;367)  
- - Em grupo (art. 243, p. único)  
- - Encaminhamento (arts.144;168;175, p.único;225,§1º;231;290;291;292;
-340)  
- - Fase (art.287,§1º)  
- - Impedimento (art.288)  
- - Na sessão extraordinária (art.189)  
- - Nominal (arts.293,II;295;296; 301,§4º)  
- - Pelas comissões (arts.50,IX; 76;77;81)
-
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 121
-
-  
- - Preferência para (arts.175,I;176,§5º;192,II;251;255,V, p.único)  
- - Processos de (art.293)  
- - Retirada da pauta (art.175,III)  
- - Secreta (arts.104;289;293,III;297;298;358)  
- - Simbólica (arts.293,I;294;301)  
- - Verificação nominal (arts.223,IV;301)
-
-### VOTO
-
-- Aberto (art.104)  
- - Contrário (arts.76,II;77,§3º)  
- - Declaração de (arts.225,§1º;302 a 304)  
- - Em separado (art.77)  
- - Favorável (art.76,I)  
- -Nominal (arts.293,II;295;296; 301,§4º)  
- - Registro eletrônico (art. 293, p. único,II)  
- - Retificação (art.296,§4º)  
- - Secreto (arts.293,III;297;298)  
- - Simbólico (arts.293,I;294;301)  
- - Vencido (art.77,§§1º,3º)
-
-### ZONEAMENTO
-
-- Aprovação do Plenário (art.105, XXVII,XXXI)  
- - Deliberação por maioria especial (art.103,II,a)  
- - Parecer da Comissão de Política Urbana, Metropolitana e Meio
-Ambiente  
- (art.47,III,a,1)  
- - Votação nominal (art.295,p.único,VI)
-
-Powered by [Web Agency](http://www.e-max.it "Web Agency")
 
  
