@@ -1,0 +1,143 @@
+REGIMENTO DA CÂMARA
+MUNICIPAL DE PORTO ALEGRE
+ 
+ 
+TEXTO COMPILADO E ATUALIZADO ATÉ
+ A RESOLUÇÂO Nº 2.206, DE 03.12.2010
+ 
+ 
+ 
+ 
+SUMÁRIO
+ 
+ 
+ 
+TÍTULO I
+Da Câmara Municipal
+                                                                                                                                                       
+CAPÍTULO I                     Das Funções da Câmara ( Arts. 1º a 6º)
+CAPÍTULO II                   Da Sede da Câmara (Art. 7º)
+CAPÍTULO III                  Da Instalação da Legislatura (Arts. 8º a 12)
+ 
+ 
+ 
+TÍTULO II
+Dos Órgãos da Câmara Municipal
+ 
+CAPÍTULO I                     Da Mesa.
+Seção I                                  Da Formação e Eleição da Mesa (Art. 13)
+Seção II                                Da Renovação da Mesa (Art. 14)
+Seção III                               Das Atribuições da Mesa (Arts. 15 e 16)
+Seção IV                             Do Presidente (Arts. 17 a 23)
+Seção V                               Dos Vice-Presidentes (Art. 24)
+Seção VI                             Dos Secretários (Arts. 25 a 27)
+CAPÍTULO II                   Das Comissões
+Seção I                                  Das Disposições Gerais (Arts. 28 e 29)
+Seção II                                Das Comissões Permanentes (Art. 30)
+Subseção I                       Da Composição e Eleição das Comissões Permanentes
+                              (Arts. 31 a 33)
+Subseção I-A         Da Competência da dos Presidentes das Comissões
+                              Permanentes (art. 34)
+Subseção II                      Da Competência das Comissões Permanentes (Art. 35)
+Subseção III                    Da Competência Específica das Comissões Permanentes
+(Arts. 36 a 41)
+Subseção IV                   Do Funcionamento das Comissões  Permanentes
+                              (Arts. 42 a 51)
+Subseção V                    Dos Pareceres (Arts. 52 a 56)
+Seção III                               Das Comissões Temporárias (Arts. 57 a 62)
+Subseção I                       Da Comissão Especial (Arts. 63 a 65)
+Subseção II                      Da Comissão Parlamentar de Inquérito (Arts. 66 a 71)
+Subseção III                    Da Comissão Processante (Arts. 72 a 77)
+Subseção IV                   Da Comissão Externa (Art. 78)
+Seção IV                             Da Comissão Representativa (Arts. 79 a 83)
+CAPÍTULO III                  Do Plenário (Arts. 84 a 86)
+ 
+ 
+ 
+ 
+TÍTULO III
+Do Processo Legislativo
+ 
+CAPÍTULO I                     Das Proposições (Arts. 87 a 100)
+CAPÍTULO II                   Da Tramitação (Arts. 101 a 109)
+CAPÍTULO III                  Da Urgência (Arts. 110 a 112)
+CAPÍTULO IV                Da Redação Final (Arts. 113 a 115)
+CAPÍTULO V                  Do Veto (Arts. 116 e 117)
+CAPÍTULO VI                Da Contagem dos Prazos (Arts. 118 e 119)
+CAPÍTULO VII               Dos Processos Especiais e dos Procedimentos de Controle
+Seção I                                  Dos Orçamentos (Art. 120)
+Seção II                                Do Julgamento das Contas (Arts. 121 a 124)
+Seção III                               Da Reforma do Regimento (Arts. 125 e 126)
+Seção IV                             Da Reforma da Lei Orgânica (Arts. 127 a 131)
+Seção IV-A            Da Deliberação dos Projetos de Consolidação
+                            (Arts. 131-A a 131-C)
+Seção IV-B            Da Tramitação dos Projetos de Revisão do PDDUA (Art. 131-D)         
+Seção V                               Dos Títulos Honoríficos (Arts. 132 a 134-A)
+Seção VI                             Do Comparecimento do Prefeito (Arts. 135 e 136)
+Seção VII                            Da Convocação de Autoridades Municipais (Arts. 137 a 139)
+ 
+ 
+ 
+TÍTULO IV
+Das Sessões Plenárias
+ 
+CAPÍTULO I                     Das Sessões em Geral (Arts. 140 a 145)
+Seção I                                  Das Sessões Ordinárias (Arts. 146 a 149)
+Subseção I                       Do Expediente (Art. 150)
+Subseção II                      Da Pauta (Arts. 151 e 152)
+Subseção III                    Do Grande Expediente (Arts. 153 a 156)
+Subseção IV                   Da Ordem do Dia (Arts. 157 a 171)
+Subseção V                    Da Votação (Arts. 172 a 179)
+Subseção VI                   Das Comunicações (Arts. 180 a 183)
+Subseção VII                 Da Explicação Pessoal (Arts. 184 a 186) (revogado)
+Seção II                                Das Sessões Extraordinárias (Art. 187)
+Seção III                               Das Sessões Solenes (Arts. 188 a 190)
+Seção IV                             Das Sessões Especiais (Art. 191)
+CAPÍTULO II                   Do Aparte (Art. 192)
+CAPÍTULO III                  Da Questão de Ordem (Arts. 193 e 194)
+CAPÍTULO IV                Dos Precedentes Legislativos e da                                
+Prejudicialidade das Proposições (Arts. 194-A a 195)
+CAPÍTULO V                  Da Renovação de Votação (Art. 196)
+CAPÍTULO VI                Dos Anais (Arts. 197 e 198)
+ 
+ 
+ 
+TÍTULO V
+Da Participação Popular
+ 
+CAPÍTULO I                     Da Iniciativa Popular (Arts. 199 e 200)
+CAPÍTULO II                   Da Tribuna Popular (Arts. 201 a 206)
+CAPÍTULO III                  Da Participação no Processo Legislativo (Arts. 207 a 209)
+ 
+ 
+ 
+ 
+TÍTULO VI
+Da Convocação Extraordinária (Arts. 210 a 212)
+ 
+ 
+ 
+TÍTULO VII
+Dos Vereadores
+ 
+CAPÍTULO I                     Dos Direitos e Deveres (Arts. 213 a 217)
+CAPÍTULO II                   Das Licenças (Arts. 218 a 221)
+CAPÍTULO III                  Da Extinção e da Perda do Mandato (Arts. 222 a 224)
+CAPÍTULO IV                Da Remuneração (Arts. 225 a 227-D)
+CAPÍTULO V         Da Representação Externa e da Missão Externa
+                              (Arts. 227-F e 227-G)
+ 
+ 
+ 
+TÍTULO VIII
+Do Colégio de Líderes, dos Líderes e Vice-Líderes (Arts. 228 a 229)
+ 
+ 
+ 
+TÍTULO IX
+Das Disposições Finais (Arts. 230 a 237-A)
+                           
+ 
+ 
+TÍTULO X
+Das Disposições Transitórias (Art. 238 a 240-A)
