@@ -1,8 +1,8 @@
-# REGIMENTO DA CÂMARA MUNICIPAL DE PORTO ALEGRE
+# Regimento da Câmara Municipal de Porto Alegre
 
-TEXTO COMPILADO E ATUALIZADO ATÉ A RESOLUÇÂO Nº 2.206, DE 03.12.2010
+Texto compilado e atualizado até a resoluçâo nº 2.206, de 03.12.2010
 
-## SUMÁRIO
+## Sumário
 
 * TÍTULO I - Da Câmara Municipal
   * CAPÍTULO I Das Funções da Câmara ( Arts. 1º a 6º)
