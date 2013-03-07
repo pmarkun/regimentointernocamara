@@ -690,80 +690,70 @@ XI – Da Comissão Extraordinária Permanente de Meio Ambiente:
 
 ### SEÇÃO IV - Dos Presidentes e Vice-Presidentes das Comissões Permanentes
 
-### Art. 49 - Os Presidentes e Vice-Presidentes das Comissões Permanentes serão escolhidos na forma do disposto no artigo 43.
+#### Art. 49 - Os Presidentes e Vice-Presidentes das Comissões Permanentes serão escolhidos na forma do disposto no artigo 43.
 
-### Art. 50 - Ao Presidente da Comissão Permanente compete:
+#### Art. 50 - Ao Presidente da Comissão Permanente compete:
 
-I - fixar, de comum acordo com os membros da Comissão, o horário das
-reuniões ordinárias;  
- II - convocar audiências públicas, ouvida a Comissão; III - presidir as
-reuniões e nelas manter a ordem;  
- IV - convocar reuniões extraordinárias, de ofício ou a requerimento da
-maioria dos membros da Comissão;  
- V - determinar a leitura das atas das reuniões e submetê-las a votos;  
- VI - dar conhecimento à Comissão da matéria recebida e distribuí-la aos
-relatores, designados mediante rodízio, para emitirem parecer;  
- VII - advertir o orador que se exceder no decorrer dos debates ou
-faltar à consideração para com seus pares;  
- VIII - interromper o orador que se desviar da matéria em debate;  
- IX - submeter a votos as questões em debate e proclamar o resultado das
-votações;  
- X - conceder vista dos processos, exceto quanto às proposituras com
-prazo fatal para apreciação;  
- XI - assinar em primeiro lugar, a seu critério, os pareceres da
-Comissão;  
- XII - enviar à Mesa toda a matéria da Comissão destinada ao
-conhecimento do Plenário;  
- XIII - solicitar ao Presidente da Câmara providências, junto às
-lideranças partidárias, no sentido de serem indicados substitutos para
-membros da Comissão em caso de vaga, licença ou impedimento;  
- XIV - representar a Comissão nas suas relações com a Mesa e com
-outras  
- Comissões;  
- XV - resolver, de acordo com o Regimento, todas as questões de ordem
-suscitadas nas reuniões da Comissão;  
- XVI - apresentar ao Presidente da Câmara relatório mensal e anual dos
-trabalhos da Comissão;  
- XVII - encaminhar ao Presidente da Câmara as solicitações de
-justificação
+I - fixar, de comum acordo com os membros da Comissão, o horário das reuniões ordinárias;
 
-REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO 24
+II - convocar audiências públicas, ouvida a Comissão;
 
-  
- das faltas de membros da Comissão às reuniões;  
- XVIII - designar os membros de Subcomissão;  
- XIX - fazer observar os prazos regimentais dos processos que tramitam
-na  
- Comissão;  
- XX - providenciar a publicação da pauta das reuniões, dos extratos das
-atas e dos pareceres da Comissão na Imprensa Oficial.  
- Parágrafo único - O Presidente da Comissão não poderá funcionar como
-relator nas proposituras, mas terá voto em todas as deliberações
-internas, além do voto de qualidade, quando for o caso.
+III - presidir as reuniões e nelas manter a ordem;  
 
-### Art. 51 - Dos atos e deliberações do Presidente da Comissão caberá recurso de qualquer de seus membros para o Plenário da Comissão.
+IV - convocar reuniões extraordinárias, de ofício ou a requerimento da maioria dos membros da Comissão;  
 
-### Art. 52 - Ao Vice-Presidente compete:
+V - determinar a leitura das atas das reuniões e submetê-las a votos;  
 
-I - substituir o Presidente nos seus impedimentos, e suceder-lhe em caso
-de vaga, na forma prevista no artigo 54;  
- II - proceder à leitura das atas e correspondências recebidas pela  
- Comissão;  
- III - redigir as atas das reuniões secretas da Comissão.  
- Parágrafo único - O Vice-Presidente auxiliará o Presidente sempre que
-por ele convocado, cabendo-lhe representar a Comissão por delegação
-pessoal do Presidente.
+VI - dar conhecimento à Comissão da matéria recebida e distribuí-la aos relatores, designados mediante rodízio, para emitirem parecer;  
 
-### Art. 53 - Nas ausências simultâneas do Presidente e do Vice- Presidente da
+VII - advertir o orador que se exceder no decorrer dos debates ou faltar à consideração para com seus pares;  
 
-Comissão, caberá ao mais idoso dos membros presentes a presidência da
-reunião.
+VIII - interromper o orador que se desviar da matéria em debate;
 
-### Art. 54 - Se, por qualquer razão, o Presidente deixar de fazer parte da Comissão, ou renunciar à presidência, proceder-se-á a nova eleição, observado o disposto no artigo 43 e seu § 1º , salvo se faltarem menos de 3 (três) meses para o término da sessão legislativa, sendo, neste caso, substituído pelo Vice-Presidente.
+IX - submeter a votos as questões em debate e proclamar o 
+resultado das votações;  
 
-SEÇÃO V
+X - conceder vista dos processos, exceto quanto às proposituras com prazo fatal para apreciação;  
 
-### Das Subcomissões
+XI - assinar em primeiro lugar, a seu critério, os pareceres da Comissão;  
+
+XII - enviar à Mesa toda a matéria da Comissão destinada ao conhecimento do Plenário;  
+
+XIII - solicitar ao Presidente da Câmara providências, junto às lideranças partidárias, no sentido de serem indicados substitutos para membros da Comissão em caso de vaga, licença ou impedimento;
+
+XIV - representar a Comissão nas suas relações com a Mesa e com outras Comissões;  
+
+XV - resolver, de acordo com o Regimento, todas as questões de ordem suscitadas nas reuniões da Comissão;  
+
+XVI - apresentar ao Presidente da Câmara relatório mensal e anual dos trabalhos da Comissão;  
+
+XVII - encaminhar ao Presidente da Câmara as solicitações de justificação das faltas de membros da Comissão às reuniões;
+
+XVIII - designar os membros de Subcomissão;  
+
+XIX - fazer observar os prazos regimentais dos processos que tramitam na Comissão;  
+
+XX - providenciar a publicação da pauta das reuniões, dos extratos das atas e dos pareceres da Comissão na Imprensa Oficial.
+
+Parágrafo único - O Presidente da Comissão não poderá funcionar como relator nas proposituras, mas terá voto em todas as deliberações internas, além do voto de qualidade, quando for o caso.
+
+#### Art. 51 - Dos atos e deliberações do Presidente da Comissão caberá recurso de qualquer de seus membros para o Plenário da Comissão.
+
+#### Art. 52 - Ao Vice-Presidente compete:
+
+I - substituir o Presidente nos seus impedimentos, e suceder-lhe em caso de vaga, na forma prevista no artigo 54;
+
+II - proceder à leitura das atas e correspondências recebidas pela Comissão;  
+
+III - redigir as atas das reuniões secretas da Comissão.  
+
+Parágrafo único - O Vice-Presidente auxiliará o Presidente sempre que por ele convocado, cabendo-lhe representar a Comissão por delegação pessoal do Presidente.
+
+#### Art. 53 - Nas ausências simultâneas do Presidente e do Vice- Presidente da Comissão, caberá ao mais idoso dos membros presentes a presidência da reunião.
+
+#### Art. 54 - Se, por qualquer razão, o Presidente deixar de fazer parte da Comissão, ou renunciar à presidência, proceder-se-á a nova eleição, observado o disposto no artigo 43 e seu § 1º , salvo se faltarem menos de 3 (três) meses para o término da sessão legislativa, sendo, neste caso, substituído pelo Vice-Presidente.
+
+### SEÇÃO V - Das Subcomissões
 
 ### Art. 55 - As Comissões Permanentes poderão constituir, dentre seus próprios componentes, sem poder decisório:
 
