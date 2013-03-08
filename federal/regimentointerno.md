@@ -6,117 +6,77 @@ Aprova o Regimento Interno da Câmara dos Deputados.
 A Câmara dos Deputados, considerando a necessidade de adaptar o seu funcionamento e processo legislativo próprio à Constituição Federal, resolve;
 
 
-###Art. 1o O Regimento Interno da Câmara dos Deputados
-passa a vigorar na conformidade do texto anexo.
+#### Art. 1o O Regimento Interno da Câmara dos Deputados passa a vigorar na conformidade do texto anexo.
 
-###Art. 2o Dentro de um ano a contar da promulgação desta
-Resolução, a Mesa elaborará e submeterá à aprovação do Plenário o
-projeto de Regulamento Interno das Comissões e a alteração dos
-Regulamentos Administrativo e de Pessoal, para ajustá-los às
-diretrizes estabelecidas no Regimento.
+#### Art. 2o Dentro de um ano a contar da promulgação desta
+Resolução, a Mesa elaborará e submeterá à aprovação do Plenário o projeto de Regulamento Interno das Comissões e a alteração dos Regulamentos Administrativo e de Pessoal, para ajustá-los às diretrizes estabelecidas no Regimento.
 
 Parágrafo único. Ficam mantidas as normas administrativas
-em vigor, no que não contrarie o anexo Regimento, e convalidados os
-atos praticados pela Mesa no período de 1o de fevereiro de 1987, data
-da instalação da Assembléia Nacional Constituinte, até o início da
-vigência desta Resolução.
+em vigor, no que não contrarie o anexo Regimento, e convalidados os atos praticados pela Mesa no período de 1o de fevereiro de 1987, data da instalação da Assembléia Nacional Constituinte, até o início da vigência desta Resolução.
 
-###Art. 3o A Mesa apresentará projeto de resolução sobre o
+#### Art. 3o A Mesa apresentará projeto de resolução sobre o
 Código de Ética e Decoro Parlamentar.
 
-###Art. 4o Ficam mantidas, até o final da sessão legislativa em
-curso, com seus atuais Presidente e Vice-Presidentes, as Comissões
-Permanentes criadas e organizadas na forma da Resolução no 5, de
-, que terão competência em relação às matérias das Comissões
-que lhes sejam correspondentes ou com as quais tenham maior
-afinidade, conforme discriminação constante do texto regimental
-anexo (art. 32).
-
+#### Art. 4o Ficam mantidas, até o final da sessão legislativa em curso, com seus atuais Presidente e Vice-Presidentes, as Comissões Permanentes criadas e organizadas na forma da Resolução no 5, de, que terão competência em relação às matérias das Comissões que lhes sejam correspondentes ou com as quais tenham maior afinidade, conforme discriminação constante do texto regimental anexo (art. 32).
 
 Publicada no Suplemento ao Diário do Congresso Nacional-I de 22-9-1989, p. 3.
 
 $ 1o Somente serão apreciadas conclusivamente pelas
-Comissões, na conformidade do art. 24, II, do novo Regimento, as
-proposições distribuídas a partir do início da vigência desta
-Resolução.
+Comissões, na conformidade do art. 24, II, do novo Regimento, as proposições distribuídas a partir do início da vigência desta Resolução.
 
 $ 2o Excetuam-se do prescrito no parágrafo anterior os
-projetos em trâmite na Casa, pertinentes ao cumprimento dos arts. 5
+projetos em trâmite na Casa, pertinentes ao cumprimento dos arts. 5 e 59 do Ato das Disposições Constitucionais Transitórias, em relação aos quais o Presidente da Câmara abrirá o prazo de cinco sessões para a apresentação de emendas nas Comissões incumbidas de examinar o mérito das referidas proposições.
 
-e 59 do Ato das Disposições Constitucionais Transitórias, em relação
-aos quais o Presidente da Câmara abrirá o prazo de cinco sessões para
-a apresentação de emendas nas Comissões incumbidas de examinar o
-mérito das referidas proposições.
+#### Art. 5o Ficam mantidas, até o final da legislatura em curso, as Lideranças constituídas, na forma das disposições regimentais anteriores, até a data da promulgação do Regimento Interno.
 
-###Art. 5o Ficam mantidas, até o final da legislatura em curso,
-as Lideranças constituídas, na forma das disposições regimentais
-anteriores, até a data da promulgação do Regimento Interno.
+#### Art. 6o Até 15 de março de 1990, constitui a Maioria a
+legenda ou composição partidária integrada pelo maior número de representantes, considerando-se Minoria a representação imediatamente inferior.
 
-###Art. 6o Até 15 de março de 1990, constitui a Maioria a
-legenda ou composição partidária integrada pelo maior número de
-representantes, considerando-se Minoria a representação imediatamente
-inferior.
-
-###Art. 7o Esta Resolução entra em vigor na data de sua
+#### Art. 7o Esta Resolução entra em vigor na data de sua
 publicação.
 
-###Art. 8o Revogam-se a Resolução no 30, de 1972, suas
+#### Art. 8o Revogam-se a Resolução no 30, de 1972, suas
 alterações e demais disposições em contrário.
+
 Brasília, 21 de setembro de 1989. – Paes de Andrade,
 Presidente.
 
-
 # REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS
 
+# TÍTULO I - DISPOSIÇÕES PRELIMINARES
 
-# TÍTULO I
-DISPOSIÇÕES PRELIMINARES
+## CAPÍTULO I - DA SEDE
 
-## CAPÍTULO I
-DA SEDE
-
-###Art. 1o A Câmara dos Deputados, com sede na Capital
-Federal, funciona no Palácio do Congresso Nacional.
+#### Art. 1o A Câmara dos Deputados, com sede na Capital Federal, funciona no Palácio do Congresso Nacional.
 
 Parágrafo único. Havendo motivo relevante, ou de força
-maior, a Câmara poderá, por deliberação da Mesa, ad referendum da
-maioria absoluta dos Deputados, reunir-se em outro edifício ou em
-ponto diverso no território nacional.
+maior, a Câmara poderá, por deliberação da Mesa, ad referendum da maioria absoluta dos Deputados, reunir-se em outro edifício ou em ponto diverso no território nacional.
 
-## CAPÍTULO II
-DAS SESSÕES LEGISLATIVAS
+## CAPÍTULO II - DAS SESSÕES LEGISLATIVAS
 
-###Art. 2o A Câmara dos Deputados reunir-se-á durante as
-sessões legislativas;
+#### Art. 2o A Câmara dos Deputados reunir-se-á durante as sessões legislativas;
 
-I - ordinárias, de 15 de fevereiro a 30 de junho e de 1o de
-agosto a 15 de dezembro;
+I - ordinárias, de 15 de fevereiro a 30 de junho e de 1o de agosto a 15 de dezembro;
 
-II - extraordinárias, quando, com este caráter, for convocado
-o Congresso Nacional.
+II - extraordinárias, quando, com este caráter, for convocado o Congresso Nacional.
 
 $ 1o As reuniões marcadas para as datas a que se refere o
-inciso I serão transferidas para o primeiro dia útil subseqüente quando
-recaírem em sábados, domingos ou feriados.
+inciso I serão transferidas para o primeiro dia útil subseqüente quando recaírem em sábados, domingos ou feriados.
 
-$ 2o A primeira e a terceira sessões legislativas ordinárias de
-cada legislatura serão precedidas de sessões preparatórias.
+$ 2o A primeira e a terceira sessões legislativas ordinárias de cada legislatura serão precedidas de sessões preparatórias.
 
-$ 3o A sessão legislativa ordinária não será interrompida em
- de junho, enquanto não for aprovada a lei de diretrizes
+$ 3o A sessão legislativa ordinária não será interrompida em de junho, enquanto não for aprovada a lei de diretrizes
 orçamentárias pelo Congresso Nacional.
 
 $ 4o Quando convocado extraordinariamente o Congresso
-Nacional, a Câmara dos Deputados somente deliberará sobre a matéria
-objeto da convocação.
+Nacional, a Câmara dos Deputados somente deliberará sobre a matéria objeto da convocação.
 
 
-## CAPÍTULO III
-DAS SESSÕES PREPARATÓRIAS
-Seção I
+## CAPÍTULO III - DAS SESSÕES PREPARATÓRIAS
+### Seção I
 Da Posse dos Deputados
 
-###Art. 3o O candidato diplomado Deputado Federal deverá
+#### Art. 3o O candidato diplomado Deputado Federal deverá
 apresentar à Mesa, pessoalmente ou por intermédio do seu Partido, até
 o dia 31 de janeiro do ano de instalação de cada legislatura, o diploma
 expedido pela Justiça Eleitoral, juntamente com a comunicação de seu
@@ -138,7 +98,7 @@ Territórios, de norte a sul, na ordem geográfica das capitais e, em cada
 unidade federativa, na sucessão alfabética dos nomes parlamentares,
 com as respectivas legendas partidárias.
 
-###Art. 4o Às quinze horas do dia 1o de fevereiro do primeiro
+#### Art. 4o Às quinze horas do dia 1o de fevereiro do primeiro
 ano de cada legislatura, os candidatos diplomados Deputados Federais
 reunir-se-ão em sessão preparatória, na sede da Câmara.
 
@@ -198,10 +158,10 @@ mandato, organizada de acordo com os critérios fixados no § 3o do art.
 o , a qual, com as modificações posteriores, servirá para o registro do
 comparecimento e verificação do quórum necessário à abertura da
 sessão, bem como para as votações nominais e por escrutínio secreto.
-Seção II
+### Seção II
 Da Eleição da Mesa
 
-###Art. 5o Na segunda sessão preparatória da primeira sessão
+#### Art. 5o Na segunda sessão preparatória da primeira sessão
 legislativa de cada legislatura, às quinze horas do dia 2 de fevereiro,
 sempre que possível sob a direção da Mesa da sessão anterior,
 realizar-se-á a eleição do Presidente, dos demais membros da Mesa e
@@ -215,7 +175,7 @@ cargo em legislaturas diferentes, ainda que sucessivas.
 $ 2o Enquanto não for escolhido o Presidente, não se
 procederá à apuração para os demais cargos.
 
-###Art. 6o No terceiro ano de cada legislatura, a primeira sessão
+#### Art. 6o No terceiro ano de cada legislatura, a primeira sessão
 preparatória para a verificação do quórum necessário à eleição da
 Mesa será realizada durante a primeira quinzena do mês de fevereiro.
 
@@ -234,7 +194,7 @@ $ 3o Enquanto não for eleito o novo Presidente, dirigirá os
 trabalhos da Câmara dos Deputados a Mesa da sessão legislativa
 anterior.
 
-###Art. 7o A eleição dos membros da Mesa far-se-á por
+#### Art. 7o A eleição dos membros da Mesa far-se-á por
 escrutínio secreto, exigida maioria absoluta de votos, em primeiro
 escrutínio, e maioria simples, em segundo escrutínio, presente a
 maioria absoluta dos Deputados, observadas as seguintes exigências e
@@ -292,7 +252,7 @@ número de legislaturas, em caso de empate;
 XIV - proclamação, pelo Presidente, do resultado final e
 posse imediata dos eleitos.
 
-###Art. 8o Na composição da Mesa será assegurada, tanto
+#### Art. 8o Na composição da Mesa será assegurada, tanto
 quanto possível, a representação proporcional dos Partidos ou Blocos
 Parlamentares que participem da Câmara, os quais escolherão os
 respectivos candidatos aos cargos que, de acordo com o mesmo
@@ -333,7 +293,7 @@ ainda que pela proporcionalidade não lhe caiba lugar.
 ## CAPÍTULO IV
 DOS LÍDERES
 
-###Art. 9o Os Deputados são agrupados por representações
+#### Art. 9o Os Deputados são agrupados por representações
 partidárias ou de Blocos Parlamentares, cabendo-lhes escolher o Líder
 quando a representação for igual ou superior a um centésimo da
 composição da Câmara.
@@ -364,7 +324,7 @@ Lideranças.
 
 $ 5o Os Líderes e Vice-Líderes não poderão integrar a Mesa.
 
-###Art. 10. O Líder, além de outras atribuições regimentais, tem
+#### Art. 10. O Líder, além de outras atribuições regimentais, tem
 as seguintes prerrogativas;
 
 I - fazer uso da palavra, nos termos do art. 66, §§ 1o e 3o ,
@@ -391,7 +351,7 @@ Comissões, e, a qualquer tempo, substituí-los.
 
 
 
-###Art. 11. O Presidente da República poderá indicar Deputados
+#### Art. 11. O Presidente da República poderá indicar Deputados
 para exercerem a Liderança do Governo, composta de Líder e cinco
 Vice-Líderes, com as prerrogativas constantes dos incisos I, III e IV
 do art. 10.
@@ -404,7 +364,7 @@ Artigo com nova redação dada pela Resolução n o 38, de 1993.
 DOS BLOCOS PARLAMENTARES,
 DA MAIORIA E DA MINORIA
 
-###Art. 12. As representações de dois ou mais Partidos, por
+#### Art. 12. As representações de dois ou mais Partidos, por
 deliberação das respectivas bancadas, poderão constituir Bloco
 Parlamentar, sob liderança comum.
 
@@ -445,7 +405,7 @@ na mesma sessão legislativa.
 $ 9o A agremiação integrante de Bloco Parlamentar não
 poderá fazer parte de outro concomitantemente.
 
-###Art. 13. Constitui a Maioria o Partido ou Bloco Parlamentar
+#### Art. 13. Constitui a Maioria o Partido ou Bloco Parlamentar
 integrado pela maioria absoluta dos membros da Casa, considerando-se
 Minoria a representação imediatamente inferior que, em relação ao
 Governo, expresse posição diversa da Maioria.
@@ -460,10 +420,10 @@ DOS ÓRGÃOS DA CÂMARA
 
 ## CAPÍTULO I
 DA MESA
-Seção I
+### Seção I
 Disposições Gerais
 
-###Art. 14. À Mesa, na qualidade de Comissão Diretora,
+#### Art. 14. À Mesa, na qualidade de Comissão Diretora,
 incumbe a direção dos trabalhos legislativos e dos serviços
 administrativos da Câmara.
 
@@ -491,7 +451,7 @@ trinta sessões após a sua constituição, fixará a competência de cada
 um dos seus membros, prevalecendo a da sessão legislativa anterior
 enquanto não modificada.
 
-###Art. 15. À Mesa compete, dentre outras atribuições
+#### Art. 15. À Mesa compete, dentre outras atribuições
 estabelecidas em lei, neste Regimento ou por resolução da Câmara, ou
 delas implicitamente resultantes;
 
@@ -610,10 +570,10 @@ relatório sobre o seu desempenho.
 Parágrafo único. Em caso de matéria inadiável, poderá o
 Presidente, ou quem o estiver substituindo, decidir, ad referendum da
 Mesa, sobre assunto de competência desta.
-Seção II
+### Seção II
 Da Presidência
 
-###Art. 16. O Presidente é o representante da Câmara quando
+#### Art. 16. O Presidente é o representante da Câmara quando
 ela se pronuncia coletivamente e o supervisor dos seus trabalhos e da
 sua ordem, nos termos deste Regimento.
 
@@ -840,7 +800,7 @@ País.
 $ 4o O Presidente poderá delegar aos Vice-Presidentes
 competência que lhe seja própria.
 
-###Art. 18. Aos Vice-Presidentes, segundo sua numeração
+#### Art. 18. Aos Vice-Presidentes, segundo sua numeração
 ordinal, incumbe substituir o Presidente em suas ausências ou
 impedimentos.
 
@@ -855,10 +815,10 @@ e na série ordinal, pelos Vice-Presidentes, Secretários e Suplentes, ou,
 finalmente, pelo Deputado mais idoso, dentre os de maior número de
 legislaturas, procedendo-se da mesma forma quando tiver necessidade
 de deixar a sua cadeira.
-Seção III
+### Seção III
 Da Secretaria
 
-###Art. 19. Os Secretários terão as designações de Primeiro,
+#### Art. 19. Os Secretários terão as designações de Primeiro,
 Segundo, Terceiro e Quarto, cabendo ao primeiro superintender os
 serviços administrativos da Câmara e, além das atribuições que
 decorrem desta competência;
@@ -896,7 +856,7 @@ Presidente.
 
 
 
-###Art. 19-A. São as seguintes as atribuições dos Suplentes de
+#### Art. 19-A. São as seguintes as atribuições dos Suplentes de
 Secretário, além de outras decorrentes da natureza de suas funções;
 
 I - tomar parte nas reuniões da Mesa e substituir os Secretários,
@@ -940,7 +900,7 @@ Artigo acrescentado pela Resolução no 28, de 2002.
 ## CAPÍTULO II
 DO COLÉGIO DE LÍDERES
 
-###Art. 20. Os Líderes da Maioria, da Minoria, dos Partidos,
+#### Art. 20. Os Líderes da Maioria, da Minoria, dos Partidos,
 dos Blocos Parlamentares e do Governo constituem o Colégio de
 Líderes.
 
@@ -958,7 +918,7 @@ numérica de cada bancada.
 ## CAPÍTULO III
 DA PROCURADORIA PARLAMENTAR
 
-###Art. 21. A Procuradoria Parlamentar terá por finalidade
+#### Art. 21. A Procuradoria Parlamentar terá por finalidade
 promover, em colaboração com a Mesa, a defesa da Câmara, de seus
 órgãos e membros quando atingidos em sua honra ou imagem perante
 a sociedade, em razão do exercício do mandato ou das suas funções
@@ -985,7 +945,7 @@ da Constituição Federal.
 ## CAPÍTULO III-A
 DA OUVIDORIA PARLAMENTAR
 
-###Art. 21-A. Compete à Ouvidoria Parlamentar;
+#### Art. 21-A. Compete à Ouvidoria Parlamentar;
 
 I - receber, examinar e encaminhar aos órgãos competentes as
 reclamações ou representações de pessoas físicas ou jurídicas sobre;
@@ -1035,7 +995,7 @@ membros da Casa pelo Presidente da Câmara, a cada dois anos, no
 início da sessão legislativa, vedada a recondução no período
 subseqüente.
 
-###Art. 21-C. O Ouvidor-Geral, no exercício de suas funções,
+#### Art. 21-C. O Ouvidor-Geral, no exercício de suas funções,
 poderá;
 
 I - solicitar informações ou cópia de documentos a qualquer
@@ -1053,16 +1013,16 @@ solicitações feitas ou na adoção das providências requeridas pelo
 Ouvidor-Geral poderá ensejar a responsabilização da autoridade ou do
 servidor.
 
-###Art. 21-D. Toda iniciativa provocada ou implementada pela
+#### Art. 21-D. Toda iniciativa provocada ou implementada pela
 Ouvidoria Parlamentar terá ampla divulgação pelo órgão de
 comunicação ou de imprensa da Casa.
 
 ## CAPÍTULO IV
 DAS COMISSÕES
-Seção I
+### Seção I
 Disposições Gerais
 
-###Art. 22. As Comissões da Câmara são;
+#### Art. 22. As Comissões da Câmara são;
 
 I - Permanentes, as de caráter técnico-legislativo ou
 especializado integrantes da estrutura institucional da Casa,
@@ -1077,13 +1037,13 @@ assunto, que se extinguem ao término da legislatura, ou antes dele,
 quando alcançado o fim a que se destinam ou expirado seu prazo de
 duração.
 
-###Art. 23. Na constituição das Comissões assegurar-se-á, tanto
+#### Art. 23. Na constituição das Comissões assegurar-se-á, tanto
 quanto possível, a representação proporcional dos Partidos e dos
 Blocos Parlamentares que participem da Casa, incluindo-se sempre
 um membro da Minoria, ainda que pela proporcionalidade não lhe
 caiba lugar.
 
-###Art. 24. Às Comissões Permanentes, em razão da matéria de
+#### Art. 24. Às Comissões Permanentes, em razão da matéria de
 sua competência, e às demais Comissões, no que lhes for aplicável,
 cabe;
 
@@ -1173,14 +1133,14 @@ Câmara.
 
 $ 2o As atribuições contidas nos incisos V e XII do caput
 não excluem a iniciativa concorrente de Deputado.
-Seção II
+### Seção II
 Das Comissões Permanentes
 Subseção I
 Da Composição e Instalação
 
 
 
-###Art. 25. O número de membros efetivos das Comissões
+#### Art. 25. O número de membros efetivos das Comissões
 Permanentes será estabelecido por ato da Mesa, ouvido o Colégio de
 Líderes, no início dos trabalhos das sessões legislativas de cada
 legislatura, prevalecendo o quantitativo anterior enquanto não
@@ -1209,7 +1169,7 @@ Parágrafo com nova redação dada pela Resolução no 20, de 2004.
 $ 3o O número total de vagas nas Comissões não excederá o
 da composição da Câmara, não computados os membros da Mesa.
 
-###Art. 26. A distribuição das vagas nas Comissões Permanentes,
+#### Art. 26. A distribuição das vagas nas Comissões Permanentes,
 por Partidos ou Blocos Parlamentares, será organizada pela Mesa logo
 após a fixação da respectiva composição numérica e mantida durante
 toda a sessão legislativa.
@@ -1232,7 +1192,7 @@ bancadas dos Partidos ou Blocos Parlamentares, que importem
 modificações da proporcionalidade partidária na composição das
 Comissões, só prevalecerão a partir da sessão legislativa subseqüente.
 
-###Art. 27. A representação numérica das bancadas nas
+#### Art. 27. A representação numérica das bancadas nas
 Comissões será estabelecida dividindo-se o número de membros da
 Câmara pelo número de membros de cada Comissão, e o número de
 Deputados de cada Partido ou Bloco Parlamentar pelo quociente assim
@@ -1281,7 +1241,7 @@ estabelecido no caput, considerando-se para efeito de cálculo da
 proporcionalidade o número de membros da Comissão diminuído de
 tantas unidades quantas as vagas preenchidas por opção.
 
-###Art. 28. Estabelecida a representação numérica dos Partidos
+#### Art. 28. Estabelecida a representação numérica dos Partidos
 e dos Blocos Parlamentares nas Comissões, os Líderes comunicarão
 ao Presidente da Câmara, no prazo de cinco sessões, os nomes dos
 membros das respectivas bancadas que, como titulares e suplentes,
@@ -1300,7 +1260,7 @@ Das Subcomissões e Turmas
 
 
 
-###Art. 29. As Comissões Permanentes poderão constituir, sem
+#### Art. 29. As Comissões Permanentes poderão constituir, sem
 poder decisório;
 
 I - Subcomissões Permanentes, dentre seus próprios
@@ -1324,7 +1284,7 @@ $ 3o No funcionamento das Subcomissões aplicar-se-ão, no
 que couber, as disposições deste Regimento relativas ao funcionamento
 das Comissões Permanentes.
 
-###Art. 30. As Comissões Permanentes que não constituírem
+#### Art. 30. As Comissões Permanentes que não constituírem
 Subcomissões Permanentes poderão ser divididas em duas Turmas,
 excluído o Presidente, ambas sem poder decisório.
 
@@ -1341,7 +1301,7 @@ da outra, respeitada a proporcionalidade partidária.
 $ 3o As Turmas poderão discutir os assuntos que lhes forem
 distribuídos, desde que presente mais da metade dos seus membros.
 
-###Art. 31. A matéria apreciada em Subcomissão Permanente
+#### Art. 31. A matéria apreciada em Subcomissão Permanente
 ou Especial ou por Turma concluirá por um relatório, sujeito à
 deliberação do Plenário da respectiva Comissão.
 Subseção III
@@ -1349,7 +1309,7 @@ Das Matérias ou Atividades de Competência das Comissões
 
 
 
-###Art. 32. São as seguintes as Comissões Permanentes e
+#### Art. 32. São as seguintes as Comissões Permanentes e
 respectivos campos temáticos ou áreas de atividade;
 
 I - Comissão de Agricultura, Pecuária, Abastecimento e
@@ -2079,10 +2039,10 @@ governamentais com eles relacionados e respectivo acompanhamento e
 fiscalização orçamentária, sem prejuízo da competência da Comissão
 Mista Permanente a que se refere o art. 166, § 1o , da Constituição
 Federal.
-Seção III
+### Seção III
 Das Comissões Temporárias
 
-###Art. 33. As Comissões Temporárias são;
+#### Art. 33. As Comissões Temporárias são;
 
 I - Especiais;
 
@@ -2105,7 +2065,7 @@ cumprir-se-á sem prejuízo de suas funções em Comissões Permanentes.
 Subseção I
 Das Comissões Especiais
 
-###Art. 34. As Comissões Especiais serão constituídas para dar
+#### Art. 34. As Comissões Especiais serão constituídas para dar
 parecer sobre;
 
 I - proposta de emenda à Constituição e projeto de código,
@@ -2128,7 +2088,7 @@ apresentadas, observado o disposto no art. 49 e no § 1o do art. 24.
 Subseção II
 Das Comissões Parlamentares de Inquérito
 
-###Art. 35. A Câmara dos Deputados, a requerimento de um
+#### Art. 35. A Câmara dos Deputados, a requerimento de um
 terço de seus membros, instituirá Comissão Parlamentar de Inquérito
 para apuração de fato determinado e por prazo certo, a qual terá
 poderes de investigação próprios das autoridades judiciais, além de
@@ -2168,7 +2128,7 @@ assessoramento necessários ao bom desempenho da Comissão,
 incumbindo à Mesa e à Administração da Casa o atendimento
 preferencial das providências que a Comissão solicitar.
 
-###Art. 36. A Comissão Parlamentar de Inquérito poderá,
+#### Art. 36. A Comissão Parlamentar de Inquérito poderá,
 observada a legislação específica;
 
 I - requisitar funcionários dos serviços administrativos da
@@ -2203,7 +2163,7 @@ Parágrafo único. As Comissões Parlamentares de Inquérito
 valer-se-ão, subsidiariamente, das normas contidas no Código de
 Processo Penal.
 
-###Art. 37. Ao termo dos trabalhos a Comissão apresentará
+#### Art. 37. Ao termo dos trabalhos a Comissão apresentará
 relatório circunstanciado, com suas conclusões, que será publicado no
 Diário da Câmara dos Deputados e encaminhado;
 
@@ -2237,7 +2197,7 @@ será feita pelo Presidente da Câmara, no prazo de cinco sessões.
 Subseção III
 Das Comissões Externas
 
-###Art. 38. As Comissões Externas poderão ser instituídas pelo
+#### Art. 38. As Comissões Externas poderão ser instituídas pelo
 Presidente da Câmara, de ofício ou a requerimento de qualquer
 Deputado, para cumprir missão temporária autorizada, sujeitas à
 deliberação do Plenário quando importarem ônus para a Casa.
@@ -2247,12 +2207,12 @@ missão autorizada aquela que implicar o afastamento do Parlamentar
 pelo prazo máximo de oito sessões, se exercida no País, e de trinta, se
 desempenhada no exterior, para representar a Câmara nos atos a que
 esta tenha sido convidada ou a que tenha de assistir.
-Seção IV
+### Seção IV
 Da Presidência das Comissões
 
 
 
-###Art. 39. As Comissões terão um Presidente e três
+#### Art. 39. As Comissões terão um Presidente e três
 Vice-Presidentes, eleitos por seus pares, com mandato até a posse dos
 novos componentes eleitos no ano subseqüente, vedada a reeleição.
 
@@ -2296,7 +2256,7 @@ do
 do
 no
 
-###Art. 41. Ao Presidente de Comissão compete, além do que
+#### Art. 41. Ao Presidente de Comissão compete, além do que
 lhe for atribuído neste Regimento, ou no Regulamento das Comissões;
 
 I - assinar a correspondência e demais documentos expedidos
@@ -2386,7 +2346,7 @@ Comissão ou para instruir as matérias sujeitas à apreciação desta.
 Parágrafo único. O Presidente poderá funcionar como Relator
 ou Relator substituto e terá voto nas deliberações da Comissão.
 
-###Art. 42. Os Presidentes das Comissões Permanentes
+#### Art. 42. Os Presidentes das Comissões Permanentes
 reunir-se-ão com o Colégio de Líderes sempre que isso lhes pareça
 conveniente, ou por convocação do Presidente da Câmara, sob a
 presidência deste, para o exame e assentamento de providências
@@ -2395,17 +2355,17 @@ relativas à eficiência do trabalho legislativo.
 Parágrafo único. Na reunião seguinte à prevista neste artigo,
 cada Presidente comunicará ao Plenário da respectiva Comissão o que
 dela tiver resultado.
-Seção V
+### Seção V
 Dos Impedimentos e Ausências
 
-###Art. 43. Nenhum Deputado poderá presidir reunião de
+#### Art. 43. Nenhum Deputado poderá presidir reunião de
 Comissão quando se debater ou votar matéria da qual seja Autor ou
 Relator.
 
 Parágrafo único. Não poderá o Autor de proposição ser dela
 Relator, ainda que substituto ou parcial.
 
-###Art. 44. Sempre que um membro de Comissão não puder
+#### Art. 44. Sempre que um membro de Comissão não puder
 comparecer às reuniões, deverá comunicar o fato ao seu Presidente,
 que fará publicar em ata a escusa.
 
@@ -2422,10 +2382,10 @@ preferencial, voltar ao exercício.
 $ 3o Em caso de matéria urge nte ou relevante, caberá ao
 Líder, mediante solicitação do Presidente da Comissão, indicar outro
 membro da sua bancada para substituir, em reunião, o membro ausente.
-Seção VI
+### Seção VI
 Das Vagas
 
-###Art. 45. A vaga em Comissão verificar-se-á em virtude de
+#### Art. 45. A vaga em Comissão verificar-se-á em virtude de
 término do mandato, renúncia, falecimento ou perda do lugar.
 
 $ 1o Além do que estabelecem os arts. 57, XX, c, e 232,
@@ -2444,10 +2404,10 @@ Presidente da Câmara, no interregno de três sessões, de acordo com a
 indicação feita pelo Líder do Partido ou de Bloco Parlamentar a que
 pertencer o lugar, ou independentemente dessa comunicação, se não
 for feita naquele prazo.
-Seção VII
+### Seção VII
 Das Reuniões
 
-###Art. 46. As Comissões reunir-se-ão na sede da Câmara, em
+#### Art. 46. As Comissões reunir-se-ão na sede da Câmara, em
 dias e horas prefixados, ordinariamente de terça a quinta-feira, a partir
 das nove horas, ressalvadas as convocações de Comissão Parlamentar
 de Inquérito que se realizarem fora de Brasília.
@@ -2483,7 +2443,7 @@ quartas-feiras destinar-se-ão exclusivamente a discussão e votação de
 proposições, salvo se não houver nenhuma matéria pendente de sua
 deliberação.
 
-###Art. 47. O Presidente da Comissão Permanente organizará a
+#### Art. 47. O Presidente da Comissão Permanente organizará a
 Ordem do Dia de suas reuniões ordinárias e extraordinárias, de acordo
 com os critérios fixados no Capítulo IX do Título V.
 
@@ -2492,7 +2452,7 @@ anunciará a Ordem do Dia da reunião seguinte, dando-se ciência da
 pauta respectiva às Lideranças e distribuindo-se os avulsos com
 antecedência de pelo menos vinte e quatro horas.
 
-###Art. 48. As reuniões das Comissões serão públicas, salvo
+#### Art. 48. As reuniões das Comissões serão públicas, salvo
 deliberação em contrário.
 
 $ 1o Serão reservadas, a juízo da Comissão, as reuniões em
@@ -2536,12 +2496,12 @@ indicação do prazo pelo qual ficará indisponível para consulta.
 
 
 Inciso revogado pela Resolução no 57, de 1994.
-Seção VIII
+### Seção VIII
 Dos Trabalhos
 Subseção I
 Da Ordem dos Trabalhos
 
-###Art. 49. As Comissões a que for distribuída uma proposição
+#### Art. 49. As Comissões a que for distribuída uma proposição
 poderão estudá-la em reunião conjunta, por acordo dos respectivos
 Presidentes, com um só Relator ou Relator substituto, devendo os
 trabalhos ser dirigidos pelo Presidente mais idoso dentre os de maior
@@ -2563,7 +2523,7 @@ a cada Comissão, cabendo a estes metade do prazo concedido àquele
 para elaborar seu parecer. As emendas serão encaminhadas aos
 Relatores-Parciais consoante a matéria a que se referirem.
 
-###Art. 50. Os trabalhos das Comissões serão iniciados com a
+#### Art. 50. Os trabalhos das Comissões serão iniciados com a
 presença de, pelo menos, metade de seus membros, ou com qualquer
 número, se não houver matéria sujeita a deliberação ou se a reunião se
 destinar a atividades referidas no inciso III, alínea a, deste artigo, e
@@ -2605,7 +2565,7 @@ de votação por sua presença no recinto onde se realiza a reunião.
 $ 3o O Deputado poderá participar, sem direito a voto, dos
 trabalhos e debates de qualquer Comissão de que não seja membro.
 
-###Art. 51. As Comissões Permanentes poderão estabelecer
+#### Art. 51. As Comissões Permanentes poderão estabelecer
 regras e condições específicas para a organização e o bom andamento
 dos seus trabalhos, observadas as normas fixadas neste Regimento e
 no Regulamento das Comissões, bem como ter Relatores e Relatores
@@ -2615,7 +2575,7 @@ Dos Prazos
 
 
 
-###Art. 52. Excetuados os casos em que este Regimento
+#### Art. 52. Excetuados os casos em que este Regimento
 determine de forma diversa, as Comissões deverão obedecer aos
 seguintes prazos para examinar as proposições e sobre elas decidir;
 
@@ -2669,12 +2629,12 @@ ou a requerimento de qualquer Deputado, determinar o envio de
 proposição pendente de parecer à Comissão seguinte ou ao Plenário,
 conforme o caso, independentemente de interposição do recurso
 previsto no art. 132, § 2o , para as referidas no art. 24, inciso II.
-Seção IX
+### Seção IX
 Da Admissibilidade e da Apreciação das Matérias pelas Comissões
 
 
 
-###Art. 53. Antes da deliberação do Plenário, ou quando esta
+#### Art. 53. Antes da deliberação do Plenário, ou quando esta
 for dispensada, as proposições, exceto os requerimentos, serão
 apreciadas;
 
@@ -2703,7 +2663,7 @@ seguinte.
 
 
 
-###Art. 54. Será terminativo o parecer;
+#### Art. 54. Será terminativo o parecer;
 
 I - da Comissão de Constituição e Justiça e de Cidadania,
 quanto à constitucionalidade ou juridicidade da matéria;
@@ -2718,7 +2678,7 @@ ambas as preliminares.
  § 3o (Revogado).
  § 4o (Revogado).
 
-###Art. 55. A nenhuma Comissão cabe manifestar-se sobre o
+#### Art. 55. A nenhuma Comissão cabe manifestar-se sobre o
 que não for de sua atribuição específica.
 
 Parágrafo único. Considerar-se-á como não escrito o parecer,
@@ -2728,7 +2688,7 @@ violação do art. 119, §§ 2o e 3o , desde que provida reclamação
 apresentada antes da aprovação definitiva da matéria pelas Comissões
 ou pelo Plenário.
 
-###Art. 56. Os projetos de lei e demais proposições distribuídos
+#### Art. 56. Os projetos de lei e demais proposições distribuídos
 às Comissões, consoante o disposto no art. 139, serão examinados
 pelo Relator designado em seu âmbito, ou no de Subcomissão ou
 Turma, quando for o caso, para proferir parecer.
@@ -2756,7 +2716,7 @@ deliberações das Comissões serão tomadas por maioria dos votos,
 presente a maioria absoluta de seus membros, prevalecendo em caso
 de empate o voto do Relator.
 
-###Art. 57. No desenvolvimento dos
+#### Art. 57. No desenvolvimento dos
 Comissões observarão as seguintes normas;
 
 seus
@@ -2881,7 +2841,7 @@ trâmite.
 
 
 
-###Art. 58. Encerrada a apreciação conclusiva da matéria, a
+#### Art. 58. Encerrada a apreciação conclusiva da matéria, a
 proposição e respectivos pareceres serão mandados a publicação e
 
 
@@ -2913,14 +2873,14 @@ projeto de lei torna à Mesa para ser encaminhado ao Senado Federal
 ou à Presidência da República, conforme o caso, no prazo de setenta e
 duas horas.
 
-###Art. 59. Encerrada a apreciação, pelas Comissões, da matéria
+#### Art. 59. Encerrada a apreciação, pelas Comissões, da matéria
 sujeita à deliberação do Plenário, ou na hipótese de ser provido o
 recurso mencionado no § 1o do artigo anterior, a proposição será
 enviada à Mesa e aguardará inclusão na Ordem do Dia.
-Seção X
+### Seção X
 Da Fiscalização e Controle
 
-###Art. 60. Constituem atos ou fatos sujeitos à fiscalização e
+#### Art. 60. Constituem atos ou fatos sujeitos à fiscalização e
 controle do Congresso Nacional, de suas Casas e Comissões;
 
 I - os passíveis de fiscalização contábil, financeira,
@@ -2941,7 +2901,7 @@ que importarem, tipicamente, crime de responsabilidade;
 
 IV - os de que trata o art. 253.
 
-###Art. 61. A fiscalização e controle dos atos do Poder
+#### Art. 61. A fiscalização e controle dos atos do Poder
 Executivo, incluídos os da administração indireta, pelas Comissões,
 sobre matéria de competência destas, obedecerão às regras seguintes;
 
@@ -2980,10 +2940,10 @@ ensejará a apuração da responsabilidade do infrator, na forma da lei.
 $ 4o Quando se tratar de documentos de caráter sigiloso,
 reservado ou confidencial, identificados com estas classificações,
 observar-se-á o prescrito no § 5o do art. 98.
-Seção XI
+### Seção XI
 Da Secretaria e das Atas
 
-###Art. 62. Cada Comissão terá uma secretaria incumbida dos
+#### Art. 62. Cada Comissão terá uma secretaria incumbida dos
 serviços de apoio administrativo.
 
 Parágrafo único. Incluem-se nos serviços de secretaria;
@@ -3021,7 +2981,7 @@ Presidente;
 X - o desempenho de outros encargos determinados pelo
 Presidente.
 
-###Art. 63. Lida e aprovada, a ata de cada reunião da Comissão
+#### Art. 63. Lida e aprovada, a ata de cada reunião da Comissão
 será assinada pelo Presidente e rubricada em todas as folhas.
 
 Parágrafo único. A ata será publicada no Diário da Câmara
@@ -3040,10 +3000,10 @@ Relatores e Relatores substitutos;
 
 V - registro das proposições apreciadas e das respectivas
 conclusões.
-Seção XII
+### Seção XII
 Do Assessoramento Legislativo
 
-###Art. 64. As Comissões contarão, para o desempenho das
+#### Art. 64. As Comissões contarão, para o desempenho das
 suas atribuições, com assessoramento e consultoria técnico-legislativa
 e especializada em suas áreas de competência, a cargo do órgão de
 assessoramento institucional da Câmara, nos termos de resolução
@@ -3055,7 +3015,7 @@ DAS SESSÕES DA CÂMARA
 ## CAPÍTULO I
 DISPOSIÇÕES GERAIS
 
-###Art. 65. As sessões da Câmara serão;
+#### Art. 65. As sessões da Câmara serão;
 
 I - preparatórias, as que precedem a inauguração dos trabalhos
 do Congresso Nacional na primeira e na terceira sessões legislativas
@@ -3073,7 +3033,7 @@ homenagens especiais.
 
 
 
-###Art. 66. As sessões ordinárias terão duração de cinco horas,
+#### Art. 66. As sessões ordinárias terão duração de cinco horas,
 iniciando-se às nove horas, quando convocadas para as sextas-feiras,
 e, nos demais dias da semana, às quatorze horas, e constarão de;
 
@@ -3130,7 +3090,7 @@ $ 5o Durante os períodos de sessões a que se refere o
 parágrafo anterior, não serão realizadas sessões ordinárias nem
 funcionarão as Comissões Permanentes.
 
-###Art. 67. A sessão extraordinária, com duração de quatro
+#### Art. 67. A sessão extraordinária, com duração de quatro
 horas, será destinada exclusivamente à discussão e votação das
 matérias constantes da Ordem do Dia.
 
@@ -3147,7 +3107,7 @@ ou pelo Diário da Câmara dos Deputados, e, quando mediar tempo
 inferior a vinte e quatro horas para convocação, também por via
 telegráfica ou telefônica, aos Deputados.
 
-###Art. 68. A Câmara poderá realizar sessão solene para
+#### Art. 68. A Câmara poderá realizar sessão solene para
 comemorações especiais ou recepção de altas personalidades, a juízo
 do Presidente ou por deliberação do Plenário, mediante requerimento
 de um décimo dos Deputados ou Líderes que representem esse
@@ -3214,14 +3174,14 @@ III - esgotado o prazo previsto neste parágrafo, a sessão será
 levantada, facultado aos inscritos o direito à publicação e divulgação
 de seus pronunciamentos.
 
-###Art. 69. As sessões serão públicas, mas excepcionalmente
+#### Art. 69. As sessões serão públicas, mas excepcionalmente
 poderão ser secretas, quando assim deliberado pelo Plenário.
 
-###Art. 70. Poderá a sessão ser suspensa por conveniência da
+#### Art. 70. Poderá a sessão ser suspensa por conveniência da
 manutenção da ordem, não se computando o tempo da suspensão no
 prazo regimental.
 
-###Art. 71. A sessão da Câmara só poderá ser levantada, antes
+#### Art. 71. A sessão da Câmara só poderá ser levantada, antes
 do prazo previsto para o término dos seus trabalhos, no caso de;
 
 I - tumulto grave;
@@ -3232,7 +3192,7 @@ um dos Poderes da República ou quando for decretado luto oficial;
 III - presença nos debates de menos de um décimo do número
 total de Deputados.
 
-###Art. 72. O prazo da duração da sessão poderá ser prorrogado
+#### Art. 72. O prazo da duração da sessão poderá ser prorrogado
 pelo Presidente, de ofício, ou, automaticamente, quando requerido pelo
 Colégio de Líderes, ou por deliberação do Plenário, a requerimento de
 qualquer Deputado, por tempo nunca superior a uma hora, para
@@ -3267,7 +3227,7 @@ requerimento.
 $ 6o Aprovada a prorrogação, não lhe poderá ser reduzido o
 prazo, salvo se encerrada a discussão e votação da matéria em debate.
 
-###Art. 73. Para a manutenção da ordem, respeito e austeridade
+#### Art. 73. Para a manutenção da ordem, respeito e austeridade
 das sessões, serão observadas as seguintes regras;
 
 I - só Deputados e Senadores podem ter assento no Plenário,
@@ -3350,7 +3310,7 @@ VII - a juízo do Presidente, para contestar acusação pessoal à
 própria conduta, feita durante a discussão, ou para contradizer o que
 lhe for indevidamente atribuído como opinião pessoal.
 
-###Art. 75. Ao ser-lhe concedida a palavra, o Deputado que,
+#### Art. 75. Ao ser-lhe concedida a palavra, o Deputado que,
 inscrito, não puder falar, entregará à Mesa discurso escrito para ser
 publicado, dispensando-se a leitura, observadas as seguintes normas;
 
@@ -3365,12 +3325,12 @@ II - a publicação será feita pela ordem de entrega e, quando
 desatender às condições fixadas no inciso anterior, o discurso será
 devolvido ao Autor.
 
-###Art. 76. Nenhum discurso poderá ser interrompido ou
+#### Art. 76. Nenhum discurso poderá ser interrompido ou
 transferido para outra sessão, salvo se findo o tempo a ele destinado,
 ou da parte da sessão em que deve ser proferido, e nas hipóteses dos
 arts. 70, 71, 73, XIII, 79, § 3o , 82, § 2o , e 91.
 
-###Art. 77. No recinto do Plenário, durante as sessões, só serão
+#### Art. 77. No recinto do Plenário, durante as sessões, só serão
 admitidos os Deputados e Senadores, os ex-parlamentares, os
 funcionários da Câmara em serviço local e os jornalistas credenciados.
 
@@ -3393,16 +3353,16 @@ $ 4o Ao público será franqueado o acesso às galerias
 circundantes para assistir às sessões, mantendo-se a incomunicabilidade
 da assistência com o recinto do Plenário.
 
-###Art. 78. A transmissão por rádio ou televisão, bem como a
+#### Art. 78. A transmissão por rádio ou televisão, bem como a
 gravação das sessões da Câmara, depende de prévia autorização do
 Presidente e obedecerá às normas fixadas pela Mesa.
 
 ## CAPÍTULO II
 DAS SESSÕES PÚBLICAS
-Seção I
+### Seção I
 Do Pequeno Expediente
 
-###Art. 79. À hora do início da sessão, os membros da Mesa e
+#### Art. 79. À hora do início da sessão, os membros da Mesa e
 os Deputados ocuparão os seus lugares.
 
 $ 1o A Bíblia Sagrada deverá ficar, durante todo o tempo da
@@ -3421,7 +3381,7 @@ retardamento deduzido do tempo destinado ao expediente. Se persistir
 a falta de número, o Presidente declarará que não pode haver sessão,
 determinando a atribuição de falta aos ausentes para os efeitos legais.
 
-###Art. 80. Abertos os trabalhos, o Segundo-Secretário fará a
+#### Art. 80. Abertos os trabalhos, o Segundo-Secretário fará a
 leitura da ata da sessão anterior, que o Presidente considerará
 aprovada, independentemente de votação.
 
@@ -3439,7 +3399,7 @@ II - a correspondência em geral, as petições e outros
 documentos recebidos pelo Presidente ou pela Mesa, de interesse do
 Plenário.
 
-###Art. 81. O tempo que se seguir à leitura da matéria do
+#### Art. 81. O tempo que se seguir à leitura da matéria do
 expediente será destinado aos Deputados inscritos para breves
 comunicações, podendo cada um falar por cinco minutos, não sendo
 permitidos apartes.
@@ -3460,12 +3420,12 @@ apresentar, perderá a prerrogativa a que se refere o parágrafo anterior.
 $ 4o As inscrições que não puderem ser atendidas em virtude
 do levantamento ou não realização da sessão transferir-se-ão para a
 sessão ordinária seguinte.
-Seção II
+### Seção II
 Da Ordem do Dia
 
 
 
-###Art. 82. Às onze ou às dezesseis horas, conforme o caso,
+#### Art. 82. Às onze ou às dezesseis horas, conforme o caso,
 passar-se-á a tratar da matéria destinada à Ordem do Dia, sendo
 previamente verificado o número de Deputados presentes no recinto
 do Plenário, através do sistema eletrônico, para o mesmo efeito do que
@@ -3519,7 +3479,7 @@ eletrônico de presença.
 
 
 
-###Art. 83. Presente em Plenário a maioria absoluta dos
+#### Art. 83. Presente em Plenário a maioria absoluta dos
 Deputados, mediante verificação de quórum, dar-se-á início à
 apreciação da pauta, na seguinte ordem;
 
@@ -3552,7 +3512,7 @@ d) inversão da pauta.
 
 
 
-###Art. 84. O tempo reservado à Ordem do Dia poderá ser
+#### Art. 84. O tempo reservado à Ordem do Dia poderá ser
 prorrogado pelo Presidente, de ofício, pelo Colégio de Líderes, ou
 pelo Plenário, a requerimento verbal de qualquer Deputado, por prazo
 não excedente a trinta ou, na hipótese do art. 72, a sessenta minutos.
@@ -3568,7 +3528,7 @@ Idem.
 
 
 
-###Art. 85. Findo o tempo da sessão, o Presidente a encerrará
+#### Art. 85. Findo o tempo da sessão, o Presidente a encerrará
 anunciando a Ordem do Dia da sessão de deliberação seguinte e
 eventuais alterações da programação, na conformidade dos §§ 2o , 3o e
 o do art. 66, dando-se ciência da pauta respectiva às Lideranças.
@@ -3578,7 +3538,7 @@ primeira sessão plenária de cada sessão legislativa.
 
 
 
-###Art. 86. O Presidente organizará a Ordem do Dia com base
+#### Art. 86. O Presidente organizará a Ordem do Dia com base
 na agenda mensal a que se refere o art. 17, I, s, e observância do que
 dispõem os arts. 83 e 143, III, para ser publicada no Diário da
 Câmara dos Deputados e distribuída em avulsos antes de iniciar-se a
@@ -3597,12 +3557,12 @@ dos grupos a que pertençam.
 $ 3o A proposição entrará em Ordem do Dia desde que em
 condições regimentais e com os pareceres das Comissões a que foi
 distribuída.
-Seção III
+### Seção III
 Do Grande Expediente
 
 
 
-###Art. 87. Encerrado o Pequeno Expediente será concedida a
+#### Art. 87. Encerrado o Pequeno Expediente será concedida a
 palavra aos Deputados inscritos para o Grande Expediente, pelo prazo
 de vinte e cinco minutos para cada orador, incluídos nesse tempo os
 apartes.
@@ -3629,14 +3589,14 @@ será assegurada a preferência de inscrição no próximo semestre.
 
 
 
-###Art. 88. A Câmara poderá destinar o Grande Expediente
+#### Art. 88. A Câmara poderá destinar o Grande Expediente
 para comemorações de alta significação nacional, ou interromper os
 trabalhos para a recepção, em Plenário, de altas personalidades, desde
 que assim resolva o Presidente, ou delibere o Plenário.
-Seção IV
+### Seção IV
 Das Comunicações de Lideranças
 
-###Art. 89. As Comunicações de Lideranças previstas no § 1o
+#### Art. 89. As Comunicações de Lideranças previstas no § 1o
 do art. 66 deste Regimento destinam-se aos Líderes que queiram fazer
 uso da palavra, por período de tempo proporcional ao número de
 membros das respectivas bancadas, com o mínimo de três e o máximo
@@ -3648,12 +3608,12 @@ Parágrafo único. É facultada aos Líderes a cessão, entre si, do
 tempo, total ou parcial, que lhes for atribuído na forma deste artigo.
 
 
-Seção V
+### Seção V
 Das Comunicações Parlamentares
 
 
 
-###Art. 90. Se esgotada a Ordem do Dia 49 antes das dezenove
+#### Art. 90. Se esgotada a Ordem do Dia 49 antes das dezenove
 horas, ou não havendo matéria a ser votada, o Presidente concederá a
 
 
@@ -3673,10 +3633,10 @@ Parlamentares.
 Parágrafo único. Os oradores serão chamados, alternadamente,
 por Partidos e Blocos Parlamentares, por período não excedente a dez
 minutos para cada Deputado.
-Seção VI
+### Seção VI
 Da Comissão Geral
 
-###Art. 91. A sessão plenária da Câmara será transformada em
+#### Art. 91. A sessão plenária da Câmara será transformada em
 Comissão Geral, sob a direção de seu Presidente, para;
 
 I - debate de matéria relevante, por proposta conjunta dos
@@ -3734,7 +3694,7 @@ ou sua permanência nele;
 
 IV - (revogado).
 
-###Art. 93. Para iniciar-se a sessão secreta, o Presidente fará
+#### Art. 93. Para iniciar-se a sessão secreta, o Presidente fará
 sair do recinto das tribunas, das galerias e das demais dependências
 anexas as pessoas estranhas aos trabalhos, inclusive os funcionários da
 Casa, sem prejuízo de outras cautelas que a Mesa adotar no sentido de
@@ -3767,7 +3727,7 @@ arquivado num segundo envelope igualmente lacrado, que se anexará
 ao invólucro mencionado no parágrafo anterior, desde que o
 interessado o prepare em prazo não excedente de uma sessão.
 
-###Art. 94. Só Deputados e Senadores poderão assistir às
+#### Art. 94. Só Deputados e Senadores poderão assistir às
 sessões secretas do Plenário;
  os Ministros de Estado, quando
 convocados, ou as testemunhas chamadas a depor participarão dessas
@@ -3775,10 +3735,10 @@ sessões apenas durante o tempo necessário.
 
 ## CAPÍTULO IV
 DA INTERPRETAÇÃO E OBSERVÂNCIA DO REGIMENTO
-Seção I
+### Seção I
 Das Questões de Ordem
 
-###Art. 95. Considera-se questão de ordem toda dúvida sobre a
+#### Art. 95. Considera-se questão de ordem toda dúvida sobre a
 interpretação deste Regimento, na sua prática exclusiva ou relacionada
 com a Constituição Federal.
 
@@ -3831,10 +3791,10 @@ divulgação;
  a Mesa elaborará projeto de resolução propondo, se for o
 caso, as alterações regimentais delas decorrentes, para apreciação em
 tempo hábil, antes de findo o biênio.
-Seção II
+### Seção II
 Das Reclamações
 
-###Art. 96. Em qualquer fase da sessão da Câmara ou de
+#### Art. 96. Em qualquer fase da sessão da Câmara ou de
 reunião de Comissão, poderá ser usada a palavra para reclamação,
 restrita durante a Ordem do Dia à hipótese do parágrafo único do art.
  ou às matérias que nela figurem.
@@ -3856,7 +3816,7 @@ questões de ordem, constantes dos §§ 1o a 7o do artigo precedente.
 ## CAPÍTULO V
 DA ATA
 
-###Art. 97. Lavrar-se-á ata com a sinopse dos trabalhos de cada
+#### Art. 97. Lavrar-se-á ata com a sinopse dos trabalhos de cada
 sessão, cuja redação obedecerá a padrão uniforme adotado pela Mesa.
 
 $ 1o As atas impressas ou datilografadas serão organizadas
@@ -3920,7 +3880,7 @@ orador ao Plenário.
 $ 7o Os pedidos de retificação da ata serão decididos pelo
 Presidente, na forma do art. 80, § 1o .
 
-###Art. 99. Serão divulgados pelo programa Voz do Brasil as
+#### Art. 99. Serão divulgados pelo programa Voz do Brasil as
 atividades das Comissões e do Plenário e os pronunciamentos lidos ou
 proferidos da tribuna da Câmara, desde que em termos regimentais.
 
@@ -3930,7 +3890,7 @@ DAS PROPOSIÇÕES
 ## CAPÍTULO I
 DISPOSIÇÕES GERAIS
 
-###Art. 100. Proposição é toda matéria sujeita à deliberação da
+#### Art. 100. Proposição é toda matéria sujeita à deliberação da
 Câmara.
 
 $ 1o As proposições poderão consistir em proposta de
@@ -3946,7 +3906,7 @@ enunciado objetivamente declarado na ementa, ou dele decorrente.
 
 
 
-###Art. 101. Ressalvadas as hipóteses enumeradas na alínea a
+#### Art. 101. Ressalvadas as hipóteses enumeradas na alínea a
 do inciso I deste artigo, a apresentação de proposição será feita por
 meio do sistema eletrônico de autenticação de documentos, na forma e
 nos locais determinados por Ato da Mesa, ou;
@@ -3988,7 +3948,7 @@ de outro Poder, do Procurador-Geral da República ou de cidadãos.
 
 
 
-###Art. 102. A proposição de iniciativa de Deputado poderá ser
+#### Art. 102. A proposição de iniciativa de Deputado poderá ser
 apresentada individual ou coletivamente.
 
 $ 1o Consideram-se Autores da proposição, para efeitos
@@ -4016,7 +3976,7 @@ sejam necessárias ao seu trâmite, não poderão ser retiradas ou
 acrescentadas após a respectiva publicação ou, em se tratando de
 requerimento, depois de sua apresentação à Mesa.
 
-###Art. 103. A proposição poderá ser fundamentada por escrito
+#### Art. 103. A proposição poderá ser fundamentada por escrito
 ou verbalmente pelo Autor e, em se tratando de iniciativa coletiva,
 pelo primeiro signatário ou quem este indicar, mediante prévia
 inscrição junto à Mesa.
@@ -4025,7 +3985,7 @@ Parágrafo único. O Relator de proposição, de ofício ou a
 requerimento do Autor, fará juntar ao respectivo processo a
 justificação oral, extraída do Diário da Câmara dos Deputados.
 
-###Art. 104. A retirada de proposição, em qualquer fase do seu
+#### Art. 104. A retirada de proposição, em qualquer fase do seu
 andamento, será requerida pelo Autor ao Presidente da Câmara, que,
 tendo obtido as informações necessárias, deferirá, ou não, o pedido,
 com recurso para o Plenário.
@@ -4051,7 +4011,7 @@ $ 5o Às proposições de iniciativa do Senado Federal, de
 outros Poderes, do Procurador-Geral da República ou de cidadãos
 aplicar-se-ão as mesmas regras.
 
-###Art. 105. Finda a legislatura, arquivar-se-ão todas as
+#### Art. 105. Finda a legislatura, arquivar-se-ão todas as
 proposições que no seu decurso tenham sido submetidas à deliberação
 da Câmara e ainda se encontrem em tramitação, bem como as que
 abram crédito suplementar, com pareceres ou sem eles, salvo as;
@@ -4074,12 +4034,12 @@ cento e oitenta dias da primeira sessão legislativa ordinária da
 legislatura subseqüente, retomando a tramitação desde o estágio em
 que se encontrava.
 
-###Art. 106. Quando, por extravio ou retenção indevida, não for
+#### Art. 106. Quando, por extravio ou retenção indevida, não for
 possível o andamento de qualquer proposição, vencidos os prazos
 regimentais, a Mesa fará reconstituir o respectivo processo pelos
 meios ao seu alcance para a tramitação ulterior.
 
-###Art. 107. A publicação de proposição no Diário da Câmara
+#### Art. 107. A publicação de proposição no Diário da Câmara
 dos Deputados e em avulsos, quando de volta das Comissões,
 assinalará, obrigatoriamente, após o respectivo número;
 
@@ -4122,12 +4082,12 @@ refere o art. 58, § 2o , I, da Constituição Federal.
 ## CAPÍTULO II
 DOS PROJETOS
 
-###Art. 108. A Câmara dos Deputados exerce a sua função
+#### Art. 108. A Câmara dos Deputados exerce a sua função
 legislativa por via de projeto de lei ordinária ou complementar, de
 decreto legislativo ou de resolução, além da proposta de emenda à
 Constituição.
 
-###Art. 109. Destinam-se os projetos;
+#### Art. 109. Destinam-se os projetos;
 
 I - de lei a regular as matérias de competência do Poder
 Legislativo, com a sanção do Presidente da República;
@@ -4181,14 +4141,14 @@ $ 2o Os projetos de decreto legislativo e de resolução podem
 ser apresentados por qualquer Deputado ou Comissão, quando não
 sejam de iniciativa privativa da Mesa ou de outro colegiado específico.
 
-###Art. 110. A matéria constante de projeto de lei rejeitado
+#### Art. 110. A matéria constante de projeto de lei rejeitado
 somente poderá constituir objeto de novo projeto, na mesma sessão
 legislativa, mediante proposta da maioria absoluta dos membros da
 Câmara, ou, nos casos dos incisos III a VIII do § 1o do artigo anterior,
 por iniciativa do Autor, aprovada pela maioria absoluta dos
 Deputados.
 
-###Art. 111. Os projetos deverão ser divididos em artigos
+#### Art. 111. Os projetos deverão ser divididos em artigos
 numerados, redigidos de forma concisa e clara, precedidos, sempre, da
 respectiva ementa.
 
@@ -4212,7 +4172,7 @@ III.
 $ 3o Nenhum artigo de projeto poderá conter duas ou mais
 matérias diversas.
 
-###Art. 112. Os projetos que forem apresentados sem
+#### Art. 112. Os projetos que forem apresentados sem
 observância dos preceitos fixados no artigo anterior e seus parágrafos,
 bem como os que, explícita ou implicitamente, contenham referências
 a lei, artigo de lei, decreto ou regulamento, contrato ou concessão, ou
@@ -4226,7 +4186,7 @@ DAS INDICAÇÕES
 
 
 
-###Art. 113. Indicação é a proposição através da qual o
+#### Art. 113. Indicação é a proposição através da qual o
 Deputado;
 
 I - sugere a outro Poder a adoção de providência, a realização
@@ -4273,12 +4233,12 @@ Artigo com nova redação dada pela Resolução n o 10, de 1991.
 
 ## CAPÍTULO IV
 DOS REQUERIMENTOS
-Seção I
+### Seção I
 Sujeitos a Despacho apenas do Presidente
 
 
 
-###Art. 114. Serão verbais ou escritos, e imediatamente
+#### Art. 114. Serão verbais ou escritos, e imediatamente
 despachados pelo Presidente, os requerimentos que solicitem;
 
 I - a palavra, ou a desistência desta;
@@ -4328,10 +4288,10 @@ XVII - licença a Deputado, nos termos do § 3o do art. 235.
 Parágrafo único. Em caso de indeferimento e a pedido do
 Autor, o Plenário será consultado, sem discussão nem encaminhamento
 de votação, devendo esta ser feita pelo processo simbólico.
-Seção II
+### Seção II
 Sujeitos a Despacho do Presidente, Ouvida a Mesa
 
-###Art. 115. Serão escritos e despachados no prazo de cinco
+#### Art. 115. Serão escritos e despachados no prazo de cinco
 sessões, pelo Presidente, ouvida a Mesa, e publicados com a respectiva
 decisão no Diário da Câmara dos Deputados, os requerimentos que
 solicitem;
@@ -4349,7 +4309,7 @@ decidido pelo processo simbólico, sem discussão, sendo permitido o
 encaminhamento de votação pelo Autor do requerimento e pelos
 Líderes, por cinco minutos cada um.
 
-###Art. 116. Os pedidos escritos de informação a Ministro
+#### Art. 116. Os pedidos escritos de informação a Ministro
 Estado, importando crime de responsabilidade a recusa ou
 não-atendimento no prazo de trinta dias, bem como a prestação
 informações falsas, serão encaminhados pelo Primeiro-Secretário
@@ -4396,7 +4356,7 @@ Congresso Nacional, por suas Casas ou Comissões.
 $ 2o Constituem atos ou fatos sujeitos à fiscalização e ao
 controle do Congresso Nacional, de suas Casas e Comissões os
 definidos no art. 60.
-Seção III
+### Seção III
 Sujeitos a Deliberação do Plenário
 Art. 117. Serão escritos e dependerão de deliberação do
 Plenário os requerimentos não especificados neste Regimento e os que
@@ -4479,7 +4439,7 @@ membros.
 ## CAPÍTULO V
 DAS EMENDAS
 
-###Art. 118. Emenda é a proposição apresentada como acessória
+#### Art. 118. Emenda é a proposição apresentada como acessória
 de outra, sendo a principal qualquer uma dentre as referidas nas
 alíneas a a e do inciso I do art. 138.
 
@@ -4520,7 +4480,7 @@ lapso manifesto.
 
 
 
-###Art. 119. As emendas poderão ser apresentadas em Comissão
+#### Art. 119. As emendas poderão ser apresentadas em Comissão
 no caso de projeto sujeito a apreciação conclusiva;
 
 I - a partir da designação do Relator, por qualquer Deputado,
@@ -4552,7 +4512,7 @@ substitutivos que infringirem o disposto nos parágrafos anteriores,
 desde que provida reclamação apresentada antes da aprovação
 definitiva da matéria pelas Comissões ou pelo Plenário.
 
-###Art. 120. As emendas de Plenário serão apresentadas;
+#### Art. 120. As emendas de Plenário serão apresentadas;
 
 I - durante a discussão em apreciação preliminar, turno único
 ou primeiro turno, por qualquer Deputado ou Comissão;
@@ -4591,7 +4551,7 @@ $ 5o Não poderá ser emendada a parte do projeto de lei
 aprovado conclusivamente pelas Comissões que não tenha sido objeto
 do recurso provido pelo Plenário.
 
-###Art. 121. As emendas de Plenário serão publicadas e
+#### Art. 121. As emendas de Plenário serão publicadas e
 distribuídas, uma a uma, às Comissões, de acordo com a matéria de
 sua competência.
 
@@ -4604,7 +4564,7 @@ mediante parecer apresentado diretamente em Plenário, sempre que
 possível pelos mesmos Relatores da proposição principal junto às
 Comissões que opinaram sobre a matéria.
 
-###Art. 122. As emendas aglutinativas podem ser apresentadas
+#### Art. 122. As emendas aglutinativas podem ser apresentadas
 em Plenário, para apreciação em turno único, quando da votação da
 parte da proposição ou do dispositivo a que elas se refiram, pelos
 Autores das emendas objeto da fusão, por um décimo dos membros da
@@ -4617,11 +4577,11 @@ $ 2o Recebida a emenda aglutinativa, a Mesa poderá adiar a
 votação da matéria por uma sessão para fazer publicar e distribuir em
 avulsos o texto resultante da fusão.
 
-###Art. 123. As emendas do Senado a projetos originários da
+#### Art. 123. As emendas do Senado a projetos originários da
 Câmara serão distribuídas, juntamente com estes, às Comissões
 competentes para opinar sobre as matérias de que tratam.
 
-###Art. 124. Não serão admitidas emendas que impliquem
+#### Art. 124. Não serão admitidas emendas que impliquem
 aumento da despesa prevista;
 
 
@@ -4635,7 +4595,7 @@ II - nos projetos sobre organização dos serviços administrativos
 da Câmara dos Deputados, do Senado Federal, dos Tribunais Federais
 e do Ministério Público.
 
-###Art. 125. O Presidente da Câmara ou de Comissão tem a
+#### Art. 125. O Presidente da Câmara ou de Comissão tem a
 faculdade de recusar emenda formulada de modo inconveniente, ou
 que verse sobre assunto estranho ao projeto em discussão ou contrarie
 prescrição regimental. No caso de reclamação ou recurso, será
@@ -4645,7 +4605,7 @@ de votação, a qual se fará pelo processo simbólico.
 ## CAPÍTULO VI
 DOS PARECERES
 
-###Art. 126. Parecer é a proposição com que uma Comissão se
+#### Art. 126. Parecer é a proposição com que uma Comissão se
 pronuncia sobre qualquer matéria sujeita a seu estudo.
 
 Parágrafo único. A Comissão que tiver de apresentar parecer
@@ -4654,17 +4614,17 @@ cingir-se-á à matéria de sua exclusiva competência, quer se trate de
 proposição principal, de acessória, ou de matéria ainda não objetivada
 em proposição.
 
-###Art. 127. Cada proposição terá parecer independente, salvo
+#### Art. 127. Cada proposição terá parecer independente, salvo
 as apensadas na forma dos arts. 139, I, e 142, que terão um só parecer.
 
-###Art. 128. Nenhuma proposição será submetida a discussão e
+#### Art. 128. Nenhuma proposição será submetida a discussão e
 votação sem parecer escrito da Comissão competente, exceto nos
 casos previstos neste Regimento.
 
 Parágrafo único. Excepcionalmente, quando o admitir este
 Regimento, o parecer poderá ser verbal.
 
-###Art. 129. O parecer por escrito constará de três partes;
+#### Art. 129. O parecer por escrito constará de três partes;
 
 I - relatório, em que se fará exposição circunstanciada da
 matéria em exame;
@@ -4688,7 +4648,7 @@ deverá ele conter a proposição necessária devidamente formulada pela
 Comissão que primeiro deva proferir parecer de mérito, ou por
 Comissão Parlamentar de Inquérito, quando for o caso.
 
-###Art. 130. Os pareceres aprovados, depois de opinar a última
+#### Art. 130. Os pareceres aprovados, depois de opinar a última
 Comissão a que tenha sido distribuído o processo, serão remetidos
 juntamente com a proposição à Mesa.
 
@@ -4703,10 +4663,10 @@ DA APRECIAÇÃO DAS PROPOSIÇÕES
 ## CAPÍTULO I
 DA TRAMITAÇÃO
 
-###Art. 131. Cada proposição, salvo emenda, recurso ou parecer,
+#### Art. 131. Cada proposição, salvo emenda, recurso ou parecer,
 terá curso próprio.
 
-###Art. 132. Apresentada e lida perante o Plenário, a proposição
+#### Art. 132. Apresentada e lida perante o Plenário, a proposição
 será objeto de decisão;
 
 I - do Presidente, nos casos do art. 114;
@@ -4730,7 +4690,7 @@ Deputados e no avulso da Ordem do Dia, houver recurso nesse sentido
 de um décimo dos membros da Casa, apresentado em sessão e provido
 por decisão do Plenário da Câmara.
 
-###Art. 133. Ressalvada a hipótese de interposição do recurso
+#### Art. 133. Ressalvada a hipótese de interposição do recurso
 de que trata o § 2o do artigo anterior, e excetuados os casos em que as
 deliberações dos órgãos técnicos não têm eficácia conclusiva, a
 proposição que receber pareceres contrários, quanto ao mérito, de todas
@@ -4741,17 +4701,17 @@ ao Plenário, e, quando se tratar de matéria em revisão, ao Senado.
 Parágrafo único. O parecer contrário a emenda não obsta a
 que a proposição principal siga seu curso regimental.
 
-###Art. 134. Logo que voltar das Comissões a que tenha sido
+#### Art. 134. Logo que voltar das Comissões a que tenha sido
 remetido, o projeto será anunciado no expediente, publicado com os
 respectivos pareceres no Diário da Câmara dos Deputados e
 distribuído em avulsos.
 
-###Art. 135. Decorridos os prazos previstos neste Regimento
+#### Art. 135. Decorridos os prazos previstos neste Regimento
 para tramitação nas Comissões ou no Plenário, o Autor de proposição
 que já tenha recebido pareceres dos órgãos técnicos poderá requerer
 ao Presidente a inclusão da matéria na Ordem do Dia.
 
-###Art. 136. As deliberações do Plenário ocorrerão na mesma
+#### Art. 136. As deliberações do Plenário ocorrerão na mesma
 sessão, no caso de requerimentos que devam ser imediatamente
 apreciados, ou mediante inclusão na Ordem do Dia, nos demais casos.
 
@@ -4762,7 +4722,7 @@ sobre a mesa durante sua tramitação em Plenário.
 DO RECEBIMENTO E DA
 DISTRIBUIÇÃO DAS PROPOSIÇÕES
 
-###Art. 137. Toda proposição recebida pela Mesa será numerada,
+#### Art. 137. Toda proposição recebida pela Mesa será numerada,
 datada, despachada às Comissões competentes e publicada no Diário
 da Câmara dos Deputados e em avulsos, para serem distribuídos aos
 Deputados, às Lideranças e Comissões.
@@ -4786,7 +4746,7 @@ publicação do despacho, ouvindo-se a Comissão de Constituição e
 Justiça e de Cidadania, em igual prazo. Caso seja provido o recurso, a
 proposição voltará à Presidência para o devido trâmite.
 
-###Art. 138. As proposições serão numeradas de acordo com as
+#### Art. 138. As proposições serão numeradas de acordo com as
 seguintes normas;
 
 I - terão numeração por legislatura, em séries específicas;
@@ -4836,7 +4796,7 @@ acrescentar-se-ão as iniciais desta.
 $ 4o A emenda que substituir integralmente o projeto terá,
 em seguida ao número, entre parênteses, a indicação “Substitutivo”.
 
-###Art. 139. A distribuição de matéria às Comissões será feita
+#### Art. 139. A distribuição de matéria às Comissões será feita
 por despacho do Presidente, dentro em duas sessões depois de
 recebida na Mesa, observadas as seguintes normas;
 
@@ -4894,7 +4854,7 @@ de uma Comissão, deverá ser discutida e votada ao mesmo tempo, em
 cada uma delas, desde que publicada com as respectivas emendas, ou
 em reunião conjunta, aplicando-se à hipótese o que prevê o art. 49.
 
-###Art. 140. Quando qualquer Comissão pretender que outra se
+#### Art. 140. Quando qualquer Comissão pretender que outra se
 manifeste sobre determinada matéria, apresentará requerimento escrito
 nesse sentido ao Presidente da Câmara, com a indicação precisa da
 questão sobre a qual deseja o pronunciamento, observando-se que;
@@ -4908,7 +4868,7 @@ sobre a questão formulada;
 III - o exercício da faculdade prevista neste artigo não
 implica dilação dos prazos previstos no art. 52.
 
-###Art. 141. Se a Comissão a que for distribuída uma proposição
+#### Art. 141. Se a Comissão a que for distribuída uma proposição
 se julgar incompetente para apreciar a matéria, ou se, no prazo para a
 apresentação de emendas referido no art. 120, I e § 4o , qualquer
 Deputado ou Comissão suscitar conflito de competência em relação a
@@ -4936,7 +4896,7 @@ solicitada antes de a matéria entrar na Ordem do Dia ou, na hipótese
 do art. 24, II, antes do pronunciamento da única ou da primeira
 Comissão incumbida de examinar o mérito da proposição.
 
-###Art. 143. Na tramitação em conjunto ou por dependência,
+#### Art. 143. Na tramitação em conjunto ou por dependência,
 serão obedecidas as seguintes normas;
 
 I - ao processo da proposição que deva ter precedência serão
@@ -4959,7 +4919,7 @@ DA APRECIAÇÃO PRELIMINAR
 
 
 
-###Art. 144. Haverá apreciação preliminar em Plenário quando
+#### Art. 144. Haverá apreciação preliminar em Plenário quando
 for provido recurso contra parecer terminativo de Comissão, emitido
 na forma do art. 54.
 
@@ -4972,7 +4932,7 @@ Artigo com nova redação dada pela Resolução n o 10, de 1991.
 Parágrafo único. A apreciação preliminar é parte integrante
 do turno em que se achar a matéria.
 
-###Art. 145. Em apreciação preliminar, o Plenário deliberará
+#### Art. 145. Em apreciação preliminar, o Plenário deliberará
 sobre a proposição somente quanto à sua constitucionalidade e
 juridicidade ou adequação financeira e orçamentária.
 
@@ -4988,7 +4948,7 @@ $ 3o Rejeitada a emenda, votar-se-á a proposição, que, se
 aprovada, retomará o seu curso, e, em caso contrário, será
 definitivamente arquivada.
 
-###Art. 146. Quando a Comissão de Constituição e Justiça e de
+#### Art. 146. Quando a Comissão de Constituição e Justiça e de
 Cidadania, ou a Comissão de Finanças e Tributação, apresentar
 emenda tendente a sanar vício de inconstitucionalidade ou
 injuridicidade, e de inadequação ou incompatibilidade financeira ou
@@ -4997,14 +4957,14 @@ referida no art. 34, II, a matéria prosseguirá o seu curso, e a apreciação
 preliminar far-se-á após a manifestação das demais Comissões
 constantes do despacho inicial.
 
-###Art. 147. Reconhecidas, pelo Plenário, a constitucionalidade e
+#### Art. 147. Reconhecidas, pelo Plenário, a constitucionalidade e
 a juridicidade ou a adequação financeira e orçamentária da proposição,
 não poderão estas preliminares ser novamente argüidas em contrário.
 
 ## CAPÍTULO IV
 DOS TURNOS A QUE ESTÃO SUJEITAS AS PROPOSIÇÕES
 
-###Art. 148. As proposições em tramitação na Câmara são
+#### Art. 148. As proposições em tramitação na Câmara são
 subordinadas, na sua apreciação, a turno único, excetuadas as
 propostas de emenda à Constituição, os projetos de lei complementar
 e os demais casos expressos neste Regimento.
@@ -5025,7 +4985,7 @@ sem votação.
 ## CAPÍTULO V
 DO INTERSTÍCIO
 
-###Art. 150. Excetuada a matéria em regime de urgência, é de
+#### Art. 150. Excetuada a matéria em regime de urgência, é de
 duas sessões o interstício entre;
 
 I - a distribuição de avulsos dos pareceres das Comissões e o
@@ -5044,7 +5004,7 @@ antecedência mínima de quatro horas.
 ## CAPÍTULO VI
 DO REGIME DE TRAMITAÇÃO
 
-###Art. 151. Quanto à natureza de sua tramitação podem ser;
+#### Art. 151. Quanto à natureza de sua tramitação podem ser;
 
 I - urgentes as proposições;
 
@@ -5114,10 +5074,10 @@ nas hipóteses dos incisos anteriores.
 
 ## CAPÍTULO VII
 DA URGÊNCIA
-Seção I
+### Seção I
 Disposições Gerais
 
-###Art. 152. Urgência é a dispensa de exigências, interstícios
+#### Art. 152. Urgência é a dispensa de exigências, interstícios
 ou formalidades regimentais, salvo as referidas no § 1o deste artigo,
 para que determinada proposição, nas condições previstas no inciso I
 do artigo antecedente, seja de logo considerada, até sua decisão final.
@@ -5134,10 +5094,10 @@ III - quórum para deliberação.
 $ 2o As proposições urgentes em virtude da natureza da
 matéria ou de requerimento aprovado pelo Plenário, na forma do
 artigo subseqüente, terão o mesmo tratamento e trâmite regimental.
-Seção II
+### Seção II
 Do Requerimento de Urgência
 
-###Art. 153. A urgência poderá ser requerida quando;
+#### Art. 153. A urgência poderá ser requerida quando;
 
 I - tratar-se de matéria que envolva a defesa da sociedade
 democrática e das liberdades fundamentais;
@@ -5149,7 +5109,7 @@ adoção ou alteração de lei para aplicar-se em época certa e próxima;
 
 IV - pretender-se a apreciação da matéria na mesma sessão.
 
-###Art. 154. O requerimento de urgência somente poderá ser
+#### Art. 154. O requerimento de urgência somente poderá ser
 submetido à deliberação do Plenário se for apresentado por;
 
 I - dois terços dos membros da Mesa, quando se tratar de
@@ -5172,7 +5132,7 @@ $ 2o Estando em tramitação duas matérias em regime de
 urgência, em razão de requerimento aprovado pelo Plenário, não se
 votará outro.
 
-###Art. 155. Poderá ser incluída automaticamente na Ordem do
+#### Art. 155. Poderá ser incluída automaticamente na Ordem do
 Dia para discussão e votação imediata, ainda que iniciada a sessão em
 que for apresentada, proposição que verse sobre matéria de relevante e
 inadiável interesse nacional, a requerimento da maioria absoluta da
@@ -5180,13 +5140,13 @@ composição da Câmara, ou de Líderes que representem esse número,
 aprovado pela maioria absoluta dos Deputados, sem a restrição
 contida no § 2o do artigo antecedente.
 
-###Art. 156. A retirada do requerimento de urgência, bem como
+#### Art. 156. A retirada do requerimento de urgência, bem como
 a extinção do regime de urgência, atenderá às regras contidas no art.
 .
-Seção III
+### Seção III
 Da Apreciação de Matéria Urgente
 
-###Art. 157. Aprovado o requerimento de urgência, entrará a
+#### Art. 157. Aprovado o requerimento de urgência, entrará a
 matéria em discussão na sessão imediata, ocupando o primeiro lugar
 na Ordem do Dia.
 
@@ -5223,7 +5183,7 @@ urgência não implica dilação dos prazos para sua apreciação.
 ## CAPÍTULO VIII
 DA PRIORIDADE
 
-###Art. 158. Prioridade é a dispensa de exigências regimentais
+#### Art. 158. Prioridade é a dispensa de exigências regimentais
 para que determinada proposição seja incluída na Ordem do Dia da
 sessão seguinte, logo após as proposições em regime de urgência.
 
@@ -5251,7 +5211,7 @@ Deputados ou por Líderes que representem esse número.
 ## CAPÍTULO IX
 DA PREFERÊNCIA
 
-###Art. 159. Denomina-se preferência a primazia na discussão,
+#### Art. 159. Denomina-se preferência a primazia na discussão,
 ou na votação, de uma proposição sobre outra, ou outras.
 
 $ 1o Os projetos em regime de urgência gozam de preferência
@@ -5321,7 +5281,7 @@ DO DESTAQUE
 
 
 
-###Art. 161. Poderá ser concedido, mediante requerimento
+#### Art. 161. Poderá ser concedido, mediante requerimento
 aprovado pelo Plenário, destaque para;
 
 I - votação em separado de parte de proposição, desde que
@@ -5359,7 +5319,7 @@ proporcionalidade;
 
 – de 75 ou mais Deputados: quatro destaques.
 
-###Art. 162. Em relação aos destaques, serão obedecidas as
+#### Art. 162. Em relação aos destaques, serão obedecidas as
 seguintes normas;
 
 I - o requerimento deve ser formulado até ser anunciada a
@@ -5421,7 +5381,7 @@ aprovado pelo Plenário.
 ## CAPÍTULO XI
 DA PREJUDICIALIDADE
 
-###Art. 163. Consideram-se prejudicados;
+#### Art. 163. Consideram-se prejudicados;
 
 I - a discussão ou a votação de qualquer projeto idêntico a
 outro que já tenha sido aprovado ou rejeitado na mesma sessão
@@ -5449,7 +5409,7 @@ outra, ou ao de dispositivo, já aprovados;
 VIII - o requerimento com a mesma, ou oposta, finalidade de
 outro já aprovado.
 
-###Art. 164. O Presidente da Câmara ou de Comissão, de ofício
+#### Art. 164. O Presidente da Câmara ou de Comissão, de ofício
 ou mediante provocação de qualquer Deputado, declarará prejudicada
 matéria pendente de deliberação;
 
@@ -5479,10 +5439,10 @@ arquivada pelo Presidente da Câmara.
 
 ## CAPÍTULO XII
 DA DISCUSSÃO
-Seção I
+### Seção I
 Disposições Gerais
 
-###Art. 165. Discussão é a fase dos trabalhos destinada ao
+#### Art. 165. Discussão é a fase dos trabalhos destinada ao
 debate em Plenário.
 
 $ 1o A discussão será feita sobre o conjunto da proposição e
@@ -5491,18 +5451,18 @@ das emendas, se houver.
 $ 2o O Presidente, aquiescendo o Plenário, poderá anunciar o
 debate por títulos, capítulos, seções ou grupos de artigos.
 
-###Art. 166. A proposição com a discussão encerrada na
+#### Art. 166. A proposição com a discussão encerrada na
 legislatura anterior terá sempre a discussão reaberta para receber
 novas emendas.
 
-###Art. 167. A proposição com todos os pareceres favoráveis
+#### Art. 167. A proposição com todos os pareceres favoráveis
 poderá ter a discussão dispensada por deliberação do Plenário,
 mediante requerimento de Líder.
 
 Parágrafo único. A dispensa da discussão deverá ser requerida
 ao ser anunciada a matéria e não prejudica a apresentação de emendas.
 
-###Art. 168. Excetuados os projetos de código, nenhuma
+#### Art. 168. Excetuados os projetos de código, nenhuma
 matéria ficará inscrita na Ordem do Dia para discussão por mais de
 quatro sessões, em turno único ou primeiro turno, e por duas sessões,
 em segundo turno.
@@ -5516,13 +5476,13 @@ ordem dos que desejam debater a matéria, com o número previsível
 das sessões necessárias e respectivas datas, não se admitindo inscrição
 nova para a discussão assim ordenada.
 
-###Art. 169. Nenhum Deputado poderá solicitar a palavra
+#### Art. 169. Nenhum Deputado poderá solicitar a palavra
 quando houver orador na tribuna, exceto para requerer prorrogação de
 prazo, levantar questão de ordem, ou fazer comunicação de natureza
 urgentíssima, sempre com permissão do orador, sendo o tempo usado,
 porém, computado no de que este dispõe.
 
-###Art. 170. O Presidente solicitará ao orador que estiver
+#### Art. 170. O Presidente solicitará ao orador que estiver
 debatendo matéria em discussão que interrompa o seu discurso, nos
 seguintes casos;
 
@@ -5543,12 +5503,12 @@ prorrogação da sessão;
 
 VI - no caso de tumulto grave no recinto, ou no edifício da
 Câmara, que reclame a suspensão ou o levantamento da sessão.
-Seção II
+### Seção II
 Da Inscrição e do Uso da Palavra
 Subseção I
 Da Inscrição de Debatedores
 
-###Art. 171. Os Deputados que desejarem discutir proposição
+#### Art. 171. Os Deputados que desejarem discutir proposição
 incluída na Ordem do Dia devem inscrever-se previamente na Mesa,
 antes do início da discussão.
 
@@ -5564,7 +5524,7 @@ ou quem este houver indicado para defendê-lo, falará anteriormente
 aos oradores inscritos para seu debate, transformando-se a Câmara,
 nesse momento, sob a direção de seu Presidente, em Comissão Geral.
 
-###Art. 172. Quando mais de um Deputado pedir a palavra,
+#### Art. 172. Quando mais de um Deputado pedir a palavra,
 simultaneamente, sobre o mesmo assunto, o Presidente deverá
 concedê-la na seguinte ordem, observadas as demais exigências
 regimentais;
@@ -5599,7 +5559,7 @@ ela se opuseram.
 Subseção II
 Do Uso da Palavra
 
-###Art. 173. Anunciada a matéria, será dada a palavra aos
+#### Art. 173. Anunciada a matéria, será dada a palavra aos
 oradores para a discussão.
 Art. 174. O Deputado, salvo expressa disposição regimental,
 só poderá falar uma vez e pelo prazo de cinco minutos na discussão de
@@ -5624,7 +5584,7 @@ urgência ou em segundo turno.
 $ 5o Havendo três ou mais oradores inscritos para discussão
 da mesma proposição, não será concedida prorrogação de tempo.
 
-###Art. 175. O Deputado que usar a palavra sobre a proposição
+#### Art. 175. O Deputado que usar a palavra sobre a proposição
 em discussão não poderá;
 
 I - desviar-se da questão em debate;
@@ -5637,7 +5597,7 @@ IV - ultrapassar o prazo regimental.
 Subseção III
 Do Aparte
 
-###Art. 176. Aparte é a interrupção, breve e oportuna, do orador
+#### Art. 176. Aparte é a interrupção, breve e oportuna, do orador
 para indagação, ou esclarecimento, relativos à matéria em debate.
 
 $ 1o O Deputado só poderá apartear o orador se lhe solicitar
@@ -5671,10 +5631,10 @@ desacordo com os dispositivos regimentais.
 
 $ 5o Os apartes só serão sujeitos à revisão do Autor se
 permitida pelo orador, que não poderá modificá-los.
-Seção III
+### Seção III
 Do Adiamento da Discussão
 
-###Art. 177. Antes de ser iniciada a discussão de um projeto,
+#### Art. 177. Antes de ser iniciada a discussão de um projeto,
 será permitido o seu adiamento, por prazo não superior a dez sessões,
 mediante requerimento assinado por Líder, Autor ou Relator e
 aprovado pelo Plenário.
@@ -5691,10 +5651,10 @@ lugar o de prazo mais longo.
 $ 3o Tendo sido adiada uma vez a discussão de uma matéria,
 só o será novamente ante a alegação, reconhecida pelo Presidente da
 Câmara, de erro na publicação.
-Seção IV
+### Seção IV
 Do Encerramento da Discussão
 
-###Art. 178. O encerramento da discussão dar-se-á pela ausência
+#### Art. 178. O encerramento da discussão dar-se-á pela ausência
 de oradores, pelo decurso dos prazos regimentais ou por deliberação
 do Plenário.
 
@@ -5711,10 +5671,10 @@ pelo prazo de cinco minutos, por um orador contra e um a favor.
 $ 3o Se a discussão se proceder por partes, o encerramento
 de cada parte só poderá ser pedido depois de terem falado, no mínimo,
 dois oradores.
-Seção V
+### Seção V
 Da Proposição Emendada durante a Discussão
 
-###Art. 179. Encerrada a discussão do projeto, com emendas, a
+#### Art. 179. Encerrada a discussão do projeto, com emendas, a
 matéria irá às Comissões que a devam apreciar, observado o que
 dispõem o art. 139, II, e o parágrafo único do art. 121.
 
@@ -5726,10 +5686,10 @@ interstício regimental.
 
 ## CAPÍTULO XIII
 DA VOTAÇÃO
-Seção I
+### Seção I
 Disposições Gerais
 
-###Art. 180. A votação completa o turno regimental da discussão.
+#### Art. 180. A votação completa o turno regimental da discussão.
 
 $ 1o A votação das matérias com a discussão encerrada e das
 que se acharem sobre a mesa será realizada em qualquer sessão;
@@ -5762,7 +5722,7 @@ em branco, para efeito de quórum.
 $ 7o O voto do Deputado, mesmo que contrarie o da respectiva
 representação ou sua liderança, será acolhido para todos os efeitos.
 
-###Art. 181. Só se interromperá a votação de uma proposição
+#### Art. 181. Só se interromperá a votação de uma proposição
 por falta de quórum.
 
 $ 1o Quando esgotado o período da sessão, ficará esta
@@ -5774,7 +5734,7 @@ proceder-se-á nos termos do § 3o do art. 82.
 para
 deliberação,
 
-###Art. 182. Terminada a apuração, o Presidente proclamará o
+#### Art. 182. Terminada a apuração, o Presidente proclamará o
 resultado da votação, especificando os votos favoráveis, contrários,
 em branco e nulos.
 
@@ -5783,7 +5743,7 @@ ostensiva, enviar à Mesa para publicação declaração escrita de voto,
 redigida em termos regimentais, sem lhe ser permitido, todavia, lê-la
 ou fazer a seu respeito qualquer comentário da tribuna.
 
-###Art. 183. Salvo disposição constitucional em contrário, as
+#### Art. 183. Salvo disposição constitucional em contrário, as
 deliberações da Câmara serão tomadas por maioria de votos, presente
 a maioria absoluta de seus membros.
 
@@ -5795,10 +5755,10 @@ regimentais para discussão e votação.
 $ 2o Os votos em branco que ocorrerem nas votações por
 meio de cédulas e as abstenções verificadas pelo sistema eletrônico só
 serão computados para efeito de quórum.
-Seção II
+### Seção II
 Das Modalidades e Processos de Votação
 
-###Art. 184. A votação poderá ser ostensiva, adotando-se o
+#### Art. 184. A votação poderá ser ostensiva, adotando-se o
 processo simbólico ou o nominal, e secreta, por meio do sistema
 eletrônico ou de cédulas.
 
@@ -5806,7 +5766,7 @@ Parágrafo único. Assentado, previamente, pela Câmara
 determinado processo de votação para uma proposição, não será
 admitido para ela requerimento de outro processo.
 
-###Art. 185. Pelo processo simbólico, que será utilizado na
+#### Art. 185. Pelo processo simbólico, que será utilizado na
 votação das proposições em geral, o Presidente, ao anunciar a votação
 de qualquer matéria, convidará os Deputados a favor a permanecerem
 sentados e proclamará o resultado manifesto dos votos.
@@ -5833,7 +5793,7 @@ $ 5o Ocorrendo requerimento de verificação de votação, se
 for notória a ausência de quórum no Plenário, o Presidente poderá,
 desde logo, determinar a votação pelo processo nominal.
 
-###Art. 186. O processo nominal será utilizado;
+#### Art. 186. O processo nominal será utilizado;
 
 I - nos casos em que seja exigido quórum especial de
 votação;
@@ -5852,7 +5812,7 @@ $ 2o Quando algum Deputado requerer votação nominal e a
 Câmara não a conceder, será vedado requerê-la novamente para a
 mesma proposição, ou para as que lhe forem acessórias.
 
-###Art. 187. A votação nominal far-se-á pelo sistema eletrônico
+#### Art. 187. A votação nominal far-se-á pelo sistema eletrônico
 de votos, obedecidas as instruções estabelecidas pela Mesa para sua
 utilização.
 
@@ -5894,7 +5854,7 @@ sim ou não, conforme aprovem ou rejeitem a matéria em votação;
 
 III - as abstenções serão também anotadas pelo Secretário.
 
-###Art. 188. A votação por escrutínio secreto far-se-á pelo
+#### Art. 188. A votação por escrutínio secreto far-se-á pelo
 sistema eletrônico, nos termos do artigo precedente, apurando-se
 apenas os nomes dos votantes e o resultado final, nos seguintes casos;
 
@@ -5956,10 +5916,10 @@ e o Vice-Presidente da República e os Ministros de Estado.
 
 Inciso com nova redação dada pela Resolução n o 22, de 1992.
 Inciso acrescentado pela Resolução no 22, de 1992.
-Seção III
+### Seção III
 Do Processamento da Votação
 
-###Art. 189. A proposição, ou seu substitutivo, será votada
+#### Art. 189. A proposição, ou seu substitutivo, será votada
 sempre em globo, ressalvada a matéria destacada ou deliberação
 diversa do Plenário.
 
@@ -6010,7 +5970,7 @@ qualquer emenda destacadamente.
 Parágrafo único. Proceder-se-á da mesma forma com relação
 a substitutivo do Senado a projeto da Câmara.
 
-###Art. 191. Além das regras contidas nos arts. 159 e 163, serão
+#### Art. 191. Além das regras contidas nos arts. 159 e 163, serão
 obedecidas ainda na votação as seguintes normas de precedência ou
 preferência e prejudicialidade;
 
@@ -6080,10 +6040,10 @@ somente integrará o texto se aprovado;
 XV - se a votação do projeto se fizer separadamente em
 relação a cada artigo, o texto deste será votado antes das emendas
 aditivas a ele correspondentes.
-Seção IV
+### Seção IV
 Do Encaminhamento da Votação
 
-###Art. 192. Anunciada uma votação, é lícito o uso da palavra
+#### Art. 192. Anunciada uma votação, é lícito o uso da palavra
 para encaminhá-la, salvo disposição regimental em contrário, pelo
 prazo de cinco minutos, ainda que se trate de matéria não sujeita a
 discussão, ou que esteja em regime de urgência.
@@ -6125,10 +6085,10 @@ $ 8o Não terão encaminhamento de votação as eleições;
  nos
 requerimentos, quando cabível, é limitado ao signatário e a um orador
 contrário.
-Seção V
+### Seção V
 Do Adiamento da Votação
 
-###Art. 193. O adiamento da votação de qualquer proposição só
+#### Art. 193. O adiamento da votação de qualquer proposição só
 pode ser solicitado antes de seu início, mediante requerimento
 assinado por Líder, pelo Autor ou Relator da matéria.
 
@@ -6147,7 +6107,7 @@ excedente a duas sessões.
 DA REDAÇÃO DO VENCIDO, DA
 REDAÇÃO FINAL E DOS AUTÓGRAFOS
 
-###Art. 194. Terminada a votação em primeiro turno, os projetos
+#### Art. 194. Terminada a votação em primeiro turno, os projetos
 irão à Comissão de Constituição e Justiça e de Cidadania para redigir
 o vencido.
 
@@ -6155,7 +6115,7 @@ Parágrafo único. A redação será dispensada, salvo se houver
 vício de linguagem, defeito ou erro manifesto a corrigir, nos projetos
 aprovados em primeiro turno, sem emendas.
 
-###Art. 195. Ultimada a fase da votação, em turno único ou em
+#### Art. 195. Ultimada a fase da votação, em turno único ou em
 segundo turno, conforme o caso, será a proposta de emenda à
 Constituição ou o projeto, com as respectivas emendas, se houver,
 enviado à Comissão competente para a redação final, na conformidade
@@ -6187,20 +6147,20 @@ emendas, destacadamente, não as incorporando ao texto da proposição,
 salvo quando apenas corrijam defeitos evidentes de forma, sem atingir
 de qualquer maneira a substância do projeto.
 
-###Art. 196. A redação do vencido ou a redação final será
+#### Art. 196. A redação do vencido ou a redação final será
 elaborada dentro de dez sessões para os projetos em tramitação
 ordinária, cinco sessões para os em regime de prioridade, e uma
 sessão, prorrogável por outra, excepcionalmente, por deliberação do
 Plenário, para os em regime de urgência, entre eles incluídas as
 propostas de emenda à Constituição.
 
-###Art. 197. É privativo da Comissão específica para estudar a
+#### Art. 197. É privativo da Comissão específica para estudar a
 matéria redigir o vencido e elaborar a redação final, nos casos de
 proposta de emenda à Constituição, de projeto de código ou sua
 reforma e, na hipótese do § 6o do art. 216, de projeto de Regimento
 Interno.
 
-###Art. 198. A redação final será votada depois de publicada no
+#### Art. 198. A redação final será votada depois de publicada no
 Diário da Câmara dos Deputados ou distribuída em avulsos,
 observado o interstício regimental.
 
@@ -6224,7 +6184,7 @@ $ 5o Figurando a redação final na Ordem do Dia, se sua
 discussão for encerrada sem emendas ou retificações, será considerada
 definitivamente aprovada, sem votação.
 
-###Art. 199. Quando, após a aprovação de redação final, se
+#### Art. 199. Quando, após a aprovação de redação final, se
 verificar inexatidão do texto, a Mesa procederá à respectiva correção,
 da qual dará conhecimento ao Plenário e fará a devida comunicação
 ao Senado, se já lhe houver enviado o autógrafo, ou ao Presidente da
@@ -6237,7 +6197,7 @@ Parágrafo único. Quando a inexatidão, lapso ou erro manifesto
 do texto se verificar em autógrafo recebido do Senado, a Mesa o
 devolverá a este, para correção, do que dará conhecimento ao Plenário.
 
-###Art. 200. A proposição aprovada em definitivo pela Câmara,
+#### Art. 200. A proposição aprovada em definitivo pela Câmara,
 ou por suas Comissões, será encaminhada em autógrafos à sanção, à
 promulgação ou ao Senado, conforme o caso, até a segunda sessão
 seguinte.
@@ -6258,7 +6218,7 @@ DAS MATÉRIAS SUJEITAS A DISPOSIÇÕES ESPECIAIS
 ## CAPÍTULO I
 DA PROPOSTA DE EMENDA À CONSTITUIÇÃO
 
-###Art. 201. A Câmara apreciará proposta de emenda à
+#### Art. 201. A Câmara apreciará proposta de emenda à
 Constituição;
 
 I - apresentada pela terça parte, no mínimo, dos Deputados;
@@ -6274,7 +6234,7 @@ ou de estado de sítio e que não proponha a abolição da Federação, do
 voto direto, secreto, universal e periódico, da separação dos Poderes e
 dos direitos e garantias individuais.
 
-###Art. 202. A proposta de emenda à Constituição será
+#### Art. 202. A proposta de emenda à Constituição será
 despachada pelo Presidente da Câmara à Comissão de Constituição e
 Justiça e de Cidadania, que se pronunciará sobre sua admissibilidade,
 no prazo de cinco sessões, devolvendo-a à Mesa com o respectivo
@@ -6312,7 +6272,7 @@ $ 8o Aplicam-se à proposta de emenda à Constituição, no
 que não colidir com o estatuído neste artigo, as disposições
 regimentais relativas ao trâmite e apreciação dos projetos de lei.
 
-###Art. 203. A proposta de emenda à Constituição recebida do
+#### Art. 203. A proposta de emenda à Constituição recebida do
 Senado Federal, bem como as emendas do Senado à proposta de
 emenda à Constituição oriunda da Câmara, terá a mesma tramitação
 estabelecida no artigo precedente.
@@ -6326,7 +6286,7 @@ DOS PROJETOS DE INICIATIVA
 DO PRESIDENTE DA REPÚBLICA
 COM SOLICITAÇÃO DE URGÊNCIA
 
-###Art. 204. A apreciação do projeto de lei de iniciativa do
+#### Art. 204. A apreciação do projeto de lei de iniciativa do
 Presidente da República, para o qual tenha solicitado urgência,
 consoante os §§ 1o , 2o e 3o do art. 64 da Constituição Federal,
 obedecerá ao seguinte;
@@ -6352,7 +6312,7 @@ projetos de código.
 ## CAPÍTULO III
 DOS PROJETOS DE CÓDIGO
 
-###Art. 205. Recebido o projeto de código ou apresentado à
+#### Art. 205. Recebido o projeto de código ou apresentado à
 Mesa, o Presidente comunicará o fato ao Plenário e determinará a sua
 inclusão na Ordem do Dia da sessão seguinte, sendo publicado e
 distribuído em avulsos.
@@ -6393,7 +6353,7 @@ abrangência, deva ser apreciada como código.
 
 
 
-###Art. 206. A Comissão terá o prazo de dez sessões para
+#### Art. 206. A Comissão terá o prazo de dez sessões para
 discutir e votar o projeto e as emendas com os pareceres.
 
 Parágrafo único. A Comissão, na discussão e votação da
@@ -6441,7 +6401,7 @@ for encerrada por falta de oradores.
 $ 3o A Mesa destinará sessões exclusivas para a discussão e
 votação dos projetos de código.
 
-###Art. 208. Aprovados o projeto e as emendas, a matéria
+#### Art. 208. Aprovados o projeto e as emendas, a matéria
 voltará à Comissão Especial, que terá cinco sessões para elaborar a
 redação final.
 
@@ -6453,11 +6413,11 @@ $ 2o As emendas à redação final serão apresentadas na
 própria sessão e votadas imediatamente, após parecer oral do
 Relator-Geral ou Relator-Parcial.
 
-###Art. 209. O projeto de código aprovado será enviado ao
+#### Art. 209. O projeto de código aprovado será enviado ao
 Senado Federal no prazo de até cinco sessões, acompanhado da
 publicação de todos os pareceres que o instruíram na tramitação.
 
-###Art. 210. As emendas do Senado Federal ao projeto de
+#### Art. 210. As emendas do Senado Federal ao projeto de
 código irão à Comissão Especial, que terá dez sessões para oferecer
 parecer sobre as modificações propostas.
 
@@ -6476,7 +6436,7 @@ sanção no prazo improrrogável de três sessões.
 $ 5o O projeto de código recebido do Senado Federal para
 revisão obedecerá às normas previstas neste capítulo.
 
-###Art. 211. A requerimento da Comissão Especial, sujeito à
+#### Art. 211. A requerimento da Comissão Especial, sujeito à
 deliberação do Plenário, os prazos previstos neste capítulo poderão ser;
 
 I - prorrogados até o dobro e, em casos excepcionais, até o
@@ -6493,7 +6453,7 @@ suspensão.
 DOS PROJETOS
 DE CONSOLIDAÇÃO
 
-###Art. 212. A Mesa Diretora, qualquer membro ou Comissão
+#### Art. 212. A Mesa Diretora, qualquer membro ou Comissão
 da Câmara dos Deputados poderá formular projeto de consolidação,
 visando à sistematização, à correção, ao aditamento, à supressão e à
 conjugação de textos legais, cuja elaboração cingir-se-á aos aspectos
@@ -6514,7 +6474,7 @@ dias, a ele sejam oferecidas sugestões, as quais, se for o caso, serão
 incorporadas ao texto inicial, a ser encaminhado, em seguida, ao
 exame da Comissão de Constituição e Justiça e de Cidadania.
 
-###Art. 213. O projeto de consolidação, após a apreciação do
+#### Art. 213. O projeto de consolidação, após a apreciação do
 Grupo de Trabalho de Consolidação das Leis e da Comissão de
 Constituição e Justiça e de Cidadania, será submetido ao Plenário da
 Casa.
@@ -6550,12 +6510,12 @@ do Dia.
 
 ## CAPÍTULO IV
 DAS MATÉRIAS DE NATUREZA PERIÓDICA
-Seção I
+### Seção I
 Dos Projetos de Fixação da Remuneração dos
 Membros do Congresso Nacional, do Presidente e do
 Vice-Presidente da República e dos Ministros de Estado
 
-###Art. 214. À Comissão de Finanças e Tributação incumbe
+#### Art. 214. À Comissão de Finanças e Tributação incumbe
 elaborar, no último ano de cada legislatura, o projeto de decreto
 legislativo destinado a fixar a remuneração e a ajuda de custo dos
 membros do Congresso Nacional, a vigorar na legislatura subseqüente,
@@ -6575,10 +6535,10 @@ $ 2o O projeto mencionado neste artigo figurará na Ordem
 do Dia durante cinco sessões para recebimento de emendas, sobre as
 quais a Comissão de Finanças e Tributação emitirá parecer no prazo
 improrrogável de cinco sessões.
-Seção II
+### Seção II
 Da Tomada de Contas do Presidente da República
 
-###Art. 215. À Comissão de Finanças e Tributação incumbe
+#### Art. 215. À Comissão de Finanças e Tributação incumbe
 proceder à tomada de contas do Presidente da República, quando não
 apresentadas ao Congresso Nacional dentro de sessenta dias após a
 abertura da sessão legislativa.
@@ -6616,7 +6576,7 @@ especial.
 ## CAPÍTULO V
 DO REGIMENTO INTERNO
 
-###Art. 216. O Regimento Interno poderá ser modificado ou
+#### Art. 216. O Regimento Interno poderá ser modificado ou
 reformado por meio de projeto de resolução de iniciativa de Deputado,
 da Mesa, de Comissão Permanente ou de Comissão Especial para esse
 fim criada, em virtude de deliberação da Câmara, da qual deverá fazer
@@ -6668,7 +6628,7 @@ REPÚBLICA E OS MINISTROS DE ESTADO
 
 
 
-###Art. 217. A solicitação do Presidente do Supremo Tribuna l
+#### Art. 217. A solicitação do Presidente do Supremo Tribuna l
 Federal para instauração de processo, nas infrações penais comuns,
 contra o Presidente e o Vice-Presidente da República e os Ministros
 de Estado será recebida pelo Presidente da Câmara dos Deputados,
@@ -6709,7 +6669,7 @@ Artigo com nova redação dada pela Resolução n o 22, de 1992.
 
 
 
-###Art. 218. É permitido a qualquer cidadão denunciar à
+#### Art. 218. É permitido a qualquer cidadão denunciar à
 Câmara dos Deputados o Presidente da República, o Vice-Presidente
 da República ou Ministro de Estado por crime de responsabilidade.
 
@@ -6761,7 +6721,7 @@ sessões.
 ## CAPÍTULO VIII
 DO COMPARECIMENTO DE MINISTRO DE ESTADO
 
-###Art. 219. O Ministro de Estado comparecerá perante a
+#### Art. 219. O Ministro de Estado comparecerá perante a
 Câmara ou suas Comissões;
 
 I - quando convocado para prestar, pessoalmente, informações
@@ -6783,7 +6743,7 @@ que deva comparecer, com a indicação das informações pretendidas,
 importando crime de responsabilidade a ausência sem justificação
 adequada, aceita pela Casa ou pelo colegiado.
 
-###Art. 220. A Câmara reunir-se-á em Comissão Geral, sob a
+#### Art. 220. A Câmara reunir-se-á em Comissão Geral, sob a
 direção de seu Presidente, toda vez que perante o Plenário comparecer
 Ministro de Estado.
 
@@ -6811,7 +6771,7 @@ $ 4o Em qualquer hipótese, a presença de Ministro de Estado
 no Plenário não poderá ultrapassar o horário normal da sessão
 ordinária da Câmara.
 
-###Art. 221. Na hipótese de convocação, o Ministro encaminhará
+#### Art. 221. Na hipótese de convocação, o Ministro encaminhará
 ao Presidente da Câmara ou da Comissão, até a sessão da véspera da
 sua presença na Casa, sumário da matéria de que virá tratar, para
 distribuição aos Deputados.
@@ -6835,7 +6795,7 @@ minutos, improrrogáveis.
 $ 5o É lícito aos Líderes, após o término dos debates, usar da
 palavra por cinco minutos, sem apartes.
 
-###Art. 222. No caso do comparecimento espontâneo ao
+#### Art. 222. No caso do comparecimento espontâneo ao
 Plenário, o Ministro de Estado usará da palavra ao início do Grande
 Expediente, se para expor assuntos da sua Pasta, de interesse da Casa
 e do País, ou da Ordem do Dia, se para falar de proposição legislativa
@@ -6855,7 +6815,7 @@ mesmo tempo para a resposta.
 $ 3o Serão permitidas a réplica e tréplica, pelo prazo de três
 minutos, improrrogáveis.
 
-###Art. 223. Na eventualidade de não ser atendida convocação
+#### Art. 223. Na eventualidade de não ser atendida convocação
 feita de acordo com o art. 50, caput, da Constituição Federal, o
 Presidente da Câmara promoverá a instauração do procedimento legal
 cabível.
@@ -6865,7 +6825,7 @@ DA PARTICIPAÇÃO NA COMISSÃO
 REPRESENTATIVA DO CONGRESSO NACIONAL
 E NO CONSELHO DA REPÚBLICA
 
-###Art. 224. A Mesa conduzirá o processo eleitoral para a
+#### Art. 224. A Mesa conduzirá o processo eleitoral para a
 escolha, na última sessão ordinária do período legislativo anual, dos
 membros da Câmara dos Deputados que irão compor, durante o
 recesso, a Comissão Representativa do Congresso Nacional, de que
@@ -6889,7 +6849,7 @@ DOS DEPUTADOS
 ## CAPÍTULO I
 DO EXERCÍCIO DO MANDATO
 
-###Art. 226. O Deputado deve apresentar-se à Câmara durante a
+#### Art. 226. O Deputado deve apresentar-se à Câmara durante a
 sessão legislativa ordinária ou extraordinária, para participar das
 sessões do Plenário e das reuniões de Comissão de que seja membro,
 além das sessões conjuntas do Congresso Nacional, sendo-lhe
@@ -6916,7 +6876,7 @@ VI - realizar outros cometimentos inerentes ao exercício do
 mandato ou atender a obrigações político-partidárias decorrentes da
 representação.
 
-###Art. 227. O comparecimento efetivo do Deputado à Casa
+#### Art. 227. O comparecimento efetivo do Deputado à Casa
 será registrado diariamente, sob responsabilidade da Mesa e da
 presidência das Comissões, da seguinte forma;
 
@@ -6932,18 +6892,18 @@ sistema, pelas listas de presença em Plenário;
 III - nas Comissões, pelo controle da presença às suas
 reuniões.
 
-###Art. 228. Para afastar-se do território nacional, o Deputado
+#### Art. 228. Para afastar-se do território nacional, o Deputado
 deverá dar prévia ciência à Câmara, por intermédio da Presidência,
 indicando a natureza do afastamento e sua duração estimada.
 
-###Art. 229. O Deputado apresentará à Mesa, para efeito de
+#### Art. 229. O Deputado apresentará à Mesa, para efeito de
 posse e antes do término do mandato, declaração de bens e de suas
 fontes de renda, importando infração ao Código de Ética e Decoro
 Parlamentar a inobservância deste preceito.
 
 
 
-###Art. 230. O Deputado que se afastar do exercício do mandato
+#### Art. 230. O Deputado que se afastar do exercício do mandato
 para ser investido em cargo referido no inciso I do caput do art. 56 da
 Constituição Federal fará comunicação escrita à Casa, bem como ao
 reassumir o lugar.
@@ -6964,7 +6924,7 @@ $ 2 , o suplente em exercício participará normalmente dos debates e
 das votações.
 o
 
-###Art. 231. No exercício do mandato, o Deputado atenderá às
+#### Art. 231. No exercício do mandato, o Deputado atenderá às
 prescrições constitucionais e regimentais e às contidas no Código de
 
 
@@ -7038,12 +6998,12 @@ entidades a que se refere o inciso I, a;
 d) ser titular de mais de um cargo ou mandato público
 eletivo.
 
-###Art. 232. O Deputado que se desvincular de sua bancada
+#### Art. 232. O Deputado que se desvincular de sua bancada
 perde, para efeitos regimentais, o direito a cargos ou funções que
 ocupar em razão dela, exceto em relação aos cargos da Mesa,
 observado o disposto no § 4o do art. 26.
 
-###Art. 233. As imunidades constitucionais dos Deputados
+#### Art. 233. As imunidades constitucionais dos Deputados
 subsistirão durante o estado de sítio, só podendo ser suspensas
 mediante o voto de dois terços dos membros da Casa, em escrutínio
 secreto, restrita a suspensão aos atos praticados fora do recinto do
@@ -7062,7 +7022,7 @@ sentido da respectiva conclusão.
 $ 3o Na apreciação do pedido, serão observadas as disposições
 sobre a tramitação de matéria em regime de urgência.
 
-###Art. 234. Os ex-Deputados Federais, além de livre acesso ao
+#### Art. 234. Os ex-Deputados Federais, além de livre acesso ao
 Plenário, poderão utilizar-se dos seguintes serviços prestados na Casa,
 mediante prévia autorização do Presidente da Câmara para os de que
 tratam os incisos I e IV;
@@ -7082,7 +7042,7 @@ VI - assistência farmacêutica.
 ## CAPÍTULO II
 DA LICENÇA
 
-###Art. 235. O Deputado poderá obter licença para;
+#### Art. 235. O Deputado poderá obter licença para;
 
 I - desempenhar missão temporária de caráter diplomático ou
 cultural;
@@ -7127,7 +7087,7 @@ $ 6o O Deputado que se licenciar, com assunção de Suplente,
 não poderá reassumir o mandato antes de findo o prazo, superior a
 cento e vinte dias, da licença ou de suas prorrogações.
 
-###Art. 236. Ao Deputado que, por motivo de doença
+#### Art. 236. Ao Deputado que, por motivo de doença
 comprovada, se encontre impossibilitado de atender aos deveres
 decorrentes do exercício do mandato, será concedida licença para
 tratamento de saúde.
@@ -7137,7 +7097,7 @@ será necessário laudo de inspeção de saúde, firmado por três
 integrantes do corpo médico da Câmara, com a expressa indicação de
 que o paciente não pode continuar no exercício ativo de seu mandato.
 
-###Art. 237. Em caso de incapacidade civil absoluta, julgada
+#### Art. 237. Em caso de incapacidade civil absoluta, julgada
 por sentença de interdição ou comprovada mediante laudo médico
 passado por junta nomeada pela Mesa da Câmara, será o Deputado
 suspenso do exercício do mandato, sem perda da remuneração,
@@ -7156,7 +7116,7 @@ serviços da Câmara dos Deputados ou do Senado Federal.
 ## CAPÍTULO III
 DA VACÂNCIA
 
-###Art. 238. As vagas, na Câmara, verificar-se-ão em virtude de;
+#### Art. 238. As vagas, na Câmara, verificar-se-ão em virtude de;
 
 I - falecimento;
 
@@ -7164,7 +7124,7 @@ II - renúncia;
 
 III - perda de mandato.
 
-###Art. 239. A declaração de renúncia do Deputado ao mandato
+#### Art. 239. A declaração de renúncia do Deputado ao mandato
 deve ser dirigida por escrito à Mesa, e independe de aprovação da
 Câmara, mas somente se tornará efetiva e irretratável depois de lida no
 expediente e publicada no Diário da Câmara dos Deputados.
@@ -7180,7 +7140,7 @@ em exercício no prazo regimental.
 $ 2o A vacância, nos casos de renúncia, será declarada em
 sessão pelo Presidente.
 
-###Art. 240. Perde o mandato o Deputado;
+#### Art. 240. Perde o mandato o Deputado;
 
 I - que infringir qualquer das proibições constantes do art. 5
 
@@ -7245,7 +7205,7 @@ Parágrafo com nova redação dada pela Resolução no 25, de 2001.
 ## CAPÍTULO IV
 DA CONVOCAÇÃO DE SUPLENTE
 
-###Art. 241. A Mesa convocará, no prazo de quarenta e oito
+#### Art. 241. A Mesa convocará, no prazo de quarenta e oito
 horas, o Suplente de Deputado nos casos de;
 
 I - ocorrência de vaga;
@@ -7269,12 +7229,12 @@ o Suplente que, convocado, não assumir o mandato no período fixado
 no art. 4o , § 6o , III, perde o direito à suplência, sendo convocado o
 Suplente imediato.
 
-###Art. 242. Ocorrendo vaga mais de quinze meses antes do
+#### Art. 242. Ocorrendo vaga mais de quinze meses antes do
 término do mandato e não havendo Suplente, o Presidente comunicará
 o fato à Justiça Eleitoral para o efeito do art. 56, § 2o , da Constituição
 Federal.
 
-###Art. 243. O Suplente de Deputado, quando convocado em
+#### Art. 243. O Suplente de Deputado, quando convocado em
 caráter de substituição, não poderá ser escolhido para os cargos da
 Mesa ou de Suplente de Secretário, nem para Presidente ou
 Vice-Presidente de Comissão, ou integrar a Procuradoria Parlamentar.
@@ -7285,7 +7245,7 @@ DO DECORO PARLAMENTAR
 
 
 
-###Art. 244. O Deputado que praticar ato contrário ao decoro
+#### Art. 244. O Deputado que praticar ato contrário ao decoro
 parlamentar ou que afete a dignidade do mandato estará sujeito às
 penalidades e ao processo disciplinar previstos no Código de Ética e
 Decoro Parlamentar, que definirá também as condutas puníveis.
@@ -7299,12 +7259,12 @@ DA LICENÇA PARA INSTAURAÇÃO
 DE PROCESSO CRIMINAL
 CONTRA DEPUTADO
 
-###Art. 249. A solicitação do Presidente do Supremo Tribunal
+#### Art. 249. A solicitação do Presidente do Supremo Tribunal
 Federal para instaurar processo criminal contra Deputado será
 instruída com a cópia integral dos autos da ação penal originária ou do
 inquérito policial.
 
-###Art. 250. No caso de prisão em flagrante de crime
+#### Art. 250. No caso de prisão em flagrante de crime
 inafiançável, os autos serão remetidos à Casa dentro de vinte e quatro
 horas, sob pena de responsabilidade da autoridade que a presidir, cuja
 apuração será promovida de ofício pela Mesa.
@@ -7374,7 +7334,7 @@ DA PARTICIPAÇÃO DA SOCIEDADE CIVIL
 ## CAPÍTULO I
 DA INICIATIVA POPULAR DE LEI
 
-###Art. 252. A iniciativa popular pode ser exercida pela
+#### Art. 252. A iniciativa popular pode ser exercida pela
 apresentação à Câmara dos Deputados de projeto de lei subscrito por,
 no mínimo, um centésimo do eleitorado nacional, distribuído pelo
 menos por cinco Estados, com não menos de três milésimos dos
@@ -7432,7 +7392,7 @@ E OUTRAS FORMAS DE PARTICIPAÇÃO
 
 
 
-###Art. 253. As petições, reclamações, representações ou queixas
+#### Art. 253. As petições, reclamações, representações ou queixas
 apresentadas por pessoas físicas ou jurídicas contra atos ou omissões
 das autoridades ou entidades públicas, ou imputados a membros da
 Casa, serão recebidas e examinadas pela Ouvidoria Parlamentar, pelas
@@ -7450,7 +7410,7 @@ Deputados.
 
 
 
-###Art. 254. A participação da sociedade civil poderá, ainda,
+#### Art. 254. A participação da sociedade civil poderá, ainda,
 ser exercida mediante o oferecimento de sugestões de iniciativa
 legislativa, de pareceres técnicos, de exposições e propostas oriundas
 de entidades científicas e culturais e de qualquer das entidades
@@ -7477,7 +7437,7 @@ do respectivo mérito, ou à Ouvidoria, conforme o caso.
 ## CAPÍTULO III
 DA AUDIÊNCIA PÚBLICA
 
-###Art. 255. Cada Comissão poderá realizar reunião de
+#### Art. 255. Cada Comissão poderá realizar reunião de
 audiência pública com entidade da sociedade civil para instruir
 matéria legislativa em trâmite, bem como para tratar de assuntos de
 interesse público relevante, atinentes à sua área de atuação, mediante
@@ -7513,11 +7473,11 @@ de três minutos, tendo o interpelado igual tempo para responder,
 facultadas a réplica e a tréplica, pelo mesmo prazo, vedado ao orador
 interpelar qualquer dos presentes.
 
-###Art. 257. Não poderão ser convidados a depor em reunião de
+#### Art. 257. Não poderão ser convidados a depor em reunião de
 audiência pública os membros de representação diplomática
 estrangeira.
 
-###Art. 258. Da reunião de audiência pública lavrar-se-á ata,
+#### Art. 258. Da reunião de audiência pública lavrar-se-á ata,
 arquivando-se, no âmbito da Comissão, os pronunciamentos escritos e
 documentos que os acompanharem.
 
@@ -7529,7 +7489,7 @@ de peças ou fornecimento de cópias aos interessados.
 DO CREDENCIAMENTO DE
 ENTIDADES E DA IMPRENSA
 
-###Art. 259. Além dos Ministérios e entidades da administração
+#### Art. 259. Além dos Ministérios e entidades da administração
 federal indireta, poderão as entidades de classe de grau superior, de
 empregados e empregadores, autarquias profissionais e outras
 instituições de âmbito nacional da sociedade civil credenciar junto à
@@ -7552,7 +7512,7 @@ $ 3o Caberá ao Primeiro-Secretário expedir credenciais a fim
 de que os representantes indicados possam ter acesso às dependências
 da Câmara, excluídas as privativas dos Deputados.
 
-###Art. 260. Os órgãos de imprensa, do rádio e da televisão
+#### Art. 260. Os órgãos de imprensa, do rádio e da televisão
 poderão credenciar seus profissionais, inclusive correspondentes
 estrangeiros, perante a Mesa, para exercício das atividades
 jornalísticas, de informação e divulgação, pertinentes à Casa e a seus
@@ -7569,7 +7529,7 @@ credenciados pela Câmara poderão congregar-se em comitê, como seu
 $ 3o O Comitê de Imprensa reger-se-á por regulamento
 aprovado pela Mesa.
 
-###Art. 261. O credenciamento previsto nos artigos precedentes
+#### Art. 261. O credenciamento previsto nos artigos precedentes
 será exercido sem ônus ou vínculo trabalhista com a Câmara dos
 Deputados.
 
@@ -7579,7 +7539,7 @@ DA ADMINISTRAÇÃO E DA ECONOMIA INTERNA
 ## CAPÍTULO I
 DOS SERVIÇOS ADMINISTRATIVOS
 
-###Art. 262. Os serviços administrativos da Câmara reger-se-ão
+#### Art. 262. Os serviços administrativos da Câmara reger-se-ão
 por regulamentos especiais, aprovados pelo Plenário, considerados
 partes integrantes deste Regimento, e serão dirigidos pela Mesa, que
 expedirá as normas ou instruções complementares necessárias.
@@ -7627,11 +7587,11 @@ Constituição Federal, bem como às Comissões Permanentes,
 Parlamentares de Inquérito ou Especiais da Casa, relacionada ao
 âmbito de atuação destas.
 
-###Art. 263. Nenhuma proposição que modifique os serviços
+#### Art. 263. Nenhuma proposição que modifique os serviços
 administrativos da Câmara poderá ser submetida à deliberação do
 Plenário sem parecer da Mesa.
 
-###Art. 264. As reclamações sobre irregularidades nos serviços
+#### Art. 264. As reclamações sobre irregularidades nos serviços
 administrativos deverão ser encaminhadas à Mesa, para providência
 dentro de setenta e duas horas. Decorrido esse prazo, poderão ser
 levadas ao Plenário.
@@ -7641,7 +7601,7 @@ DA ADMINISTRAÇÃO E FISCALIZAÇÃO
 CONTÁBIL, ORÇAMENTÁRIA, FINANCEIRA,
 OPERACIONAL E PATRIMONIAL
 
-###Art. 265. A administração contábil, orçamentária, financeira,
+#### Art. 265. A administração contábil, orçamentária, financeira,
 operacional e patrimonial e o sistema de controle interno serão
 coordenados e executados por órgãos próprios, integrantes da
 estrutura dos serviços administrativos da Casa.
@@ -7671,7 +7631,7 @@ normas gerais de Direito Financeiro e sobre licitações e contratos
 administrativos, em vigor para os três Poderes, e à legislação interna
 aplicável.
 
-###Art. 266. O patrimônio da Câmara é constituído de bens
+#### Art. 266. O patrimônio da Câmara é constituído de bens
 móveis e imóveis da União, que adquirir ou forem colocados à sua
 disposição.
 
@@ -7682,7 +7642,7 @@ mandato e será objeto de contrato-padrão aprovado pela Mesa.
 ## CAPÍTULO III
 DA POLÍCIA DA CÂMARA
 
-###Art. 267. A Mesa fará manter a ordem e a disciplina nos
+#### Art. 267. A Mesa fará manter a ordem e a disciplina nos
 edifícios da Câmara e suas adjacências.
 
 Parágrafo único. A Mesa designará, logo depois de eleita,
@@ -7695,7 +7655,7 @@ Câmara ou de Comissão conhecerá do fato e promoverá a abertura de
 sindicância ou inquérito destinado a apurar responsabilidades e propor
 as sanções cabíveis.
 
-###Art. 269. Quando, nos edifícios da Câmara, for cometido
+#### Art. 269. Quando, nos edifícios da Câmara, for cometido
 algum delito, instaurar-se-á inquérito a ser presidido pelo diretor de
 serviços de segurança ou, se o indiciado ou o preso for membro da
 Casa, pelo Corregedor ou Corregedor substituto.
@@ -7720,7 +7680,7 @@ respectivo à autoridade judicial competente, ou, no caso de
 parlamentar, ao Presidente da Câmara, atendendo-se, nesta hipótese,
 ao prescrito nos arts. 250 e 251.
 
-###Art. 270. O policiamento dos edifícios da Câmara e de suas
+#### Art. 270. O policiamento dos edifícios da Câmara e de suas
 dependências externas, inclusive de blocos residenciais funcionais
 para Deputados, compete, privativamente, à Mesa, sob a suprema
 direção do Presidente, sem intervenção de qualquer outro Poder.
@@ -7739,7 +7699,7 @@ Parágrafo único. Incumbe ao Corregedor, ou Corregedor
 substituto, supervisionar a proibição do porte de arma, com poderes
 para mandar revistar e desarmar.
 
-###Art. 272. Será permitido a qualquer pessoa, convenientemente
+#### Art. 272. Será permitido a qualquer pessoa, convenientemente
 trajada e portando crachá de identificação, ingressar e permanecer no
 edifício principal da Câmara e seus anexos durante o expediente e
 assistir das galerias às sessões do Plenário e às reuniões das
@@ -7751,14 +7711,14 @@ Câmara ou de Comissão, bem como qualquer pessoa que perturbar a
 ordem em recinto da Casa, serão compelidos a sair, imediatamente,
 dos edifícios da Câmara.
 
-###Art. 273. É proibido o exercício de comércio nas
+#### Art. 273. É proibido o exercício de comércio nas
 dependências da Câmara, salvo em caso de expressa autorização da
 Mesa.
 
 ## CAPÍTULO IV
 DA DELEGAÇÃO DE COMPETÊNCIA
 
-###Art. 274. A delegação de competência será utilizada como
+#### Art. 274. A delegação de competência será utilizada como
 instrumento de descentralização administrativa, visando a assegurar
 maior rapidez e objetividade às decisões, e situá-las na proximidade
 dos fatos, pessoas ou problemas a atender.
@@ -7775,7 +7735,7 @@ delegante, a autoridade delegada e as atribuições objeto da delegação.
 ## CAPÍTULO V
 DO SISTEMA DE CONSULTORIA E ASSESSORAMENTO
 
-###Art. 275. O sistema de consultoria e assessoramento
+#### Art. 275. O sistema de consultoria e assessoramento
 institucional unificado da Câmara dos Deputados compreende, além
 do Conselho de Altos Estudos e Avaliação Tecnológica, a Consultoria
 Legislativa, com seus integrantes e respectivas atividades de
@@ -7788,7 +7748,7 @@ Parágrafo único. O Conselho de Altos Estudos e Avaliação
 Tecnológica e a Consultoria Legislativa terão suas estruturas,
 interação, atribuições e funcionamento regulados por resolução própria.
 
-###Art. 276. O Conselho de Altos Estudos e Avaliação
+#### Art. 276. O Conselho de Altos Estudos e Avaliação
 Tecnológica, órgão técnico-consultivo diretamente jurisdicionado à
 Mesa, terá por incumbência;
 
@@ -7873,7 +7833,7 @@ mediante prévia autorização da Mesa, convênios ou contratos.
 
 
 
-###Art. 278. A Consultoria Legislativa organizar-se-á sob forma
+#### Art. 278. A Consultoria Legislativa organizar-se-á sob forma
 de núcleos temáticos de consultoria e assessoramento, integrados por
 quatro Consultores Legislativos, pelo menos, sendo estes admitidos
 mediante concurso público de provas e títulos.
@@ -7904,12 +7864,12 @@ Caput com redação adaptada aos termos do art. 15 da Resolução no 28, de 1998
 # TÍTULO X
 DAS DISPOSIÇÕES FINAIS
 
-###Art. 279. A Mesa, na designação da legislatura pelo
+#### Art. 279. A Mesa, na designação da legislatura pelo
 respectivo número de ordem, tomará por base a que se iniciou em
 , de modo a ser mantida a continuidade histórica da instituição
 parlamentar do Brasil.
 
-###Art. 280. Salvo disposição em contrário, os prazos assinalados
+#### Art. 280. Salvo disposição em contrário, os prazos assinalados
 em dias ou sessões neste Regimento computar-se-ão, respectivamente,
 como dias corridos ou por sessões ordinárias da Câmara efetivamente
 realizadas;
@@ -7926,11 +7886,11 @@ fato ou se praticar o ato.
 $ 2o Os prazos, salvo disposição em contrário, ficarão
 suspensos durante os períodos de recesso do Congresso Nacional.
 
-###Art. 281. Os atos ou providências, cujos prazos se achem em
+#### Art. 281. Os atos ou providências, cujos prazos se achem em
 fluência, devem ser praticados durante o período de expediente normal
 da Câmara ou das suas sessões ordinárias, conforme o caso.
 
-###Art. 282. É vedado dar denominação de pessoas vivas a
+#### Art. 282. É vedado dar denominação de pessoas vivas a
 qualquer das dependências ou edifícios da Câmara dos Deputados.
 
 
@@ -7948,14 +7908,14 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O Código de Ética e Decoro Parlamentar da Câmara
+#### Art. 1o O Código de Ética e Decoro Parlamentar da Câmara
 dos Deputados é instituído na conformidade do texto anexo.
 
 Parágrafo único. As normas estabelecidas no Código de Ética
 e Decoro Parlamentar complementam o Regimento Interno e dele
 passam a fazer parte integrante.
 
-###Art. 2o O § 3o do art. 240 e o art. 244 do Regimento Interno
+#### Art. 2o O § 3o do art. 240 e o art. 244 do Regimento Interno
 passam a vigorar com a seguinte redação;
 
 “Art. 240. ...............................................................................
@@ -7972,7 +7932,7 @@ sujeito às penalidades e ao processo disciplinar previstos no
 Código de Ética e Decoro Parlamentar, que definirá também as
 condutas puníveis.” (NR)
 
-###Art. 3o Revogam-se os artigos 245 a 248 do Regimento
+#### Art. 3o Revogam-se os artigos 245 a 248 do Regimento
 Interno da Câmara.
 
 
@@ -7987,7 +7947,7 @@ DA CÂMARA DOS DEPUTADOS
 ## CAPÍTULO I
 DISPOSIÇÕES PRELIMINARES
 
-###Art. 1o Este Código estabelece os princípios éticos e as
+#### Art. 1o Este Código estabelece os princípios éticos e as
 regras básicas de decoro que devem orientar a conduta dos que
 estejam no exercício do cargo de Deputado Federal.
 
@@ -7995,7 +7955,7 @@ Parágrafo único. Regem-se também por este Código o
 procedimento disciplinar e as penalidades aplicáveis no caso de
 descumprimento das normas relativas ao decoro parlamentar.
 
-###Art. 2o As imunidades, prerrogativas e franquias asseguradas
+#### Art. 2o As imunidades, prerrogativas e franquias asseguradas
 pela Constituição, pelas leis e pelo Regimento Interno aos Deputados
 são institutos destinados à garantia do exercício do mandato popular e
 à defesa do Poder Legislativo.
@@ -8003,7 +7963,7 @@ são institutos destinados à garantia do exercício do mandato popular e
 ## CAPÍTULO II
 DOS DEVERES FUNDAMENTAIS
 
-###Art. 3o São deveres fundamentais do Deputado;
+#### Art. 3o São deveres fundamentais do Deputado;
 
 I - promover a defesa do interesse público e da soberania
 nacional;
@@ -8040,7 +8000,7 @@ IX - respeitar as decisões legítimas dos órgãos da Casa.
 DOS ATOS INCOMPATÍVEIS
 COM O DECORO PARLAMENTAR
 
-###Art. 4o Constituem procedimentos incompatíveis com o
+#### Art. 4o Constituem procedimentos incompatíveis com o
 decoro parlamentar, puníveis com a perda do mandato;
 
 I - abusar das prerrogativas constitucionais asseguradas aos
@@ -8065,7 +8025,7 @@ trata o art. 18.
 DOS ATOS ATENTATÓRIOS
 AO DECORO PARLAMENTAR
 
-###Art. 5o Atentam, ainda, contra o decoro parlamentar as
+#### Art. 5o Atentam, ainda, contra o decoro parlamentar as
 seguintes condutas, puníveis na forma deste Código;
 
 I - perturbar a ordem das sessões da Câmara ou das reuniões
@@ -8102,7 +8062,7 @@ presença às sessões, ou às reuniões de Comissão.
 Parágrafo único. As condutas puníveis neste artigo só serão
 objeto de apreciação mediante provas.
 
-###Art. 6o Ao Conselho de Ética e Decoro Parlamentar compete;
+#### Art. 6o Ao Conselho de Ética e Decoro Parlamentar compete;
 
 I - zelar pela observância dos preceitos deste Código, atuando
 no sentido da preservação da dignidade do mandato parlamentar na
@@ -8120,7 +8080,7 @@ Deputados sobre matérias de sua competência;
 V - organizar e manter o Sistema de Acompanhamento e
 Informações do Mandato Parlamentar, nos termos do art. 17.
 
-###Art. 7o O Conselho de Ética e Decoro Parlamentar compõe-se
+#### Art. 7o O Conselho de Ética e Decoro Parlamentar compõe-se
 de quinze membros titulares e igual número de suplentes com mandato
 de dois anos.
 
@@ -8151,7 +8111,7 @@ constitui causa para seu imediato afastamento da função, a ser
 aplicado de ofício por seu Presidente, devendo perdurar até decisão
 final sobre o caso.
 
-###Art. 8o O Conselho de Ética e Decoro Parlamentar aprovará
+#### Art. 8o O Conselho de Ética e Decoro Parlamentar aprovará
 regulamento específico para disciplinar o funcionamento e a
 organização de seus trabalhos.
 
@@ -8164,7 +8124,7 @@ $ 2o Aprovado o regulamento previsto no caput deste artigo,
 observar-se-ão, subsidiariamente, no que couber, as disposições
 regimentais aplicáveis às Comissões.
 
-###Art. 9o O Corregedor da Câmara participará das deliberações
+#### Art. 9o O Corregedor da Câmara participará das deliberações
 do Conselho de Ética e Decoro Parlamentar, com direito a voz e voto,
 competindo-lhe promover as diligências de sua alçada necessárias aos
 esclarecimentos dos fatos investigados.
@@ -8173,7 +8133,7 @@ esclarecimentos dos fatos investigados.
 DAS PENALIDADES APLICÁVEIS
 E DO PROCESSO DISCIPLINAR
 
-###Art. 10. São as seguintes as penalidades aplicáveis por
+#### Art. 10. São as seguintes as penalidades aplicáveis por
 conduta atentatória ou incompatível com o decoro parlamentar;
 
 I - censura, verbal ou escrita;
@@ -8189,19 +8149,19 @@ consideradas a natureza e a gravidade da infração cometida, os danos
 que dela provierem para a Câmara dos Deputados, as circunstâncias
 agravantes ou atenuantes e os antecedentes do infrator.
 
-###Art. 11. A censura verbal será aplicada, pelo Presidente da
+#### Art. 11. A censura verbal será aplicada, pelo Presidente da
 Câmara, em sessão, ou de Comissão, durante suas reuniões, ao
 Deputado que incidir nas condutas descritas nos incisos I e II do art. 5o .
 
 Parágrafo único. Contra a aplicação da penalidade prevista
 neste artigo poderá o Deputado recorrer ao respectivo Plenário.
 
-###Art. 12. A censura escrita será aplicada pela Mesa, por
+#### Art. 12. A censura escrita será aplicada pela Mesa, por
 provocação do ofendido, nos casos de incidência na conduta do inciso
 III do art. 5o , ou, por solicitação do Presidente da Câmara ou de
 Comissão, nos casos de reincidência nas condutas referidas no art. 11.
 
-###Art. 13. A suspensão de prerrogativas regimentais será
+#### Art. 13. A suspensão de prerrogativas regimentais será
 aplicada pelo Plenário da Câmara dos Deputados, por proposta do
 Conselho de Ética e Decoro Parlamentar, ao Deputado que incidir nas
 vedações dos incisos VI a VIII do art. 5o , observado o seguinte;
@@ -8250,7 +8210,7 @@ infração cometida;
 VII - em qualquer caso, a suspensão não poderá estender-se
 por mais de seis meses.
 
-###Art. 14. A aplicação das penalidades de suspensão temporária
+#### Art. 14. A aplicação das penalidades de suspensão temporária
 do exercício do mandato, de no máximo trinta dias, e de perda do
 mandato são de competência do Plenário da Câmara dos Deputados,
 que deliberará em escrutínio secreto e por maioria absoluta de seus
@@ -8320,7 +8280,7 @@ interposição de recurso nos termos do inciso VIII, o processo será
 encaminhado à Mesa e, uma vez lido no expediente, publicado e
 distribuído em avulsos para inclusão na Ordem do Dia.
 
-###Art. 15. É facultado ao Deputado, em qualquer caso,
+#### Art. 15. É facultado ao Deputado, em qualquer caso,
 constituir advogado para sua defesa, ou fazê-la pessoalmente, em
 todas as fases do processo, inclusive no Plenário da Câmara dos
 Deputados.
@@ -8332,7 +8292,7 @@ encaminhados à Procuradoria Parlamentar, para que tome as
 providências reparadoras de sua alçada, nos termos do art. 21 do
 Regimento Interno.
 
-###Art. 16. Os processos instaurados pelo Conselho de Ética e
+#### Art. 16. Os processos instaurados pelo Conselho de Ética e
 Decoro Parlamentar não poderão exceder o prazo de sessenta dias para
 sua deliberação pelo Plenário, nos casos das penalidades previstas nos
 incisos I, II e III do art. 10.
@@ -8350,7 +8310,7 @@ exceto as previstas no art. 64 da Constituição Federal.
 DO SISTEMA DE ACOMPANHAMENTO
 E INFORMAÇÕES DO MANDATO PARLAMENTAR
 
-###Art. 17. O Conselho de Ética e Decoro Parlamentar deverá
+#### Art. 17. O Conselho de Ética e Decoro Parlamentar deverá
 organizar e manter o Sistema de Acompanhamento e Informações do
 Mandato Parlamentar, mediante a criação de arquivo individual para
 cada Deputado, onde constem os dados referentes;
@@ -8400,7 +8360,7 @@ secretaria do Conselho de Ética e Decoro Parlamentar.
 ## CAPÍTULO VII
 DAS DECLARAÇÕES OBRIGATÓRIAS
 
-###Art. 18. O Deputado apresentará à Mesa ou, no caso do
+#### Art. 18. O Deputado apresentará à Mesa ou, no caso do
 inciso III deste artigo, quando couber, à Comissão, as seguintes
 declarações;
 
@@ -8444,7 +8404,7 @@ VIII, da Lei no 8.112, de 1990.
 ## CAPÍTULO VIII
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-###Art. 19. Aprovado este Código, a Mesa organizará a
+#### Art. 19. Aprovado este Código, a Mesa organizará a
 distribuição das vagas do Conselho de Ética e Decoro Parlamentar
 entre os Partidos e Blocos Parlamentares com assento na Casa, e
 convocará as Lideranças a indicarem os Deputados das respectivas
@@ -8454,7 +8414,7 @@ Parágrafo único. Os mandatos dos membros indicados na
 forma deste artigo estender-se-ão, excepcionalmente, até o início da
 sessão legislativa seguinte.
 
-###Art. 20. Os projetos de resolução destinados a alterar o
+#### Art. 20. Os projetos de resolução destinados a alterar o
 presente Código obedecerão às normas de tramitação do art. 216 do
 Regimento Interno.
 RESOLUÇÕES QUE ALTERAM
@@ -8472,7 +8432,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o Dê-se ao § 1o do art. 9o e ao § 2o do art. 26 do
+#### Art. 1o Dê-se ao § 1o do art. 9o e ao § 2o do art. 26 do
 Regimento Interno da Câmara dos Deputados a seguinte redação;
 
 “Art. 9o ...................................................................................
@@ -8489,10 +8449,10 @@ titular, de mais de uma Comissão Permanente, ressalvada a
 Comissão de Defesa Nacional.
 ................................................................................................”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 
-###Art. 3o Revogam-se as disposições em contrário.
+#### Art. 3o Revogam-se as disposições em contrário.
 Câmara dos Deputados, 19 de março de 1991. – Ibsen
 Pinheiro, Presidente.
 
@@ -8510,7 +8470,7 @@ atribuições que lhe confere o art. 17, inciso VI, alínea m, do
 Regimento Interno, promulga a seguinte Resolução;
 
 
-###Art. 1o O art. 66 do Regimento Interno da Câmara dos
+#### Art. 1o O art. 66 do Regimento Interno da Câmara dos
 Deputados passa a ter a seguinte redação, renumerados seus §§ 2o e 3o
 para §§ 4o e 5o ;
 
@@ -8557,7 +8517,7 @@ membros de suas bancadas o tempo relativo às Comunicações de
 Lideranças.
 ................................................................................................”
 
-###Art. 2o O parágrafo único do art. 68 do Regimento Interno
+#### Art. 2o O parágrafo único do art. 68 do Regimento Interno
 da Câmara dos Deputados passa a vigorar com a seguinte redação;
 
 “Parágrafo único. As demais homenagens serão prestadas
@@ -8568,7 +8528,7 @@ Poderes da República ou Chefe de Estado estrangeiro, com o qual
 o Brasil mantenha relações diplomáticas, as homenagens poderão
 ser prestadas no Grande Expediente.”
 
-###Art. 3o Os arts. 85, 86, 87, 88 e 89 do Regimento Interno da
+#### Art. 3o Os arts. 85, 86, 87, 88 e 89 do Regimento Interno da
 Câmara dos Deputados passam a se constituir nos seus arts. 82, 83, 84,
  e 86, com o caput do art. 85 e seu § 2o , numerado como § 4o ,
 renumerados os demais, redigidos da seguinte forma;
@@ -8576,7 +8536,7 @@ renumerados os demais, redigidos da seguinte forma;
 “Seção II
 Da Ordem do Dia
 
-###Art. 82. Às dez ou às quinze horas, conforme o caso,
+#### Art. 82. Às dez ou às quinze horas, conforme o caso,
 passar-se-á a tratar da matéria destinada à Ordem do Dia, sendo
 previamente verificado o número de Deputados presentes no
 recinto do Plenário, através do sistema eletrônico, para o mesmo
@@ -8589,7 +8549,7 @@ minutos para apresentação de proposições, que se resumirá à
 leitura de sua ementa.
 ................................................................................................”
 
-###Art. 4o Os arts. 82 e 83 do Regimento Interno da Câmara dos
+#### Art. 4o Os arts. 82 e 83 do Regimento Interno da Câmara dos
 Deputados passam a se constituir nos seus arts. 87 e 88, com o art. 8
 
 redigido na forma seguinte;
@@ -8597,7 +8557,7 @@ redigido na forma seguinte;
 “Seção III
 Do Grande Expediente
 
-###Art. 87. Encerrada a Ordem do Dia, será concedida a
+#### Art. 87. Encerrada a Ordem do Dia, será concedida a
 palavra aos Deputados inscritos para o Grande Expediente, pelo
 prazo máximo de vinte e cinco minutos para cada orador, incluídos
 neste tempo os apartes.
@@ -8607,14 +8567,14 @@ Expediente será organizada mediante sorteio, competindo à Mesa
 disciplinar, em ato próprio, a forma do mesmo e o momento do uso
 da palavra pelos sorteados.”
 
-###Art. 5o O art. 84 do Regimento Interno da Câmara dos
+#### Art. 5o O art. 84 do Regimento Interno da Câmara dos
 Deputados passa a se constituir no seu art. 89 com a seguinte redação;
 
 “Seção IV
 Das Comunicações de Lideranças
 o
 
-###Art. 89. As Comunicações de Lideranças previstas no § 
+#### Art. 89. As Comunicações de Lideranças previstas no § 
 
 do art. 66 deste Regimento destinam-se aos Líderes que queiram
 fazer uso da palavra, por período de tempo proporcional ao número
@@ -8627,7 +8587,7 @@ Parágrafo único. É facultado aos Líderes a cessão, entre si,
 do tempo, total ou parcial, que lhes for atribuído na forma deste
 artigo.”
 
-###Art. 6o O caput do art. 90 do Regimento Interno da Câmara
+#### Art. 6o O caput do art. 90 do Regimento Interno da Câmara
 dos Deputados passa a vigorar com a seguinte redação;
 
 “Art. 90. Se esgotado o Grande Expediente antes das
@@ -8636,10 +8596,10 @@ Presidente concederá a palavra aos oradores indicados pelos
 Líderes para Comunicações Parlamentares.
 ................................................................................................”
 
-###Art. 7o Esta Resolução entra em vigor na data de sua
+#### Art. 7o Esta Resolução entra em vigor na data de sua
 promulgação.
 
-###Art. 8o Revogam-se as disposições em contrário.
+#### Art. 8o Revogam-se as disposições em contrário.
 Câmara dos Deputados, 8 de maio de 1991. – Ibsen Pinheiro,
 Presidente.
 
@@ -8652,7 +8612,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O Regimento Interno da Câmara dos Deputados,
+#### Art. 1o O Regimento Interno da Câmara dos Deputados,
 o
 aprovado pela Resolução n
 , de 21 de setembro de 1989, passa a
@@ -8846,14 +8806,14 @@ do turno em que se achar a matéria.”
 II - são revogados os §§ 1o a 4o do art. 54 e o inciso II do art.
 , renumerando-se o atual inciso III.
 
-###Art. 2o Esta Resolução aplica-se às proposições em trâmite,
+#### Art. 2o Esta Resolução aplica-se às proposições em trâmite,
 salvo aquelas que já tenham sido apreciadas pela Comissão de
 Constituição e Justiça e de Redação.
 
-###Art. 3o Esta Resolução entra em vigor na data de sua
+#### Art. 3o Esta Resolução entra em vigor na data de sua
 publicação.
 
-###Art. 4o Revogam-se as disposições em contrário.
+#### Art. 4o Revogam-se as disposições em contrário.
 Câmara dos Deputados, 3 de outubro de 1991. – Ibsen
 Pinheiro, Presidente.
 
@@ -8868,7 +8828,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o Os arts. 187, 188, 217 e 218 do Regimento Interno
+#### Art. 1o Os arts. 187, 188, 217 e 218 do Regimento Interno
 passam a ter a seguinte redação;
 
 “Art. 187. ................................................................................
@@ -8991,7 +8951,7 @@ denunciado se obtidos dois terços dos votos dos membros da Casa,
 comunicada a decisão ao Presidente do Senado Federal dentro de
 duas sessões.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 18 de novembro de 1992. – Ibsen
 Pinheiro, Presidente.
@@ -9005,7 +8965,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O inciso V do art. 32 do Regimento Interno,
+#### Art. 1o O inciso V do art. 32 do Regimento Interno,
 aprovado pela Resolução no 17, de 1989, passa a vigorar com as
 seguintes alterações;
 
@@ -9029,7 +8989,7 @@ II - acréscimo da seguinte alínea;
 “g) tratados, acordos e convênios internacionais relativos ao
 seu campo temático.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 22 de dezembro de 1992. – Ibsen
 Pinheiro, Presidente.
@@ -9046,7 +9006,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O Regimento Interno da Câmara dos Deputados,
+#### Art. 1o O Regimento Interno da Câmara dos Deputados,
 o
 aprovado pela Resolução n
 , de 21 de setembro de 1989, passa a
@@ -9140,10 +9100,10 @@ h) migrações internas;
 
 ................................................................................................”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 
-###Art. 3o Revogam-se as disposições em contrário.
+#### Art. 3o Revogam-se as disposições em contrário.
 Câmara dos Deputados, 3 de março de 1993. – Inocêncio
 Oliveira, Presidente.
 
@@ -9156,7 +9116,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O § 2o do art. 25 do Regimento Interno, aprovado
+#### Art. 1o O § 2o do art. 25 do Regimento Interno, aprovado
 pela Resolução no 17, de 1989, passa a vigorar com a seguinte
 redação;
 
@@ -9169,7 +9129,7 @@ menos de cinco centésimos do total de Deputados, desprezando-se
 a fração.
 ................................................................................................”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 16 de março de 1993. – Inocêncio
 Oliveira, Presidente.
@@ -9186,7 +9146,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 11 do Regimento Interno, aprovado pela
+#### Art. 1o O art. 11 do Regimento Interno, aprovado pela
 Resolução no 17, de 1989, passa a vigorar com a seguinte redação;
 
 “Art. 11. O Presidente da República poderá indicar
@@ -9194,7 +9154,7 @@ Deputados para exercerem a liderança do Governo, composta de
 Líder e cinco Vice-Líderes, com as prerrogativas constantes dos
 incisos I, III e IV do art. 10.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 24 de março de 1993. – Inocêncio
 Oliveira, Presidente.
@@ -9211,11 +9171,11 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o São revogados o inciso III do § 2o do art. 48 e o
+#### Art. 1o São revogados o inciso III do § 2o do art. 48 e o
 inciso IV do parágrafo único do art. 92, ambos do Regimento Interno
 da Câmara dos Deputados, aprovado pela Resolução no 17, de 1989.
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 2 de fevereiro de 1994. – Inocêncio
 Oliveira, Presidente.
@@ -9232,7 +9192,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o Os arts. 24 e 52 do Regimento Interno, aprovados
+#### Art. 1o Os arts. 24 e 52 do Regimento Interno, aprovados
 o
 pela Resolução n
 , de 1989, passam a vigorar com as seguintes
@@ -9289,31 +9249,19 @@ parágrafos anteriores, desde que publicada e distribuída em avulsos
 ou cópias. Não havendo parecer, o Presidente designará Relator para
 proferi-lo oralmente no curso da reunião ou até a reunião seguinte.
 
-$ 6o Sem prejuízo do disposto nos §§ 4o e 5o , esgotados os
-prazos previstos neste artigo, o Presidente da Câmara poderá, de
-ofício ou a requerimento de qualquer Deputado, determinar o envio
-de proposição pendente de parecer à Comissão seguinte ou ao
-Plenário, conforme o caso, independentemente de interposição do
-recurso previsto no art. 132, § 2o , para as referidas no art. 24, inciso
-II.”
+$ 6o Sem prejuízo do disposto nos §§ 4o e 5o , esgotados os prazos previstos neste artigo, o Presidente da Câmara poderá, de ofício ou a requerimento de qualquer Deputado, determinar o envio de proposição pendente de parecer à Comissão seguinte ou ao Plenário, conforme o caso, independentemente de interposição do recurso previsto no art. 132, § 2o , para as referidas no art. 24, inciso II.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
-publicação.
-Câmara dos Deputados, 24 de fevereiro de 1994. – Inocêncio
-Oliveira, Presidente.
+#### Art. 2o Esta Resolução entra em vigor na data de sua publicação.
+
+*Câmara dos Deputados, 24 de fevereiro de 1994. – Inocêncio Oliveira, Presidente.*
 
 
 ## RESOLUÇÃO No 1, DE 1995 10
 
-Altera os arts. 66, 82, 87 e 227 do
-Regimento Interno.
-Faço saber que a Câmara dos Deputados aprovou e eu
-promulgo a seguinte Resolução;
+Altera os arts. 66, 82, 87 e 227 do Regimento Interno.
+Faço saber que a Câmara dos Deputados aprovou e eu promulgo a seguinte Resolução;
 
-
-###Art. 1o Os arts. 66, 82, 87 e 227 do Regimento Interno,
-aprovado pela Resolução no 17, de 1989, passam a vigorar com as
-seguintes alterações;
+#### Art. 1o Os arts. 66, 82, 87 e 227 do Regimento Interno, aprovado pela Resolução no 17, de 1989, passam a vigorar com as seguintes alterações;
 
 I - nova redação aos incisos II e III do caput do art. 66;
 
@@ -9370,7 +9318,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 32 do Regimento Interno, aprovado pela
+#### Art. 1o O art. 32 do Regimento Interno, aprovado pela
 Resolução no 17, de 1989, passa a vigorar com as seguintes alterações;
 
 I - acréscimo do seguinte inciso, renumerados os demais;
@@ -9420,7 +9368,7 @@ prejuízo da competência da Comissão Mista Permanente a que se
 refere o art. 166, § 1o , da Constituição Federal, e da Comissão de
 Fiscalização e Controle.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 19 de janeiro de 1995. – Inocêncio
 Oliveira, Presidente.
@@ -9434,14 +9382,14 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O § 1o do art. 9o do Regimento Interno da Câmara
+#### Art. 1o O § 1o do art. 9o do Regimento Interno da Câmara
 dos Deputados passa a vigorar com a seguinte redação;
 
 “§ 1o Cada Líder poderá indicar Vice-Líderes, na proporção de
 um por quatro Deputados, ou fração, que constituam sua representação,
 facultada a designação de um como Primeiro-Vice-Líder.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 19 de janeiro de 1995. – Inocêncio
 Oliveira, Presidente.
@@ -9462,7 +9410,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O § 2o do art. 26 do Regimento Interno, aprovado
+#### Art. 1o O § 2o do art. 26 do Regimento Interno, aprovado
 pela Resolução no 17, de 1989, passa a vigorar com a seguinte
 redação;
 
@@ -9470,7 +9418,7 @@ redação;
 titular, de mais de uma Comissão Permanente, ressalvadas as
 Comissões de Defesa Nacional e de Direitos Humanos.”
 
-###Art. 2o O art. 32 do Regimento Interno, aprovado pela
+#### Art. 2o O art. 32 do Regimento Interno, aprovado pela
 Resolução no 17, de 1989, passa a vigorar acrescido do seguinte
 inciso;
 
@@ -9499,7 +9447,7 @@ Publicada no Suplemento ao Diário do Congresso Nacional-I de 1o -2-1995, p. 3.
 Art. 3o A comissão criada por esta Resolução será instalada
 a partir da primeira sessão legislativa ordinária da 50a Legislatura.
 
-###Art. 4o Esta Resolução entra em vigor na data de sua
+#### Art. 4o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 31 de janeiro de 1995. – Inocêncio
 Oliveira, Presidente.
@@ -9513,7 +9461,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O Regimento Interno da Câmara dos Deputados,
+#### Art. 1o O Regimento Interno da Câmara dos Deputados,
 aprovado pela Resolução no 17, de 1989, passa a vigorar com as
 seguintes alterações;
 
@@ -9582,7 +9530,7 @@ IX - destaque, nos termos do art. 161;
 IV - revogação do inciso VII do art. 114, renumerados os
 demais.
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 26 de junho de 1996. – Luís
 Eduardo, Presidente.
@@ -9597,7 +9545,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O caput do art. 68 do Regimento Interno passa a
+#### Art. 1o O caput do art. 68 do Regimento Interno passa a
 vigorar acrescido dos seguintes incisos;
 
 “Art. 68. ..................................................................................
@@ -9628,10 +9576,10 @@ III - esgotado o prazo previsto neste parágrafo, a sessão será
 levantada, facultado aos inscritos o direito à publicação e
 divulgação de seus pronunciamentos.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 
-###Art. 3o Revogam-se as disposições em contrário.
+#### Art. 3o Revogam-se as disposições em contrário.
 Câmara dos Deputados, 9 de outubro de 1996. – Luís
 Eduardo, Presidente.
 
@@ -9647,7 +9595,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O § 2o do art. 26 e os incisos V e XI do art. 32,
+#### Art. 1o O § 2o do art. 26 e os incisos V e XI do art. 32,
 renumerado pela Resolução no 77, de 1995, do Regimento Interno,
 passam a vigorar com a seguinte redação;
 
@@ -9748,7 +9696,7 @@ m) outros assuntos pertinentes ao seu campo temático;
 
 ................................................................................................”
 
-###Art. 2o Esta Resolução entra em vigor em 15 de fevereiro de
+#### Art. 2o Esta Resolução entra em vigor em 15 de fevereiro de
 .
 Câmara dos Deputados, 11 de dezembro de 1996. – Luís
 Eduardo, Presidente.
@@ -9764,7 +9712,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O Regimento Interno da Câmara dos Deputados,
+#### Art. 1o O Regimento Interno da Câmara dos Deputados,
 aprovado pela Resolução no 17, de 1989, passa a vigorar com as
 seguintes alterações;
 
@@ -9798,7 +9746,7 @@ Publicada no Diário da Câmara dos Deputados de 29-1-1999, p. 4401.
 ## CAPÍTULO III-A
 DOS PROJETOS DE CONSOLIDAÇÃO
 
-###Art. 212. A Mesa Diretora, qualquer membro ou Comissão
+#### Art. 212. A Mesa Diretora, qualquer membro ou Comissão
 da Câmara dos Deputados poderá formular projeto de consolidação,
 visando à sistematização, à correção, ao aditamento, à supressão e
 à conjugação de textos legais, cuja elaboração cingir-se-á aos
@@ -9817,7 +9765,7 @@ for o caso, serão incorporadas ao texto inicial, a ser encaminhado,
 em seguida, ao exame da Comissão de Constituição e Justiça e de
 Redação.
 
-###Art. 213. O projeto de consolidação, após a apreciação do
+#### Art. 213. O projeto de consolidação, após a apreciação do
 Grupo de Trabalho de Consolidação das Leis e da Comissão de
 Constituição e Justiça e de Redação, será submetido ao Plenário da
 Casa.
@@ -9853,7 +9801,7 @@ Constituição e Justiça e de Redação, o projeto de consolidação será
 encaminhado ao Plenário, tendo preferência para inclusão em
 Ordem do Dia.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 28 janeiro de 1999. – Michel Temer,
 Presidente.
@@ -9867,7 +9815,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 280 do Regimento Interno da Câmara dos
+#### Art. 1o O art. 280 do Regimento Interno da Câmara dos
 Deputados, aprovado pela Resolução no 17, de 1989, passa a vigorar
 acrescido do seguinte § 1o -A;
 
@@ -9878,7 +9826,7 @@ $ 1o -A. Considera-se sessão inicial a do dia em que ocorrer
 o fato ou se praticar o ato.
 ................................................................................................”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 18 de janeiro 2000 – Michel Temer,
 Presidente.
@@ -9899,7 +9847,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 230 do Regimento Interno da Câmara dos
+#### Art. 1o O art. 230 do Regimento Interno da Câmara dos
 Deputados passa a vigorar com a seguinte redação;
 
 “Art. 230. O Deputado que se afastar do exercício do
@@ -9924,7 +9872,7 @@ $ 2 , o suplente em exercício participará normalmente dos debates
 e das votações.” (NR)
 o
 
-###Art. 2o O § 2o do art. 244 do Regimento Interno da Câmara
+#### Art. 2o O § 2o do art. 244 do Regimento Interno da Câmara
 dos Deputados passa a vigorar acrescido do seguinte inciso IV;
 
 “Art. 244. ................................................................................
@@ -9939,7 +9887,7 @@ IV - não reassumir, em quinze dias, o exercício do mandato,
 na hipótese de exoneração de cargo previsto no inciso I do caput
 do art. 56 da Constituição Federal.”
 
-###Art. 3o Esta Resolução entra em vigor na data de sua
+#### Art. 3o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 20 de junho de 2000. – Michel
 Temer, Presidente.
@@ -9953,14 +9901,14 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o É acrescido o seguinte Capítulo III-A no Título II do
+#### Art. 1o É acrescido o seguinte Capítulo III-A no Título II do
 Regimento Interno da Câmara dos Deputados;
 
 “
 ## CAPÍTULO III-A
 DA OUVIDORIA PARLAMENTAR
 
-###Art. 21-A. Compete à Ouvidoria Parlamentar;
+#### Art. 21-A. Compete à Ouvidoria Parlamentar;
 
 I - receber, examinar e encaminhar aos órgãos competentes
 as reclamações ou representações de pessoas físicas ou jurídicas
@@ -10002,13 +9950,13 @@ legislativos e administrativos de seu interesse;
 VII - realizar audiências públicas com segmentos da
 sociedade civil.
 
-###Art. 21-B. A Ouvidoria Parlamentar é composta de um
+#### Art. 21-B. A Ouvidoria Parlamentar é composta de um
 Ouvidor-Geral e dois Ouvidores Substitutos designados dentre os
 membros da Casa pelo Presidente da Câmara, a cada dois anos, no
 início da sessão legislativa, vedada a recondução no período
 subseqüente.
 
-###Art. 21-C. O Ouvidor-Geral, no exercício de suas funções,
+#### Art. 21-C. O Ouvidor-Geral, no exercício de suas funções,
 poderá;
 
 I - solicitar informações ou cópia de documentos a qualquer
@@ -10026,11 +9974,11 @@ solicitações feitas ou na adoção das providências requeridas pelo
 Ouvidor-Geral poderá ensejar a responsabilização da autoridade ou
 do servidor.
 
-###Art. 21-D. Toda iniciativa provocada ou implementada
+#### Art. 21-D. Toda iniciativa provocada ou implementada
 pela Ouvidoria Parlamentar terá ampla divulgação pelo órgão de
 comunicação ou de imprensa da Casa.”
 
-###Art. 2o O art. 253 do Regimento Interno da Câmara dos
+#### Art. 2o O art. 253 do Regimento Interno da Câmara dos
 Deputados passa a vigorar com a seguinte redação;
 
 “Art. 253. As petições, reclamações, representações ou
@@ -10047,14 +9995,14 @@ com a identificação do autor;
 II - o assunto envolva matéria de competência da Câmara
 dos Deputados.” (NR)
 
-###Art. 3o A Mesa Diretora da Câmara dos Deputados assegurará
+#### Art. 3o A Mesa Diretora da Câmara dos Deputados assegurará
 à Ouvidoria Parlamentar apoio físico, técnico e administrativo
 necessário ao desempenho de suas atividades.
 
-###Art. 4o A Mesa Diretora da Câmara dos Deputados baixará
+#### Art. 4o A Mesa Diretora da Câmara dos Deputados baixará
 os atos complementares necessários à execução desta Resolução.
 
-###Art. 5o Esta Resolução entra em vigor na data de sua
+#### Art. 5o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 14 de março de 2001. ? Aécio Neves,
 Presidente.
@@ -10068,7 +10016,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 32 do Regimento Interno da Câmara dos
+#### Art. 1o O art. 32 do Regimento Interno da Câmara dos
 Deputados passa a vigorar acrescido do seguinte inciso XVII;
 
 “Art. 32. ..................................................................................
@@ -10084,7 +10032,7 @@ entidades científicas e culturais e de qualquer das entidades
 mencionadas na alínea a.
 ......................................................................................” (NR)
 
-###Art. 2o O § 2o do art. 26 do Regimento Interno da Câmara
+#### Art. 2o O § 2o do art. 26 do Regimento Interno da Câmara
 dos Deputados passa a vigorar com a seguinte redação;
 
 “Art. 26. ..................................................................................
@@ -10127,14 +10075,14 @@ para distribuição à Comissão ou Comissões competentes para o
 exame do respectivo mérito, ou à Ouvidoria, conforme o caso.”
 (NR)
 
-###Art. 4o A Mesa Diretora da Câmara dos Deputados assegurará
+#### Art. 4o A Mesa Diretora da Câmara dos Deputados assegurará
 à Comissão de Participação Legislativa apoio físico, técnico e
 administrativo necessário ao desempenho de suas atividades.
 
-###Art. 5o A Mesa Diretora da Câmara dos Deputados baixará
+#### Art. 5o A Mesa Diretora da Câmara dos Deputados baixará
 os atos complementares necessários à execução desta Resolução.
 
-###Art. 6o Esta Resolução entra em vigor na data de sua
+#### Art. 6o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 30 de maio de 2001. ? Aécio Neves,
 Presidente.
@@ -10149,10 +10097,10 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o É criada a Comissão Permanente de Segurança
+#### Art. 1o É criada a Comissão Permanente de Segurança
 Pública e Combate ao Crime Organizado, Violência e Narcotráfico.
 
-###Art. 2o O § 2o do art. 26 do Regimento Interno da Câmara
+#### Art. 2o O § 2o do art. 26 do Regimento Interno da Câmara
 dos Deputados passa a vigorar com a seguinte redação;
 
 “Art. 26. ..................................................................................
@@ -10165,7 +10113,7 @@ Direitos Humanos, de Legislação Participativa e de Segurança
 Pública e Combate ao Crime Organizado, Violência e Narcotráfico.
 ......................................................................................” (NR)
 
-###Art. 3o O art. 32 do Regimento Interno da Câmara dos
+#### Art. 3o O art. 32 do Regimento Interno da Câmara dos
 Deputados passa a vigorar acrescido do seguinte inciso XVIII;
 
 “Art. 32. ..................................................................................
@@ -10206,7 +10154,7 @@ atuem nas matérias elencadas nas alíneas deste inciso, bem como
 realização de pesquisas, estudos e conferências sobre as matérias
 de sua competência.” (NR)
 
-###Art. 4o Ficam revogadas;
+#### Art. 4o Ficam revogadas;
 
 I - a alínea l do inciso XI do art. 32;
 
@@ -10214,7 +10162,7 @@ II - a expressão “segurança pública e seus
 institucionais”, constante da alínea f do inciso XI do art. 32.
 órgãos
 
-###Art. 5o Esta Resolução entra em vigor na data de sua
+#### Art. 5o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 20 de fevereiro de 2002. ? Aécio
 Neves, Presidente.
@@ -10231,11 +10179,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O Regimento Interno da Câmara dos Deputados,
-o
-aprovado pela Resolução n
-, de 1989, fica acrescido do seguinte
-art. 19-A;
+#### Art. 1o O Regimento Interno da Câmara dos Deputados, o aprovado pela Resolução n, de 1989, fica acrescido do seguinte art. 19-A;
 
 “Art. 19-A. São as seguintes as atribuições dos Suplentes
 de Secretário, além de outras decorrentes da natureza de suas
@@ -10278,7 +10222,7 @@ Parágrafo único. Os Suplentes sempre substituirão os
 Secretários e substituir-se-ão de acordo com sua numeração
 ordinal.”
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 19 de março de 2002. – Aécio Neves,
 Presidente.
@@ -10293,7 +10237,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O inciso VI do art. 32 da Resolução no 17, de 1989,
+#### Art. 1o O inciso VI do art. 32 da Resolução no 17, de 1989,
 passa a vigorar com a seguinte redação;
 
 “Art. 32. ..................................................................................
@@ -10301,7 +10245,7 @@ VI - Comissão de Economia, Indústria, Comércio e Turismo;
 
 ......................................................................................” (NR)
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 21 de março de 2002. ? Aécio Neves,
 Presidente.
@@ -10319,7 +10263,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 32 do Regimento Interno da Câmara dos
+#### Art. 1o O art. 32 do Regimento Interno da Câmara dos
 Deputados, aprovado pela Resolução no 17, de 1989, passa a vigorar
 com as seguintes alterações;
 
@@ -10356,15 +10300,15 @@ e) normas gerais sobre desporto;
  justiça desportiva.
 .......................................................................................”(NR)
 
-###Art. 2o Revogam-se a alínea f do inciso VI e a alínea b do
+#### Art. 2o Revogam-se a alínea f do inciso VI e a alínea b do
 inciso VII do art. 32 do Regimento Interno.
 
-###Art. 3o Nesta Sessão Legislativa, a Comissão de Turismo e
+#### Art. 3o Nesta Sessão Legislativa, a Comissão de Turismo e
 Desporto terá o número de membros fixado em ato da Mesa Diretora,
 aplicando-se aos seus integrantes o disposto no § 2o do art. 26 do
 Regimento Interno, in fine.
 
-###Art. 4o Esta Resolução entra em vigor na data de sua
+#### Art. 4o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 8 de julho de 2003. ? João Paulo
 Cunha, Presidente.
@@ -10382,7 +10326,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 235 do Regimento Interno passa a vigorar
+#### Art. 1o O art. 235 do Regimento Interno passa a vigorar
 acrescido do seguinte § 1o , renumerando-se os demais;
 
 “Art. 235. ................................................................................
@@ -10391,7 +10335,7 @@ $ 1o As Deputadas poderão ainda obter licença-gestante, e
 os Deputados, licença-paternidade, nos termos previstos no art. 7o ,
 incisos XVIII e XIX, da Constituição Federal.” (NR)
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
+#### Art. 2o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 27 de dezembro de 2003. ? João
 Paulo Cunha, Presidente.
@@ -10409,7 +10353,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O caput e o § 2o do art. 25 do Regimento Interno da
+#### Art. 1o O caput e o § 2o do art. 25 do Regimento Interno da
 Câmara dos Deputados passam a vigorar com a seguinte redação;
 
 “Art. 25. O número de membros efetivos das Comissões
@@ -10423,7 +10367,7 @@ $ 2o Nenhuma Comissão terá mais de doze centésimos nem
 menos de três e meio centésimos do total de Deputados,
 desprezando-se a fração.” (NR)
 
-###Art. 2o O § 2o do art. 26 do Regimento Interno da Câmara
+#### Art. 2o O § 2o do art. 26 do Regimento Interno da Câmara
 dos Deputados passa a vigorar com a seguinte redação;
 
 “Art. 26. ..................................................................................
@@ -10432,7 +10376,7 @@ dos Deputados passa a vigorar com a seguinte redação;
 $ 2o Nenhum Deputado poderá fazer parte, como membro
 titular, de mais de uma Comissão Permanente.” (NR)
 
-###Art. 3o O art. 29 do Regimento Interno da Câmara dos
+#### Art. 3o O art. 29 do Regimento Interno da Câmara dos
 Deputados passa a vigorar com a seguinte redação;
 
 “Art. 29. As Comissões Permanentes poderão constituir,
@@ -10461,7 +10405,7 @@ $ 3o No funcionamento das Subcomissões aplicar-se-ão, no
 que couber, as disposições deste Regimento relativas ao
 funcionamento das Comissões Permanentes.” (NR)
 
-###Art. 4o O art. 32 do Regimento Interno da Câmara dos
+#### Art. 4o O art. 32 do Regimento Interno da Câmara dos
 Deputados passa a vigorar com a seguinte redação;
 
 “Art. 32. São as seguintes as Comissões Permanentes e
@@ -11208,7 +11152,7 @@ acompanhamento e fiscalização orçamentária, sem prejuízo da
 competência da Comissão Mista Permanente a que se refere o art.
 , § 1o, da Constituição Federal.” (NR)
 
-###Art. 5o O caput do art. 39 do Regimento Interno da Câmara
+#### Art. 5o O caput do art. 39 do Regimento Interno da Câmara
 dos Deputados passa a vigorar com a seguinte redação;
 
 “Art. 39. As Comissões terão um Presidente e três
@@ -11216,7 +11160,7 @@ Vice-Presidentes, eleitos por seus pares, com mandato até a posse dos
 novos componentes eleitos no ano subseqüente, vedada a
 reeleição.” (NR)
 
-###Art. 6o Esta Resolução entra em vigor na data de sua
+#### Art. 6o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 17 de março de 2004. – João Paulo
 Cunha, Presidente.
@@ -11232,7 +11176,7 @@ Faço saber que a Câmara dos Deputados aprovou e eu
 promulgo a seguinte Resolução;
 
 
-###Art. 1o O § 4o do art. 82 do Regimento Interno passa a
+#### Art. 1o O § 4o do art. 82 do Regimento Interno passa a
 vigorar com a seguinte redação;
 
 “Art. 82. ...................................................................................
@@ -11243,7 +11187,7 @@ dez minutos para apresentação de proposições, ou solicitação de
 apoiamento eletrônico a elas, que se resumirá à leitura das ementas.
 ......................................................................................” (NR)
 
-###Art. 2o O art. 101 do Regimento Interno passa a vigorar com
+#### Art. 2o O art. 101 do Regimento Interno passa a vigorar com
 as seguintes alterações;
 
 “Art. 101. Ressalvadas as hipóteses enumeradas na alínea a
@@ -11284,7 +11228,7 @@ para imediata deliberação do Plenário;
 II - à Mesa, quando se tratar de iniciativa do Senado Federal, de
 outro Poder, do Procurador-Geral da República ou de cidadãos.” (NR)
 
-###Art. 3o O art. 102 do Regimento Interno passa a vigorar com
+#### Art. 3o O art. 102 do Regimento Interno passa a vigorar com
 a seguinte redação;
 
 “Art. 102. .................................................................................
@@ -11304,7 +11248,7 @@ número de Deputados de sua legenda partidária ou parlamentar, na
 data da apresentação da proposição.
 ......................................................................................” (NR)
 
-###Art. 4o O art. 119 do Regimento Interno passa a vigorar com
+#### Art. 4o O art. 119 do Regimento Interno passa a vigorar com
 a seguinte redação;
 
 “Art. 119. As emendas poderão ser apresentadas em
@@ -11317,7 +11261,7 @@ do inciso XII do art. 32 deste Regimento;
 
 ......................................................................................” (NR)
 
-###Art. 5o Esta Resolução entra em vigor na data de sua
+#### Art. 5o Esta Resolução entra em vigor na data de sua
 publicação.
 Câmara dos Deputados, 31 de março de 2004. ? João Paulo
 Cunha, Presidente.
@@ -11325,14 +11269,12 @@ Cunha, Presidente.
 
 ## RESOLUÇÃO No 23, DE 2004 12
 
-Altera o art. 87 do Regimento Interno
-da Câmara dos Deputados.
-Faço saber que a Câmara dos Deputados aprovou e eu
-promulgo a seguinte Resolução;
+Altera o art. 87 do Regimento Interno da Câmara dos Deputados.
+
+Faço saber que a Câmara dos Deputados aprovou e eu promulgo a seguinte Resolução;
 
 
-###Art. 1o O art. 87 do Regimento Interno passa a vigorar com
-as seguintes alterações;
+#### Art. 1o O art. 87 do Regimento Interno passa a vigorar com as seguintes alterações;
 
 “Art. 87. ...................................................................................
 
@@ -11341,17 +11283,15 @@ organizada mediante sorteio eletrônico, competindo à Mesa
 disciplinar, em ato próprio, a forma dele.
 
 $ 2o O Deputado poderá falar no Grande Expediente no
-máximo três vezes por semestre, sendo uma por sorteio e duas por
-cessão de vaga de outro parlamentar.
+máximo três vezes por semestre, sendo uma por sorteio e duas por cessão de vaga de outro parlamentar.
 
 $ 3o Ao Deputado que não falar por falta de vaga no
-semestre será assegurada a preferência de inscrição no próximo
-semestre.” (NR)
+semestre será assegurada a preferência de inscrição no próximo semestre.” (NR)
 
-###Art. 2o Esta Resolução entra em vigor na data de sua
-publicação.
-Câmara dos Deputados, 31 de março de 2004. ? João Paulo
-Cunha, Presidente.
+#### Art. 2o Esta Resolução entra em vigor na data de sua publicação.
+
+*Câmara dos Deputados, 31 de março de 2004. ? João Paulo
+Cunha, Presidente.*
 
 
 Publicada no Diário da Câmara dos Deputados de 1o -4-2004.
