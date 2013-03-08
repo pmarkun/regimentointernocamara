@@ -8,18 +8,16 @@ A Câmara dos Deputados, considerando a necessidade de adaptar o seu funcionamen
 
 #### Art. 1o O Regimento Interno da Câmara dos Deputados passa a vigorar na conformidade do texto anexo.
 
-#### Art. 2o Dentro de um ano a contar da promulgação desta
-Resolução, a Mesa elaborará e submeterá à aprovação do Plenário o projeto de Regulamento Interno das Comissões e a alteração dos Regulamentos Administrativo e de Pessoal, para ajustá-los às diretrizes estabelecidas no Regimento.
+#### Art. 2o Dentro de um ano a contar da promulgação desta Resolução, a Mesa elaborará e submeterá à aprovação do Plenário o projeto de Regulamento Interno das Comissões e a alteração dos Regulamentos Administrativo e de Pessoal, para ajustá-los às diretrizes estabelecidas no Regimento.
 
 Parágrafo único. Ficam mantidas as normas administrativas
 em vigor, no que não contrarie o anexo Regimento, e convalidados os atos praticados pela Mesa no período de 1o de fevereiro de 1987, data da instalação da Assembléia Nacional Constituinte, até o início da vigência desta Resolução.
 
-#### Art. 3o A Mesa apresentará projeto de resolução sobre o
-Código de Ética e Decoro Parlamentar.
+#### Art. 3o A Mesa apresentará projeto de resolução sobre o Código de Ética e Decoro Parlamentar.
 
 #### Art. 4o Ficam mantidas, até o final da sessão legislativa em curso, com seus atuais Presidente e Vice-Presidentes, as Comissões Permanentes criadas e organizadas na forma da Resolução no 5, de, que terão competência em relação às matérias das Comissões que lhes sejam correspondentes ou com as quais tenham maior afinidade, conforme discriminação constante do texto regimental anexo (art. 32).
 
-Publicada no Suplemento ao Diário do Congresso Nacional-I de 22-9-1989, p. 3.
+*Publicada no Suplemento ao Diário do Congresso Nacional-I de 22-9-1989, p. 3.*
 
 $ 1o Somente serão apreciadas conclusivamente pelas
 Comissões, na conformidade do art. 24, II, do novo Regimento, as proposições distribuídas a partir do início da vigência desta Resolução.
@@ -29,17 +27,14 @@ projetos em trâmite na Casa, pertinentes ao cumprimento dos arts. 5 e 59 do Ato
 
 #### Art. 5o Ficam mantidas, até o final da legislatura em curso, as Lideranças constituídas, na forma das disposições regimentais anteriores, até a data da promulgação do Regimento Interno.
 
-#### Art. 6o Até 15 de março de 1990, constitui a Maioria a
-legenda ou composição partidária integrada pelo maior número de representantes, considerando-se Minoria a representação imediatamente inferior.
+#### Art. 6o Até 15 de março de 1990, constitui a Maioria a legenda ou composição partidária integrada pelo maior número de representantes, considerando-se Minoria a representação imediatamente inferior.
 
-#### Art. 7o Esta Resolução entra em vigor na data de sua
-publicação.
+#### Art. 7o Esta Resolução entra em vigor na data de sua publicação.
 
-#### Art. 8o Revogam-se a Resolução no 30, de 1972, suas
-alterações e demais disposições em contrário.
+#### Art. 8o Revogam-se a Resolução no 30, de 1972, suas alterações e demais disposições em contrário.
 
-Brasília, 21 de setembro de 1989. – Paes de Andrade,
-Presidente.
+*Brasília, 21 de setembro de 1989. – Paes de Andrade,
+Presidente.*
 
 # REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS
 
@@ -73,15 +68,11 @@ Nacional, a Câmara dos Deputados somente deliberará sobre a matéria objeto da
 
 
 ## CAPÍTULO III - DAS SESSÕES PREPARATÓRIAS
-### Seção I
-Da Posse dos Deputados
+### Seção I - Da Posse dos Deputados
 
 #### Art. 3o O candidato diplomado Deputado Federal deverá
-apresentar à Mesa, pessoalmente ou por intermédio do seu Partido, até
-o dia 31 de janeiro do ano de instalação de cada legislatura, o diploma
-expedido pela Justiça Eleitoral, juntamente com a comunicação de seu
-nome parlamentar, legenda partidária e unidade da Federação de que
-proceda a representação.
+apresentar à Mesa, pessoalmente ou por intermédio do seu Partido, até o dia 31 de janeiro do ano de instalação de cada legislatura, o diploma expedido pela Justiça Eleitoral, juntamente com a comunicação de seu
+nome parlamentar, legenda partidária e unidade da Federação de que proceda a representação.
 
 $ 1o O nome parlamentar compor-se-á, salvo quando, a juízo
 do Presidente, devam ser evitadas confusões, apenas de dois elementos: um prenome e o nome;  dois nomes; ou dois prenomes.
