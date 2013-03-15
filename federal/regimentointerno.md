@@ -6426,60 +6426,33 @@ não será óbice à adoção e continuidade das providências relativas ao
 processo por crime de responsabilidade nos termos da legislação
 especial.
 
-## CAPÍTULO V
-DO REGIMENTO INTERNO
+## CAPÍTULO V - DO REGIMENTO INTERNO
 
-#### Art. 216. O Regimento Interno poderá ser modificado ou
-reformado por meio de projeto de resolução de iniciativa de Deputado,
-da Mesa, de Comissão Permanente ou de Comissão Especial para esse
-fim criada, em virtude de deliberação da Câmara, da qual deverá fazer
-parte um membro da Mesa.
+#### Art. 216. O Regimento Interno poderá ser modificado ou reformado por meio de projeto de resolução de iniciativa de Deputado, da Mesa, de Comissão Permanente ou de Comissão Especial para esse fim criada, em virtude de deliberação da Câmara, da qual deverá fazer parte um membro da Mesa.
 
-$ 1o O projeto, após publicado e distribuído em avulsos,
-permanecerá na Ordem do Dia durante o prazo de cinco sessões para o
-recebimento de emendas.
+$ 1o O projeto, após publicado e distribuído em avulsos, permanecerá na Ordem do Dia durante o prazo de cinco sessões para o recebimento de emendas.
 
-$ 2o Decorrido o prazo previsto no parágrafo anterior, o
-projeto será enviado;
+$ 2o Decorrido o prazo previsto no parágrafo anterior, o projeto será enviado;
 
-I - à Comissão de Constituição e Justiça e de Cidadania, em
-qualquer caso;
+I - à Comissão de Constituição e Justiça e de Cidadania, em qualquer caso;
 
-II - à Comissão Especial que o houver elaborado, para exame
-das emendas recebidas;
+II - à Comissão Especial que o houver elaborado, para exame das emendas recebidas;
 
 III - à Mesa, para apreciar as emendas e o projeto.
 
-$ 3o Os pareceres das Comissões serão emitidos no prazo de
-cinco sessões, quando o projeto for de simples modificação, e de vinte
-sessões, quando se tratar de reforma.
+$ 3o Os pareceres das Comissões serão emitidos no prazo de cinco sessões, quando o projeto for de simples modificação, e de vinte sessões, quando se tratar de reforma.
 
-$ 4o Depois de publicados os pareceres e distribuídos em
-avulsos, o projeto será incluído na Ordem do Dia, em primeiro turno,
-que não poderá ser encerrado, mesmo por falta de oradores, antes de
-transcorridas duas sessões.
+$ 4o Depois de publicados os pareceres e distribuídos em avulsos, o projeto será incluído na Ordem do Dia, em primeiro turno, que não poderá ser encerrado, mesmo por falta de oradores, antes de transcorridas duas sessões.
 
-$ 5o O segundo turno não poderá ser também encerrado
-antes de transcorridas duas sessões.
+$ 5o O segundo turno não poderá ser também encerrado antes de transcorridas duas sessões.
 
-$ 6o A redação do vencido e a redação final do projeto
-competem à Comissão Especial que o houver elaborado, ou à Mesa,
-quando de iniciativa desta, de Deputados ou Comissão Permanente.
+$ 6o A redação do vencido e a redação final do projeto competem à Comissão Especial que o houver elaborado, ou à Mesa, quando de iniciativa desta, de Deputados ou Comissão Permanente.
 
-$ 7o A apreciação do projeto de alteração ou reforma do
-Regimento obedecerá às normas vigentes para os demais projetos de
-resolução.
+$ 7o A apreciação do projeto de alteração ou reforma do Regimento obedecerá às normas vigentes para os demais projetos de resolução.
 
-$ 8o A Mesa fará a consolidação e publicação de todas as
-alterações introduzidas no Regimento antes de findo cada biênio.
+$ 8o A Mesa fará a consolidação e publicação de todas as alterações introduzidas no Regimento antes de findo cada biênio.
 
-## CAPÍTULO VI
-DA AUTORIZAÇÃO PARA INSTAURAÇÃO
-DE PROCESSO CRIMINAL CONTRA O
-PRESIDENTE E O VICE-PRESIDENTE DA
-REPÚBLICA E OS MINISTROS DE ESTADO
-
-
+## CAPÍTULO VI - DA AUTORIZAÇÃO PARA INSTAURAÇÃO DE PROCESSO CRIMINAL CONTRA O PRESIDENTE E O VICE-PRESIDENTE DA REPÚBLICA E OS MINISTROS DE ESTADO
 
 #### Art. 217. A solicitação do Presidente do Supremo Tribuna l
 Federal para instauração de processo, nas infrações penais comuns,
