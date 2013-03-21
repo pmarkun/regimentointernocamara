@@ -870,10 +870,8 @@ servidor.
 Ouvidoria Parlamentar terá ampla divulgação pelo órgão de
 comunicação ou de imprensa da Casa.
 
-## CAPÍTULO IV
-DAS COMISSÕES
-### Seção I
-Disposições Gerais
+## CAPÍTULO IV - DAS COMISSÕES
+### Seção I - Disposições Gerais
 
 #### Art. 22. As Comissões da Câmara são;
 
@@ -890,22 +888,13 @@ assunto, que se extinguem ao término da legislatura, ou antes dele,
 quando alcançado o fim a que se destinam ou expirado seu prazo de
 duração.
 
-#### Art. 23. Na constituição das Comissões assegurar-se-á, tanto
-quanto possível, a representação proporcional dos Partidos e dos
-Blocos Parlamentares que participem da Casa, incluindo-se sempre
-um membro da Minoria, ainda que pela proporcionalidade não lhe
-caiba lugar.
+#### Art. 23. Na constituição das Comissões assegurar-se-á, tanto quanto possível, a representação proporcional dos Partidos e dos Blocos Parlamentares que participem da Casa, incluindo-se sempre um membro da Minoria, ainda que pela proporcionalidade não lhe caiba lugar.
 
-#### Art. 24. Às Comissões Permanentes, em razão da matéria de
-sua competência, e às demais Comissões, no que lhes for aplicável,
-cabe;
+#### Art. 24. Às Comissões Permanentes, em razão da matéria de sua competência, e às demais Comissões, no que lhes for aplicável, cabe;
 
-I - discutir e votar as proposições sujeitas à deliberação do
-Plenário que lhes forem distribuídas;
+I - discutir e votar as proposições sujeitas à deliberação do Plenário que lhes forem distribuídas;
 
-II - discutir e votar projetos de lei, dispensada a competência
-do Plenário, salvo o disposto no § 2o do art. 132 e excetuados os
-projetos;
+II - discutir e votar projetos de lei, dispensada a competência do Plenário, salvo o disposto no § 2o do art. 132 e excetuados os projetos;
 
 a) de lei complementar;
 
@@ -915,321 +904,164 @@ c) de iniciativa popular;
 
 d) de Comissão;
 
-e) relativos a matéria que não possa ser objeto de delegação,
-consoante o § 1o do art. 68 da Constituição Federal;
+e) relativos a matéria que não possa ser objeto de delegação, consoante o § 1o do art. 68 da Constituição Federal;
 
-f) oriundos do Senado, ou por ele emendados, que tenham
-sido aprovados pelo Plenário de qualquer das Casas;
+f) oriundos do Senado, ou por ele emendados, que tenham sido aprovados pelo Plenário de qualquer das Casas;
 
 g) que tenham recebido pareceres divergentes;
 
 h) em regime de urgência;
 
-III - realizar audiências públicas com entidades da sociedade
-civil;
+III - realizar audiências públicas com entidades da sociedade civil;
 
-IV - convocar Ministro de Estado para prestar, pessoalmente,
-informações sobre assunto previamente determinado, ou conceder-lhe
-audiência para expor assunto de relevância de seu ministério;
+IV - convocar Ministro de Estado para prestar, pessoalmente, informações sobre assunto previamente determinado, ou conceder-lhe audiência para expor assunto de relevância de seu ministério;
 
-V - encaminhar, através da Mesa, pedidos escritos de
-informação a Ministro de Estado;
+V - encaminhar, através da Mesa, pedidos escritos de informação a Ministro de Estado;
 
-VI - receber petições, reclamações ou representações de
-qualquer pessoa contra atos ou omissões das autoridades ou entidades
-públicas, na forma do art. 253;
+VI - receber petições, reclamações ou representações de qualquer pessoa contra atos ou omissões das autoridades ou entidades públicas, na forma do art. 253;
 
 VII - solicitar depoimento de qualquer autoridade ou cidadão;
 
-VIII - acompanhar e apreciar programas de obras, planos
-nacionais, regionais e setoriais de desenvolvimento e sobre eles emitir
-parecer, em articulação com a Comissão Mista Permanente de que
-trata o art. 166, § 1o , da Constituição Federal;
+VIII - acompanhar e apreciar programas de obras, planos nacionais, regionais e setoriais de desenvolvimento e sobre eles emitir parecer, em articulação com a Comissão Mista Permanente de que trata o art. 166, § 1o , da Constituição Federal;
 
-IX - exercer o acompanhamento e a fiscalização contábil,
-financeira, orçamentária, operacional e patrimonial da União e das
-entidades da administração direta e indireta, incluídas as fundações e
-sociedades instituídas e mantidas pelo Poder Público federal, em
-articulação com a Comissão Mista Permanente de que trata o art. 166,
+IX - exercer o acompanhamento e a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público federal, em articulação com a Comissão Mista Permanente de que trata o art. 166, $ 1o , da Constituição Federal;
 
-$ 1o , da Constituição Federal;
+X - determinar a realização, com o auxílio do Tribunal de Contas da União, de diligências, perícias, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário, da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público federal;
 
-X - determinar a realização, com o auxílio do Tribunal de
-Contas da União, de diligências, perícias, inspeções e auditorias de
-natureza contábil, financeira, orçamentária, operacional e patrimonial,
-nas unidades administrativas dos Poderes Legislativo, Executivo e
-Judiciário, da administração direta e indireta, incluídas as fundações e
-sociedades instituídas e mantidas pelo Poder Público federal;
+XI - exercer a fiscalização e o controle dos atos do Poder Executivo, incluídos os da administração indireta;
 
-XI - exercer a fiscalização e o controle dos atos do Poder
-Executivo, incluídos os da administração indireta;
+XII - propor a sustação dos atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa, elaborando o respectivo decreto legislativo;
 
-XII - propor a sustação dos atos normativos do Poder
-Executivo que exorbitem do poder regulamentar ou dos limites de
-delegação legislativa, elaborando o respectivo decreto legislativo;
+XIII - estudar qualquer assunto compreendido no respectivo campo temático ou área de atividade, podendo promover, em seu âmbito, conferências, exposições, palestras ou seminários;
 
-XIII - estudar qualquer assunto compreendido no respectivo
-campo temático ou área de atividade, podendo promover, em seu
-âmbito, conferências, exposições, palestras ou seminários;
+XIV - solicitar audiência ou colaboração de órgãos ou entidades da administração pública direta, indireta ou fundacional, e da sociedade civil, para elucidação de matéria sujeita a seu pronunciamento, não implicando a diligência dilação dos prazos.
 
-XIV - solicitar audiência ou colaboração de órgãos ou
-entidades da administração pública direta, indireta ou fundacional, e
-da sociedade civil, para elucidação de matéria sujeita a seu
-pronunciamento, não implicando a diligência dilação dos prazos.
+$ 1o Aplicam-se à tramitação dos projetos de lei submetidos à deliberação conclusiva das Comissões, no que couber, as disposições previstas para as matérias submetidas à apreciação do Plenário da Câmara.
 
-$ 1o Aplicam-se à tramitação dos projetos de lei submetidos
-à deliberação conclusiva das Comissões, no que couber, as disposições
-previstas para as matérias submetidas à apreciação do Plenário da
-Câmara.
+$ 2o As atribuições contidas nos incisos V e XII do caput não excluem a iniciativa concorrente de Deputado.
 
+### Seção II - Das Comissões Permanentes
 
+#### Subseção I - Da Composição e Instalação
 
-$ 2o As atribuições contidas nos incisos V e XII do caput
-não excluem a iniciativa concorrente de Deputado.
-### Seção II
-Das Comissões Permanentes
-Subseção I
-Da Composição e Instalação
+#### Art. 25. O número de membros efetivos das Comissões Permanentes será estabelecido por ato da Mesa, ouvido o Colégio de Líderes, no início dos trabalhos das sessões legislativas de cada legislatura, prevalecendo o quantitativo anterior enquanto não modificado.
 
+$ 1o A fixação levará em conta a composição da Casa em face do número de Comissões, de modo a permitir a observância, tanto quanto possível, do princípio da proporcionalidade partidária e demais critérios e normas para a representação das bancadas.
 
-
-#### Art. 25. O número de membros efetivos das Comissões
-Permanentes será estabelecido por ato da Mesa, ouvido o Colégio de
-Líderes, no início dos trabalhos das sessões legislativas de cada
-legislatura, prevalecendo o quantitativo anterior enquanto não
-modificado.
-
-$ 1o A fixação levará em conta a composição da Casa em
-face do número de Comissões, de modo a permitir a observância,
-tanto quanto possível, do princípio da proporcionalidade partidária e
-demais critérios e normas para a representação das bancadas.
-
-$ 2o Nenhuma Comissão terá mais de doze centésimos nem
-menos de três e meio centésimos do total de Deputados, desprezando-se
-a fração.
-
-
-
+$ 2o Nenhuma Comissão terá mais de doze centésimos nem menos de três e meio centésimos do total de Deputados, desprezando-se a fração.
 
 Parágrafo com nova redação dada pela Resolução no 58, de 1994.
+
 Caput com nova redação dada pela Resolução n o 20, de 2004.
 
-
 Parágrafo com nova redação dada pela Resolução no 20, de 2004.
 
+$ 3o O número total de vagas nas Comissões não excederá o da composição da Câmara, não computados os membros da Mesa.
 
+#### Art. 26. A distribuição das vagas nas Comissões Permanentes, por Partidos ou Blocos Parlamentares, será organizada pela Mesa logo após a fixação da respectiva composição numérica e mantida durante toda a sessão legislativa.
 
-$ 3o O número total de vagas nas Comissões não excederá o
-da composição da Câmara, não computados os membros da Mesa.
+$ 1o Cada Partido ou Bloco Parlamentar terá em cada Comissão tantos suplentes quantos os seus membros efetivos.
 
-#### Art. 26. A distribuição das vagas nas Comissões Permanentes,
-por Partidos ou Blocos Parlamentares, será organizada pela Mesa logo
-após a fixação da respectiva composição numérica e mantida durante
-toda a sessão legislativa.
+$ 2o Nenhum Deputado poderá fazer parte, como membro titular, de mais de uma Comissão Permanente.
 
-$ 1o Cada Partido ou Bloco Parlamentar terá em cada
-Comissão tantos suplentes quantos os seus membros efetivos.
+$ 3o Ao Deputado, salvo se membro da Mesa, será sempre assegurado o direito de integrar, como titular, pelo menos uma Comissão, ainda que sem legenda partidária ou quando esta não possa concorrer às vagas existentes pelo cálculo da proporcionalidade.
 
-$ 2o Nenhum Deputado poderá fazer parte, como membro
-titular, de mais de uma Comissão Permanente.
+$ 4o As modificações numéricas que venham a ocorrer nas bancadas dos Partidos ou Blocos Parlamentares, que importem modificações da proporcionalidade partidária na composição das Comissões, só prevalecerão a partir da sessão legislativa subseqüente.
 
+#### Art. 27. A representação numérica das bancadas nas Comissões será estabelecida dividindo-se o número de membros da Câmara pelo número de membros de cada Comissão, e o número de Deputados de cada Partido ou Bloco Parlamentar pelo quociente assim obtido. O inteiro do quociente final, dito quociente partidário, representará o número de lugares a que o Partido ou Bloco Parlamentar poderá concorrer em cada Comissão.
 
+$ 1o As vagas que sobrarem, uma vez aplicado o critério do caput, serão destinadas aos Partidos ou Blocos Parlamentares, levando-se em conta as frações do quociente partidário, da maior para a menor.
 
-$ 3o Ao Deputado, salvo se membro da Mesa, será sempre
-assegurado o direito de integrar, como titular, pelo menos uma
-Comissão, ainda que sem legenda partidária ou quando esta não possa
-concorrer às vagas existentes pelo cálculo da proporcionalidade.
+$ 2o Se verificado, após aplicados os critérios do caput e do parágrafo anterior, que há Partido ou Bloco Parlamentar sem lugares suficientes nas Comissões para a sua bancada, ou Deputado sem legenda partidária, observar-se-á o seguinte;
 
-$ 4o As modificações numéricas que venham a ocorrer nas
-bancadas dos Partidos ou Blocos Parlamentares, que importem
-modificações da proporcionalidade partidária na composição das
-Comissões, só prevalecerão a partir da sessão legislativa subseqüente.
+*Parágrafo com nova redação dada pela Resolução no 20, de 2004.*
 
-#### Art. 27. A representação numérica das bancadas nas
-Comissões será estabelecida dividindo-se o número de membros da
-Câmara pelo número de membros de cada Comissão, e o número de
-Deputados de cada Partido ou Bloco Parlamentar pelo quociente assim
-obtido. O inteiro do quociente final, dito quociente partidário,
-representará o número de lugares a que o Partido ou Bloco
-Parlamentar poderá concorrer em cada Comissão.
+I - a Mesa dará quarenta e oito horas ao Partido ou Bloco Parlamentar nessa condição para que declare sua opção por obter lugar em Comissão em que não esteja ainda representado;
 
-$ 1o As vagas que sobrarem, uma vez aplicado o critério do
-caput, serão destinadas aos Partidos ou Blocos Parlamentares,
-levando-se em conta as frações do quociente partidário, da maior para
-a menor.
-
-$ 2o Se verificado, após aplicados os critérios do caput e do
-parágrafo anterior, que há Partido ou Bloco Parlamentar sem lugares
-
-
-Parágrafo com nova redação dada pela Resolução no 20, de 2004.
-suficientes nas Comissões para a sua bancada, ou Deputado sem
-legenda partidária, observar-se-á o seguinte;
-
-I - a Mesa dará quarenta e oito horas ao Partido ou Bloco
-Parlamentar nessa condição para que declare sua opção por obter lugar
-em Comissão em que não esteja ainda representado;
-
-II - havendo coincidência de opções terá preferência o Partido
-ou Bloco Parlamentar de maior quociente partidário, conforme os
-critérios do caput e do parágrafo antecedente;
+II - havendo coincidência de opções terá preferência o Partido ou Bloco Parlamentar de maior quociente partidário, conforme os critérios do caput e do parágrafo antecedente;
 
 III - a vaga indicada será preenchida em primeiro lugar;
 
-IV - só poderá haver o preenchimento de segunda vaga
-decorrente de opção, na mesma Comissão, quando em todas as outras
-já tiver sido preenchida uma primeira vaga, em idênticas condições;
+IV - só poderá haver o preenchimento de segunda vaga decorrente de opção, na mesma Comissão, quando em todas as outras já tiver sido preenchida uma primeira vaga, em idênticas condições;
 
-V - atendidas as opções do Partido ou Bloco Parlamentar,
-serão recebidas as dos Deputados sem legenda partidária;
+V - atendidas as opções do Partido ou Bloco Parlamentar, serão recebidas as dos Deputados sem legenda partidária;
 
-VI - quando mais de um Deputado optante escolher a mesma
-Comissão, terá preferência o mais idoso, dentre os de maior número
-de legislaturas.
+VI - quando mais de um Deputado optante escolher a mesma Comissão, terá preferência o mais idoso, dentre os de maior número de legislaturas.
 
-$ 3o Após o cumprimento do prescrito no parágrafo anterior,
-proceder-se-á à distribuição das demais vagas entre as bancadas com
-direito a se fazer representar na Comissão, de acordo com o
-estabelecido no caput, considerando-se para efeito de cálculo da
-proporcionalidade o número de membros da Comissão diminuído de
-tantas unidades quantas as vagas preenchidas por opção.
+$ 3o Após o cumprimento do prescrito no parágrafo anterior, proceder-se-á à distribuição das demais vagas entre as bancadas com direito a se fazer representar na Comissão, de acordo com o estabelecido no caput, considerando-se para efeito de cálculo da proporcionalidade o número de membros da Comissão diminuído de tantas unidades quantas as vagas preenchidas por opção.
 
-#### Art. 28. Estabelecida a representação numérica dos Partidos
-e dos Blocos Parlamentares nas Comissões, os Líderes comunicarão
-ao Presidente da Câmara, no prazo de cinco sessões, os nomes dos
-membros das respectivas bancadas que, como titulares e suplentes,
-irão integrar cada Comissão.
+#### Art. 28. Estabelecida a representação numérica dos Partidos e dos Blocos Parlamentares nas Comissões, os Líderes comunicarão ao Presidente da Câmara, no prazo de cinco sessões, os nomes dos membros das respectivas bancadas que, como titulares e suplentes, irão integrar cada Comissão. 
 
-$ 1o O Presidente fará, de ofício, a designação se, no prazo
-fixado, a Liderança não comunicar os nomes de sua representação
-para compor as Comissões, nos termos do § 3o do art. 45.
+$ 1o O Presidente fará, de ofício, a designação se, no prazo fixado, a Liderança não comunicar os nomes de sua representação para compor as Comissões, nos termos do § 3o do art. 45.
 
-$ 2o Juntamente com a composição nominal das Comissões,
-o Presidente mandará publicar no Diário da Câmara dos Deputados e
-no avulso da Ordem do Dia a convocação destas para eleger os
-respectivos Presidentes e Vice-Presidentes, na forma do art. 39.
-Subseção II
-Das Subcomissões e Turmas
+$ 2o Juntamente com a composição nominal das Comissões, o Presidente mandará publicar no Diário da Câmara dos Deputados e no avulso da Ordem do Dia a convocação destas para eleger os respectivos Presidentes e Vice-Presidentes, na forma do art. 39.
 
+### Subseção II - Das Subcomissões e Turmas
 
+#### Art. 29. As Comissões Permanentes poderão constituir, sem poder decisório;
 
-#### Art. 29. As Comissões Permanentes poderão constituir, sem
-poder decisório;
+I - Subcomissões Permanentes, dentre seus próprios componentes e mediante proposta da maioria destes, reservando-lhes parte das matérias do respectivo campo temático ou área de atuação;
 
-I - Subcomissões Permanentes, dentre seus próprios
-componentes e mediante proposta da maioria destes, reservando-lhes
-parte das matérias do respectivo campo temático ou área de atuação;
+II - Subcomissões Especiais, mediante proposta de qualquer de seus membros, para o desempenho de atividades específicas ou o trato de assuntos definidos no respectivo ato de criação.
 
-II - Subcomissões Especiais, mediante proposta de qualquer
-de seus membros, para o desempenho de atividades específicas ou o
-trato de assuntos definidos no respectivo ato de criação.
+$ 1o Nenhuma Comissão Permanente poderá contar com mais de três Subcomissões Permanentes e de três Subcomissões Especiais em funcionamento simultâneo.
 
-$ 1o Nenhuma Comissão Permanente poderá contar com
-mais de três Subcomissões Permanentes e de três Subcomissões
-Especiais em funcionamento simultâneo.
+$ 2o O Plenário da Comissão fixará o número de membros de cada Subcomissão, respeitando o princípio da representação proporcional, e definirá as matérias reservadas a tais Subcomissões, bem como os objetivos das Subcomissões Especiais.
 
-$ 2o O Plenário da Comissão fixará o número de membros
-de cada Subcomissão, respeitando o princípio da representação
-proporcional, e definirá as matérias reservadas a tais Subcomissões,
-bem como os objetivos das Subcomissões Especiais.
+$ 3o No funcionamento das Subcomissões aplicar-se-ão, no que couber, as disposições deste Regimento relativas ao funcionamento das Comissões Permanentes.
 
-$ 3o No funcionamento das Subcomissões aplicar-se-ão, no
-que couber, as disposições deste Regimento relativas ao funcionamento
-das Comissões Permanentes.
+#### Art. 30. As Comissões Permanentes que não constituírem Subcomissões Permanentes poderão ser divididas em duas Turmas, excluído o Presidente, ambas sem poder decisório.
 
-#### Art. 30. As Comissões Permanentes que não constituírem
-Subcomissões Permanentes poderão ser divididas em duas Turmas,
-excluído o Presidente, ambas sem poder decisório.
+$ 1o Presidirá à Turma um Vice-Presidente da Comissão, substituindo-o o membro mais idoso, dentre os de maior número de legislaturas.
 
-$ 1o Presidirá à Turma um Vice-Presidente da Comissão,
-substituindo-o o membro mais idoso, dentre os de maior número de
-legislaturas.
+*Artigo com nova redação dada pela Resolução n o 20, de 2004.*
 
+$ 2o Os membros de uma Turma são suplentes preferenciais da outra, respeitada a proporcionalidade partidária.
 
-Artigo com nova redação dada pela Resolução n o 20, de 2004.
+$ 3o As Turmas poderão discutir os assuntos que lhes forem distribuídos, desde que presente mais da metade dos seus membros.
 
-$ 2o Os membros de uma Turma são suplentes preferenciais
-da outra, respeitada a proporcionalidade partidária.
+#### Art. 31. A matéria apreciada em Subcomissão Permanente ou Especial ou por Turma concluirá por um relatório, sujeito à deliberação do Plenário da respectiva Comissão.
 
-$ 3o As Turmas poderão discutir os assuntos que lhes forem
-distribuídos, desde que presente mais da metade dos seus membros.
+### Subseção III - Das Matérias ou Atividades de Competência das Comissões
 
-#### Art. 31. A matéria apreciada em Subcomissão Permanente
-ou Especial ou por Turma concluirá por um relatório, sujeito à
-deliberação do Plenário da respectiva Comissão.
-Subseção III
-Das Matérias ou Atividades de Competência das Comissões
+#### Art. 32. São as seguintes as Comissões Permanentes e respectivos campos temáticos ou áreas de atividade;
 
+I - Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural;
 
+a) política agrícola e assuntos atinentes à agricultura e à pesca profissional, destacadamente;
+* organização do setor rural;
+* política nacional de cooperativismo;
+* condições sociais no meio rural;
+* migrações rural- urbanas;
+* estímulos fiscais, financeiros e creditícios à agricultura, à pesquisa e experimentação agrícolas;
+* política e sistema nacional de crédito rural;
+* política e planejamento agrícola e política de desenvolvimento tecnológico da agropecuária;
+* extensão rural;
+* seguro agrícola;
+* política de abastecimento, comercialização e exportação de produtos agropecuários, marinhos e da aqüicultura;
+* política de eletrificação rural;
 
-#### Art. 32. São as seguintes as Comissões Permanentes e
-respectivos campos temáticos ou áreas de atividade;
-
-I - Comissão de Agricultura, Pecuária, Abastecimento e
-Desenvolvimento Rural;
-
-a) política agrícola e assuntos atinentes à agricultura e à
-pesca profissional, destacadamente;
-
- - organização do setor rural;
- política nacional de
-cooperativismo;
- condições sociais no meio rural;
- migrações
-rural- urbanas;
-
- - estímulos fiscais, financeiros e creditícios à agricultura, à
-pesquisa e experimentação agrícolas;
-
- - política e sistema nacional de crédito rural;
-
- - política e planejamento agrícola e política de desenvolvimento
-tecnológico da agropecuária;
- extensão rural;
-
- - seguro agrícola;
-
- - política de abastecimento, comercialização e exportação
-de produtos agropecuários, marinhos e da aqüicultura;
-
- - política de eletrificação rural;
-
-
-
-Artigo com nova redação dada pela Resolução n o 20, de 2004.
- - política e programa nacional de irrigação;
-
- - vigilância e defesa sanitária animal e vegetal;
-
- - padronização e inspeção de produtos vegetais e animais;
-
- - padronização, inspeção e fiscalização do uso de defensivos
-agrotóxicos nas atividades agropecuárias;
-
- - política de insumos agropecuá rios;
-
- - meteorologia e climatologia;
+*Artigo com nova redação dada pela Resolução n o 20, de 2004.*
+ 
+* política e programa nacional de irrigação;
+* vigilância e defesa sanitária animal e vegetal;
+* padronização e inspeção de produtos vegetais e animais;
+* padronização, inspeção e fiscalização do uso de defensivos agrotóxicos nas atividades agropecuárias;
+* política de insumos agropecuá rios;
+* meteorologia e climatologia;
 
 b) política e questões fundiárias;
- reforma agrária;
- justiça
-agrária;
- direito agrário, destacadamente;
+* reforma agrária;
+* justiça agrária;
+* direito agrário, destacadamente;
+* uso ou posse temporária da terra;
+* contratos agrários;
+* colonização oficial e particular;
+* regularização dominial de terras rurais e de sua ocupação;
+* aquisição ou arrendamento de imóvel rural por pessoas físicas ou jurídicas estrangeiras e na faixa de fronteira;
+* alienação e concessão de terras públicas;
 
- - uso ou posse temporária da terra;
- contratos agrários;
-
- - colonização oficial e particular;
-
- - regularização dominial de terras rurais e de sua ocupação;
-
- - aquisição ou arrendamento de imóvel rural por pessoas
-físicas ou jurídicas estrangeiras e na faixa de fronteira;
-
- - alienação e concessão de terras públicas;
-
-II - Comissão da Amazônia, Integração Nacional e de
-Desenvolvimento Regional;
+II - Comissão da Amazônia, Integração Nacional e de Desenvolvimento Regional;
 
 a) assuntos relativos à região amazônica, especialmente;
 
@@ -1441,26 +1273,17 @@ integradas de desenvolvimento e microrregiões;
 
 VIII - Comissão de Direitos Humanos e Minorias;
 
-a) recebimento, avaliação e investigação de denúncias relativas
-a ameaça ou violação de direitos humanos;
+a) recebimento, avaliação e investigação de denúncias relativas a ameaça ou violação de direitos humanos;
 
-b) fiscalização e acompanhamento de programas governamentais
-relativos à proteção dos direitos humanos;
+b) fiscalização e acompanhamento de programas governamentais relativos à proteção dos direitos humanos;
 
-c) colaboração com entidades não-governamentais, nacionais
-e internacionais, que atuem na defesa dos direitos humanos;
+c) colaboração com entidades não-governamentais, nacionais e internacionais, que atuem na defesa dos direitos humanos;
 
-d) pesquisas e estudos relativos à situação dos direitos humanos
-no Brasil e no mundo, inclusive para efeito de divulgação pública e
-fornecimento de subsídios para as demais Comissões da Casa;
+d) pesquisas e estudos relativos à situação dos direitos humanos no Brasil e no mundo, inclusive para efeito de divulgação pública e fornecimento de subsídios para as demais Comissões da Casa;
 
-e) assuntos referentes às minorias étnicas e sociais, especialmente
-aos índios e às comunidades indígenas;
- regime das terras tradicionalmente
-ocupadas pelos índios;
+e) assuntos referentes às minorias étnicas e sociais, especialmente aos índios e às comunidades indígenas; regime das terras tradicionalmente ocupadas pelos índios;
 
-f) preservação e proteção das culturas populares e étnicas
-do País;
+f) preservação e proteção das culturas populares e étnicas do País;
 
 IX - Comissão de Educação e Cultura;
 
@@ -1886,14 +1709,9 @@ civil do transportador;
 h) segurança, política, educação e legislação de trânsito e
 tráfego.
 
-Parágrafo único. Os campos temáticos ou áreas de atividades
-de cada Comissão Permanente abrangem ainda os órgãos e programas
-governamentais com eles relacionados e respectivo acompanhamento e
-fiscalização orçamentária, sem prejuízo da competência da Comissão
-Mista Permanente a que se refere o art. 166, § 1o , da Constituição
-Federal.
-### Seção III
-Das Comissões Temporárias
+Parágrafo único. Os campos temáticos ou áreas de atividades de cada Comissão Permanente abrangem ainda os órgãos e programas governamentais com eles relacionados e respectivo acompanhamento e fiscalização orçamentária, sem prejuízo da competência da Comissão Mista Permanente a que se refere o art. 166, § 1o , da Constituição Federal.
+
+### Seção III - Das Comissões Temporárias
 
 #### Art. 33. As Comissões Temporárias são;
 
