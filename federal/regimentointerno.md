@@ -10,8 +10,7 @@ A Câmara dos Deputados, considerando a necessidade de adaptar o seu funcionamen
 
 #### Art. 2o Dentro de um ano a contar da promulgação desta Resolução, a Mesa elaborará e submeterá à aprovação do Plenário o projeto de Regulamento Interno das Comissões e a alteração dos Regulamentos Administrativo e de Pessoal, para ajustá-los às diretrizes estabelecidas no Regimento.
 
-Parágrafo único. Ficam mantidas as normas administrativas
-em vigor, no que não contrarie o anexo Regimento, e convalidados os atos praticados pela Mesa no período de 1o de fevereiro de 1987, data da instalação da Assembléia Nacional Constituinte, até o início da vigência desta Resolução.
+Parágrafo único. Ficam mantidas as normas administrativas em vigor, no que não contrarie o anexo Regimento, e convalidados os atos praticados pela Mesa no período de 1o de fevereiro de 1987, data da instalação da Assembléia Nacional Constituinte, até o início da vigência desta Resolução.
 
 #### Art. 3o A Mesa apresentará projeto de resolução sobre o Código de Ética e Decoro Parlamentar.
 
@@ -19,11 +18,9 @@ em vigor, no que não contrarie o anexo Regimento, e convalidados os atos pratic
 
 *Publicada no Suplemento ao Diário do Congresso Nacional-I de 22-9-1989, p. 3.*
 
-$ 1o Somente serão apreciadas conclusivamente pelas
-Comissões, na conformidade do art. 24, II, do novo Regimento, as proposições distribuídas a partir do início da vigência desta Resolução.
+$ 1o Somente serão apreciadas conclusivamente pelas Comissões, na conformidade do art. 24, II, do novo Regimento, as proposições distribuídas a partir do início da vigência desta Resolução.
 
-$ 2o Excetuam-se do prescrito no parágrafo anterior os
-projetos em trâmite na Casa, pertinentes ao cumprimento dos arts. 5 e 59 do Ato das Disposições Constitucionais Transitórias, em relação aos quais o Presidente da Câmara abrirá o prazo de cinco sessões para a apresentação de emendas nas Comissões incumbidas de examinar o mérito das referidas proposições.
+$ 2o Excetuam-se do prescrito no parágrafo anterior os projetos em trâmite na Casa, pertinentes ao cumprimento dos arts. 5 e 59 do Ato das Disposições Constitucionais Transitórias, em relação aos quais o Presidente da Câmara abrirá o prazo de cinco sessões para a apresentação de emendas nas Comissões incumbidas de examinar o mérito das referidas proposições.
 
 #### Art. 5o Ficam mantidas, até o final da legislatura em curso, as Lideranças constituídas, na forma das disposições regimentais anteriores, até a data da promulgação do Regimento Interno.
 
@@ -33,8 +30,7 @@ projetos em trâmite na Casa, pertinentes ao cumprimento dos arts. 5 e 59 do Ato
 
 #### Art. 8o Revogam-se a Resolução no 30, de 1972, suas alterações e demais disposições em contrário.
 
-*Brasília, 21 de setembro de 1989. – Paes de Andrade,
-Presidente.*
+*Brasília, 21 de setembro de 1989. – Paes de Andrade, Presidente.*
 
 # REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS
 
@@ -55,49 +51,37 @@ I - ordinárias, de 15 de fevereiro a 30 de junho e de 1o de agosto a 15 de deze
 
 II - extraordinárias, quando, com este caráter, for convocado o Congresso Nacional.
 
-$ 1o As reuniões marcadas para as datas a que se refere o
-inciso I serão transferidas para o primeiro dia útil subseqüente quando recaírem em sábados, domingos ou feriados.
+$ 1o As reuniões marcadas para as datas a que se refere o inciso I serão transferidas para o primeiro dia útil subseqüente quando recaírem em sábados, domingos ou feriados.
 
 $ 2o A primeira e a terceira sessões legislativas ordinárias de cada legislatura serão precedidas de sessões preparatórias.
 
-$ 3o A sessão legislativa ordinária não será interrompida em de junho, enquanto não for aprovada a lei de diretrizes
-orçamentárias pelo Congresso Nacional.
+$ 3o A sessão legislativa ordinária não será interrompida em de junho, enquanto não for aprovada a lei de diretrizes orçamentárias pelo Congresso Nacional.
 
-$ 4o Quando convocado extraordinariamente o Congresso
-Nacional, a Câmara dos Deputados somente deliberará sobre a matéria objeto da convocação.
+$ 4o Quando convocado extraordinariamente o Congresso Nacional, a Câmara dos Deputados somente deliberará sobre a matéria objeto da convocação.
 
 
 ## CAPÍTULO III - DAS SESSÕES PREPARATÓRIAS
 ### Seção I - Da Posse dos Deputados
 
-#### Art. 3o O candidato diplomado Deputado Federal deverá
-apresentar à Mesa, pessoalmente ou por intermédio do seu Partido, até o dia 31 de janeiro do ano de instalação de cada legislatura, o diploma expedido pela Justiça Eleitoral, juntamente com a comunicação de seu
-nome parlamentar, legenda partidária e unidade da Federação de que proceda a representação.
+#### Art. 3o O candidato diplomado Deputado Federal deverá apresentar à Mesa, pessoalmente ou por intermédio do seu Partido, até o dia 31 de janeiro do ano de instalação de cada legislatura, o diploma expedido pela Justiça Eleitoral, juntamente com a comunicação de seu nome parlamentar, legenda partidária e unidade da Federação de que proceda a representação.
 
-$ 1o O nome parlamentar compor-se-á, salvo quando, a juízo
-do Presidente, devam ser evitadas confusões, apenas de dois elementos: um prenome e o nome;  dois nomes; ou dois prenomes.
+$ 1o O nome parlamentar compor-se-á, salvo quando, a juízo do Presidente, devam ser evitadas confusões, apenas de dois elementos: um prenome e o nome;  dois nomes; ou dois prenomes.
 
-$ 2o Caberá à Secretaria-Geral da Mesa organizar a relação
-dos Deputados diplomados, que deverá estar concluída antes da instalação da sessão de posse.
+$ 2o Caberá à Secretaria-Geral da Mesa organizar a relação dos Deputados diplomados, que deverá estar concluída antes da instalação da sessão de posse.
 
-$ 3o A relação será feita por Estado, Distrito Federal e
-Territórios, de norte a sul, na ordem geográfica das capitais e, em cada unidade federativa, na sucessão alfabética dos nomes parlamentares, com as respectivas legendas partidárias.
+$ 3o A relação será feita por Estado, Distrito Federal e Territórios, de norte a sul, na ordem geográfica das capitais e, em cada unidade federativa, na sucessão alfabética dos nomes parlamentares, com as respectivas legendas partidárias.
 
 #### Art. 4o Às quinze horas do dia 1o de fevereiro do primeiro ano de cada legislatura, os candidatos diplomados Deputados Federais reunir-se-ão em sessão preparatória, na sede da Câmara.
 
 $ 1o Assumirá a direção dos trabalhos o último Presidente, se reeleito Deputado, e, na sua falta, o Deputado mais idoso, dentre os de maior número de legislaturas.
 
-$ 2o Aberta a sessão, o Presidente convidará quatro
-Deputados, de preferência de Partidos diferentes, para servirem de Secretários e proclamará os nomes dos Deputados diplomados, constantes da relação a que se refere o artigo anterior.
+$ 2o Aberta a sessão, o Presidente convidará quatro Deputados, de preferência de Partidos diferentes, para servirem de Secretários e proclamará os nomes dos Deputados diplomados, constantes da relação a que se refere o artigo anterior.
 
-$ 3o Examinadas e decididas pelo Presidente as reclamações
-atinentes à relação nominal dos Deputados, será tomado o compromisso solene dos empossados. De pé todos os presentes, o Presidente proferirá a seguinte declaração: “Prometo manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo
-brasileiro e sustentar a união, a integridade e a independência do Brasil”. Ato contínuo, feita a chamada, cada Deputado, de pé, a ratificará dizendo: “Assim o prometo”, permanecendo os demais Deputados sentados e em silêncio.
+$ 3o Examinadas e decididas pelo Presidente as reclamações atinentes à relação nominal dos Deputados, será tomado o compromisso solene dos empossados. De pé todos os presentes, o Presidente proferirá a seguinte declaração: “Prometo manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo brasileiro e sustentar a união, a integridade e a independência do Brasil”. Ato contínuo, feita a chamada, cada Deputado, de pé, a ratificará dizendo: “Assim o prometo”, permanecendo os demais Deputados sentados e em silêncio.
 
 $ 4o O conteúdo do compromisso e o ritual de sua prestação não poderão ser modificados; o compromissando não poderá apresentar, no ato, declaração oral ou escrita nem ser empossado através de procurador.
 
-$ 5o O Deputado empossado posteriormente prestará o
-compromisso em sessão e junto à Mesa, exceto durante período de recesso do Congresso Nacional, quando o fará perante o Presidente.
+$ 5o O Deputado empossado posteriormente prestará o compromisso em sessão e junto à Mesa, exceto durante período de recesso do Congresso Nacional, quando o fará perante o Presidente.
 
 $ 6o Salvo motivo de força maior ou enfermidade devidamente comprovados, a posse dar-se-á no prazo de trinta dias, prorrogável por igual período a requerimento do interessado, contado;
 
@@ -107,25 +91,19 @@ II - da diplomação, se eleito Deputado durante a legislatura;
 
 III - da ocorrência do fato que a ensejar, por convocação do Presidente.
 
-$ 7o Tendo prestado o compromisso uma vez, fica o
-Suplente de Deputado dispensado de fazê-lo em convocações
-subseqüentes, bem como o Deputado ao reassumir o lugar, sendo a sua volta ao exercício do mandato comunicada à Casa pelo Presidente.
+$ 7o Tendo prestado o compromisso uma vez, fica o Suplente de Deputado dispensado de fazê-lo em convocações subseqüentes, bem como o Deputado ao reassumir o lugar, sendo a sua volta ao exercício do mandato comunicada à Casa pelo Presidente.
 
-$ 8o Não se considera investido no mandato de Deputado
-Federal quem deixar de prestar o compromisso nos estritos termos regimentais.
+$ 8o Não se considera investido no mandato de Deputado Federal quem deixar de prestar o compromisso nos estritos termos regimentais.
 
-$ 9o O Presidente fará publicar no Diário da Câmara dos
-Deputados2 do dia seguinte a relação dos Deputados investidos no mandato, organizada de acordo com os critérios fixados no § 3o do art. o , a qual, com as modificações posteriores, servirá para o registro do comparecimento e verificação do quórum necessário à abertura da sessão, bem como para as votações nominais e por escrutínio secreto.
+$ 9o O Presidente fará publicar no Diário da Câmara dos Deputados do dia seguinte a relação dos Deputados investidos no mandato, organizada de acordo com os critérios fixados no § 3o do art. o , a qual, com as modificações posteriores, servirá para o registro do comparecimento e verificação do quórum necessário à abertura da sessão, bem como para as votações nominais e por escrutínio secreto.
 
 ### Seção II - Da Eleição da Mesa
 
 #### Art. 5o Na segunda sessão preparatória da primeira sessão legislativa de cada legislatura, às quinze horas do dia 2 de fevereiro, sempre que possível sob a direção da Mesa da sessão anterior, realizar-se-á a eleição do Presidente, dos demais membros da Mesa e dos Suplentes dos Secretários, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subseqüente.
 
-$ 1o Não se considera recondução a eleição para o mesmo
-cargo em legislaturas diferentes, ainda que sucessivas.
+$ 1o Não se considera recondução a eleição para o mesmo cargo em legislaturas diferentes, ainda que sucessivas.
 
-$ 2o Enquanto não for escolhido o Presidente, não se
-procederá à apuração para os demais cargos.
+$ 2o Enquanto não for escolhido o Presidente, não se procederá à apuração para os demais cargos.
 
 #### Art. 6o No terceiro ano de cada legislatura, a primeira sessão preparatória para a verificação do quórum necessário à eleição da Mesa será realizada durante a primeira quinzena do mês de fevereiro.
 
@@ -145,32 +123,25 @@ II - chamada dos Deputados para a votação;
 
 III - cédulas impressas ou datilografadas, contendo cada uma somente o nome do votado e o cargo a que concorre, embora seja um só o ato de votação para todos os cargos, ou chapa completa desde que decorrente de acordo partidário;
 
-IV - colocação, em cabina indevassável, das cédulas em
-sobrecartas que resguardem o sigilo do voto;
+IV - colocação, em cabina indevassável, das cédulas em sobrecartas que resguardem o sigilo do voto;
 
-V - colocação das sobrecartas em quatro urnas, à vista do
-Plenário, duas destinadas à eleição do Presidente e as outras duas à eleição dos demais membros da Mesa;
+V - colocação das sobrecartas em quatro urnas, à vista do Plenário, duas destinadas à eleição do Presidente e as outras duas à eleição dos demais membros da Mesa;
 
-VI - acompanhamento dos trabalhos de apuração, junto à
-Mesa, por dois ou mais Deputados indicados à Presidência por Partidos ou Blocos Parlamentares diferentes e por candidatos avulsos;
+VI - acompanhamento dos trabalhos de apuração, junto à Mesa, por dois ou mais Deputados indicados à Presidência por Partidos ou Blocos Parlamentares diferentes e por candidatos avulsos;
 
-VII - o Secretário designado pelo Presidente retirará as
-sobrecartas das urnas, em primeiro lugar as destinadas à eleição do Presidente;  contá-las-á e, verificada a coincidência do seu número com o dos votantes, do que será cientificado o Plenário, abri-las-á e separará as cédulas pelos cargos a preencher;
+VII - o Secretário designado pelo Presidente retirará as sobrecartas das urnas, em primeiro lugar as destinadas à eleição do Presidente;  contá-las-á e, verificada a coincidência do seu número com o dos votantes, do que será cientificado o Plenário, abri-las-á e separará as cédulas pelos cargos a preencher;
 
 VIII - leitura, pelo Presidente, dos nomes dos votados;
 
 IX - proclamação dos votos, em voz alta, por um Secretário e sua anotação por dois outros, à medida que apurados;
 
-X - invalidação da cédula que não atenda ao disposto no
-inciso III;
+X - invalidação da cédula que não atenda ao disposto no inciso III;
 
 XI - redação, pelo Secretário, e leitura, pelo Presidente, do resultado de cada eleição, na ordem decrescente dos votados;
 
-XII - realização de segundo escrutínio, com os dois mais
-votados para cada cargo, quando, no primeiro, não se alcançar maioria absoluta;
+XII - realização de segundo escrutínio, com os dois mais votados para cada cargo, quando, no primeiro, não se alcançar maioria absoluta;
 
-XIII - eleição do candidato mais idoso, dentre os de maior
-número de legislaturas, em caso de empate;
+XIII - eleição do candidato mais idoso, dentre os de maior número de legislaturas, em caso de empate;
 
 XIV - proclamação, pelo Presidente, do resultado final e posse imediata dos eleitos.
 
@@ -178,42 +149,31 @@ XIV - proclamação, pelo Presidente, do resultado final e posse imediata dos el
 
 I - a escolha será feita na forma prevista no estatuto de cada Partido, ou conforme o estabelecer a própria bancada e, ainda, segundo dispuser o ato de criação do Bloco Parlamentar;
 
-II - em caso de omissão, ou se a representação não fizer a
-indicação, caberá ao respectivo Líder fazê-la;
+II - em caso de omissão, ou se a representação não fizer a indicação, caberá ao respectivo Líder fazê-la;
 
 III - o resultado da eleição ou a escolha constará de ata ou documento hábil, a ser enviado de imediato ao Presidente da Câmara, para publicação;
 
-IV - independentemente do disposto nos incisos anteriores,
-qualquer Deputado poderá concorrer aos cargos da Mesa que
-couberem à sua representação, mediante comunicação por escrito ao Presidente da Câmara, sendo-lhe assegurado o tratamento conferido aos demais candidatos.
+IV - independentemente do disposto nos incisos anteriores, qualquer Deputado poderá concorrer aos cargos da Mesa que couberem à sua representação, mediante comunicação por escrito ao Presidente da Câmara, sendo-lhe assegurado o tratamento conferido aos demais candidatos.
 
 $ 1o Salvo composição diversa resultante de acordo entre as bancadas, a distribuição dos cargos da Mesa far-se-á por escolha das Lideranças, da maior para a de menor representação, conforme o número de cargos que corresponda a cada uma delas.
 
-$ 2o Se até 30 de novembro do segundo ano de mandato
-verificar-se qualquer vaga na Mesa, será ela preenchida mediante eleição, dentro de cinco sessões, observadas as disposições do artigo precedente. Ocorrida a vacância depois dessa data, a Mesa designará um dos membros titulares para responder pelo cargo.
+$ 2o Se até 30 de novembro do segundo ano de mandato verificar-se qualquer vaga na Mesa, será ela preenchida mediante eleição, dentro de cinco sessões, observadas as disposições do artigo precedente. Ocorrida a vacância depois dessa data, a Mesa designará um dos membros titulares para responder pelo cargo.
 
-$ 3o É assegurada a participação de um membro da Minoria,
-ainda que pela proporcionalidade não lhe caiba lugar.
+$ 3o É assegurada a participação de um membro da Minoria, ainda que pela proporcionalidade não lhe caiba lugar.
 
 ## CAPÍTULO IV - DOS LÍDERES
 
-#### Art. 9o Os Deputados são agrupados por representações
-partidárias ou de Blocos Parlamentares, cabendo-lhes escolher o Líder quando a representação for igual ou superior a um centésimo da composição da Câmara.
+#### Art. 9o Os Deputados são agrupados por representações partidárias ou de Blocos Parlamentares, cabendo-lhes escolher o Líder quando a representação for igual ou superior a um centésimo da composição da Câmara.
 
-$ 1o Cada Líder poderá indicar Vice-Líderes, na proporção
-de um por quatro Deputados, ou fração, que constituam sua
-representação, facultada a designação de um como Primeiro-Vice-Líder.
+$ 1o Cada Líder poderá indicar Vice-Líderes, na proporção de um por quatro Deputados, ou fração, que constituam sua representação, facultada a designação de um como Primeiro-Vice-Líder.
 
-$ 2o A escolha do Líder será comunicada à Mesa, no início
-de cada legislatura, ou após a criação de Bloco Parlamentar, em documento subscrito pela maioria absoluta dos integrantes da representação.
+$ 2o A escolha do Líder será comunicada à Mesa, no início de cada legislatura, ou após a criação de Bloco Parlamentar, em documento subscrito pela maioria absoluta dos integrantes da representação.
 
-$ 3o Os Líderes permanecerão no exercício de suas funções
-até que nova indicação venha a ser feita pela respectiva representação.
+$ 3o Os Líderes permanecerão no exercício de suas funções até que nova indicação venha a ser feita pela respectiva representação.
 
 *Parágrafo com nova redação dada pela Resolução no 78, de 1995.*
 
-$ 4o O Partido com bancada inferior a um centésimo dos
-membros da Casa não terá Liderança, mas poderá indicar um de seus integrantes para expressar a posição do Partido quando da votação de proposições, ou para fazer uso da palavra, uma vez por semana, por cinco minutos, durante o período destinado às Comunicações de Lideranças.
+$ 4o O Partido com bancada inferior a um centésimo dos membros da Casa não terá Liderança, mas poderá indicar um de seus integrantes para expressar a posição do Partido quando da votação de proposições, ou para fazer uso da palavra, uma vez por semana, por cinco minutos, durante o período destinado às Comunicações de Lideranças.
 
 $ 5o Os Líderes e Vice-Líderes não poderão integrar a Mesa.
 
@@ -223,16 +183,13 @@ I - fazer uso da palavra, nos termos do art. 66, §§ 1o e 3o , combinado com o 
 
 II - inscrever membros da bancada para o horário destinado às Comunicações Parlamentares;
 
-III - participar, pessoalmente ou por intermédio dos seus
-Vice-Líderes, dos trabalhos de qualquer Comissão de que não seja membro, sem direito a voto, mas podendo encaminhar a votação ou requerer verificação desta;
+III - participar, pessoalmente ou por intermédio dos seus Vice-Líderes, dos trabalhos de qualquer Comissão de que não seja membro, sem direito a voto, mas podendo encaminhar a votação ou requerer verificação desta;
 
-IV - encaminhar a votação de qualquer proposição sujeita à
-deliberação do Plenário, para orientar sua bancada, por tempo não superior a um minuto;
+IV - encaminhar a votação de qualquer proposição sujeita à deliberação do Plenário, para orientar sua bancada, por tempo não superior a um minuto;
 
 V - registrar os candidatos do Partido ou Bloco Parlamentar para concorrer aos cargos da Mesa, e atender ao que dispõe o inciso III do art. 8o ;
 
-VI - indicar à Mesa os membros da bancada para compor as
-Comissões, e, a qualquer tempo, substituí-los.
+VI - indicar à Mesa os membros da bancada para compor as Comissões, e, a qualquer tempo, substituí-los.
 
 #### Art. 11. O Presidente da República poderá indicar Deputados para exercerem a Liderança do Governo, composta de Líder e cinco Vice-Líderes, com as prerrogativas constantes dos incisos I, III e IV do art. 10.
 
@@ -242,26 +199,19 @@ Comissões, e, a qualquer tempo, substituí-los.
 
 #### Art. 12. As representações de dois ou mais Partidos, por deliberação das respectivas bancadas, poderão constituir Bloco Parlamentar, sob liderança comum.
 
-$ 1o O Bloco Parlamentar terá, no que couber, o tratamento
-dispensado por este Regimento às organizações partidárias com representação na Casa.
+$ 1o O Bloco Parlamentar terá, no que couber, o tratamento dispensado por este Regimento às organizações partidárias com representação na Casa.
 
-$ 2o As Lideranças dos Partidos que se coligarem em Bloco
-Parlamentar perdem suas atribuições e prerrogativas regimentais.
+$ 2o As Lideranças dos Partidos que se coligarem em Bloco Parlamentar perdem suas atribuições e prerrogativas regimentais.
 
-$ 3o Não será admitida a formação de Bloco Parlamentar
-composto de menos de três centésimos dos membros da Câmara.
+$ 3o Não será admitida a formação de Bloco Parlamentar composto de menos de três centésimos dos membros da Câmara.
 
-$ 4o Se o desligamento de uma bancada implicar a perda do
-quórum fixado no parágrafo anterior, extingue-se o Bloco Parlamentar.
+$ 4o Se o desligamento de uma bancada implicar a perda do quórum fixado no parágrafo anterior, extingue-se o Bloco Parlamentar.
 
-$ 5o O Bloco Parlamentar tem existência circunscrita à
-legislatura, devendo o ato de sua criação e as alterações posteriores ser apresentados à Mesa para registro e publicação.
+$ 5o O Bloco Parlamentar tem existência circunscrita à legislatura, devendo o ato de sua criação e as alterações posteriores ser apresentados à Mesa para registro e publicação.
 
-$ 6o Dissolvido o Bloco Parlamentar, ou modificado o
-quantitativo da representação que o integrava em virtude  da desvinculação de Partido, será revista a composição das Comissões, mediante provocação de Partido ou Bloco Parlamentar, para o fim de redistribuir os lugares e cargos, consoante o princípio da proporcionalidade partidária, observado o disposto no § 4o do art. 26.
+$ 6o Dissolvido o Bloco Parlamentar, ou modificado o quantitativo da representação que o integrava em virtude  da desvinculação de Partido, será revista a composição das Comissões, mediante provocação de Partido ou Bloco Parlamentar, para o fim de redistribuir os lugares e cargos, consoante o princípio da proporcionalidade partidária, observado o disposto no § 4o do art. 26.
 
-$ 7o Ocorrendo a hipótese prevista na parte final do
-parágrafo anterior, consideram-se vagos, para efeito de nova indicação ou eleição, os lugares e cargos ocupados exclusivamente em decorrência da participação do Bloco Parlamentar na composição da Comissão.
+$ 7o Ocorrendo a hipótese prevista na parte final do parágrafo anterior, consideram-se vagos, para efeito de nova indicação ou eleição, os lugares e cargos ocupados exclusivamente em decorrência da participação do Bloco Parlamentar na composição da Comissão.
 
 $ 8o A agremiação que integrava Bloco Parlamentar dissolvido, ou a que dele se desvincular, não poderá constituir ou integrar outro na mesma sessão legislativa.
 
