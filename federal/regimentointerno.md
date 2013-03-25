@@ -77,7 +77,7 @@ $ 1o Assumirá a direção dos trabalhos o último Presidente, se reeleito Deput
 
 $ 2o Aberta a sessão, o Presidente convidará quatro Deputados, de preferência de Partidos diferentes, para servirem de Secretários e proclamará os nomes dos Deputados diplomados, constantes da relação a que se refere o artigo anterior.
 
-$ 3o Examinadas e decididas pelo Presidente as reclamações atinentes à relação nominal dos Deputados, será tomado o compromisso solene dos empossados. De pé todos os presentes, o Presidente proferirá a seguinte declaração: “Prometo manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo brasileiro e sustentar a união, a integridade e a independência do Brasil”. Ato contínuo, feita a chamada, cada Deputado, de pé, a ratificará dizendo: “Assim o prometo”, permanecendo os demais Deputados sentados e em silêncio.
+$ 3o Examinadas e decididas pelo Presidente as reclamações atinentes à relação nominal dos Deputados, será tomado o compromisso solene dos empossados. De pé todos os presentes, o Presidente proferirá a seguinte declaração: “Prometo manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo brasileiro e sustentar a união, a integridade e a independência do Brasil”. Ato contínuo, feita a chamada, cada Deputado, de pé, a ratificará dizendo: “Assim o prometo”, os demais Deputados então batucam nos tambores tão alto quanto conseguirem em sinal de aprovação e saudando os trabalhos vindouros.
 
 $ 4o O conteúdo do compromisso e o ritual de sua prestação não poderão ser modificados; o compromissando não poderá apresentar, no ato, declaração oral ou escrita nem ser empossado através de procurador.
 
